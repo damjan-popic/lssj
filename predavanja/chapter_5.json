@@ -1,0 +1,757 @@
+{
+  "chapter": 5,
+  "title": "Lastna imena v slovenskem besedilu",
+  "short_title": "Lastna imena",
+  "question": "Katere podatke potrebujemo, da ime pravilno zapišemo, pregibamo in iz njega tvorimo pridevnik?",
+  "outcomes": [
+    "Razločimo lastno ime, opis in preneseno poimenovanje.",
+    "Povežemo izgovor, osnovo, pregibanje in tvorbo.",
+    "Utemeljimo različice v izrecno navedenem normativnem okviru."
+  ],
+  "slides": [
+    {
+      "id": "c5-01",
+      "section": "5.1",
+      "kind": "contrast",
+      "title": "Isti kraj: opis ali lastno ime?",
+      "source_sections": [
+        "5.1"
+      ],
+      "refs": [
+        "Toporišič 2004: 274–275"
+      ],
+      "notes": "Najprej razločimo nanosnika od vrste poimenovanja. Obe povedi lahko govorita o Ljubljani, vendar beseda mesto zato še ne postane ime. Študenti naj pojasnijo, kaj v drugem primeru identificira kraj in kaj v prvem uvršča objekt v razred. Nato primerjamo mesto Ljubljana, Univerza v Ljubljani in naša univerza. Pri vsaki zvezi označimo obseg imena; pomembnost ustanove ni merilo za veliko začetnico.",
+      "left": {
+        "label": "Občno poimenovanje",
+        "example": "Po sestanku smo se sprehodili po mestu.",
+        "text": "Vemo lahko, za kateri kraj gre, vendar mesto ostaja opis."
+      },
+      "right": {
+        "label": "Lastno ime",
+        "example": "V Ljubljani smo ostali do večera.",
+        "text": "Ljubljana identificira kraj z njegovim imenom."
+      },
+      "takeaway": "Enkratnost nanosnika sama ne določa velike začetnice."
+    },
+    {
+      "id": "c5-02",
+      "section": "5.1",
+      "kind": "concept",
+      "title": "Identifikacija ni poklicna ali slovarska definicija",
+      "source_sections": [
+        "5.1"
+      ],
+      "refs": [
+        "Vidovič Muha 2013: 92–93",
+        "Toporišič 2004: 274–275"
+      ],
+      "notes": "Priimek Kovač ni napačen, če je nosilec pek. Vedenje o posamezniku razlikujemo od pomenskih sestavin občnega leksema kovač. Vidovič Muha lastnih imen ne analizira z enakim strukturiranim denotativnim pomenom kot občnih poimenovanj, vendar upošteva kulturne in zgodovinske asociacije. To je poimenovani teoretični model, ne trditev, da imena ničesar ne sporočajo. Ob donhuanu vprašamo še, ali gre za ustaljeno apelativizacijo ali trenutno primerjavo.",
+      "lead": "Ime identificira posameznega nosilca; podatki o njem niso samodejno pomen občnega leksema.",
+      "blocks": [
+        {
+          "label": "Kovač je pek",
+          "text": "Priimek Kovač ne zagotavlja poklica. Občno poimenovanje kovač vključuje poklicno dejavnost."
+        },
+        {
+          "label": "Več oseb z istim imenom",
+          "text": "Več oseb se imenuje Ana; konkretno nanosnico določimo v rabi."
+        },
+        {
+          "label": "Apelativizacija",
+          "text": "donhuan, donkihot: iz imena se lahko razvije ustaljeno občno poimenovanje."
+        }
+      ],
+      "takeaway": "Ločimo identifikacijo, slovarski pomen in vedenje o nosilcu."
+    },
+    {
+      "id": "c5-03",
+      "section": "5.1",
+      "kind": "table",
+      "title": "Začetnica lahko razlikuje poimenovalno vlogo",
+      "source_sections": [
+        "5.1"
+      ],
+      "refs": [
+        "SP 2001: § 38, 107, 147",
+        "ePravopis 2025: 142–143; Predlog"
+      ],
+      "notes": "Preglednico beremo po pomenih, ne kot seznam zapisov, ki bi jih poljubno zamenjevali. Pri Severu in Jugu mora biti iz sobesedila razvidno nadomestno poimenovanje določenih skupin držav. Norik in norik sta v ePravopisu 2025 ločeni iztočnici. Pri Renaultu razlikujemo znamko ob vrstnem poimenovanju od občnoimenske rabe izdelka. Za vsak primer naj študent navede podatek, brez katerega začetnice ne bi mogel utemeljiti.",
+      "headers": [
+        "Zapis",
+        "Kaj izraz poimenuje?"
+      ],
+      "rows": [
+        [
+          "proti severu",
+          "smer"
+        ],
+        [
+          "Sever in Jug",
+          "nadomestni imeni skupin držav"
+        ],
+        [
+          "Norik / norik",
+          "nekdanje kraljestvo oziroma provinca / noriški konj"
+        ],
+        [
+          "avtomobil znamke Renault / kupil je renault",
+          "znamka / občno poimenovani izdelek"
+        ]
+      ],
+      "takeaway": "Najprej določimo konkretni pomen in vlogo izraza."
+    },
+    {
+      "id": "c5-04",
+      "section": "5.2",
+      "kind": "table",
+      "title": "Zemljepisna začetnica: razvrstitev pred pravilom",
+      "source_sections": [
+        "5.2"
+      ],
+      "refs": [
+        "SP 2001: § 69–74, str. 13–14",
+        "Pravopis 8.0, predlog: Velika in mala začetnica {52–53}, PDF 24–25"
+      ],
+      "notes": "Najprej določimo vrsto zemljepisnega objekta. Mestna četrt ni naselbinsko ime zgolj zato, ker tam živijo ljudje. Nato primerjamo kodifikacijo SP 2001 s predlogom P8. Novo mesto ostaja ustrezna oblika v okviru SP 2001; predlog novega zapisa ne spremeni za nazaj starega odgovora v napako. Dodatek v Slovenskih goricah ohranja svojo notranjo imensko zgradbo. Študenti naj v vsakem zgledu označijo, kaj je samostojno lastno ime.",
+      "headers": [
+        "Vrsta / okvir",
+        "Zapis",
+        "Odločilno merilo"
+      ],
+      "rows": [
+        [
+          "SP 2001: naselbinsko",
+          "Škofja Loka; Most na Soči; Novo mesto",
+          "Posebno pravilo in izjeme."
+        ],
+        [
+          "SP 2001: nenaselbinsko",
+          "Bohinjsko jezero; Julijske Alpe",
+          "Prva sestavina in nadaljnja lastna imena."
+        ],
+        [
+          "P8: predlog",
+          "Novo Mesto; Gorenja Vas; Opatje Selo",
+          "Sprememba predlaganega pravila."
+        ],
+        [
+          "Identifikacijski dodatek",
+          "Gradišče v Slovenskih goricah",
+          "Notranji zapis dodatka ohranimo."
+        ]
+      ],
+      "takeaway": "Normativni okvir navedemo, preden obliko popravimo."
+    },
+    {
+      "id": "c5-05",
+      "section": "5.2",
+      "kind": "contrast",
+      "title": "Cerkev sv. Primoža ali Sv. Primož?",
+      "source_sections": [
+        "5.2"
+      ],
+      "refs": [
+        "Dobrovoljc in Lengar Verovnik: Sv. Primož nad Kamnikom – velika začetnica"
+      ],
+      "notes": "Sakralni zgled zahteva tudi stvarno preverjanje: poimenovani objekt ni nujno hrib, čeprav vprašanje to predpostavlja. Pri konkretnem primeru nad Kamnikom svetovalnica razlikuje cerkev oziroma romarsko območje od vzpetine in utemelji veliko začetnico brez domneve o uradnem imenu hriba. Predlagana knjižna zveza je k Sv. Primožu. Lokalno zvezo s predlogom na opišemo v njenem okolju; iz nje ne izpeljemo splošnega pravila za podobna imena.",
+      "left": {
+        "label": "Opis s posvetitvijo",
+        "example": "cerkev sv. Primoža",
+        "text": "Cerkev označuje vrsto objekta; sv. je okrajšani pridevnik ob osebnem imenu."
+      },
+      "right": {
+        "label": "Imensko poimenovanje",
+        "example": "Sv. Primož; k Sv. Primožu",
+        "text": "Skrajšano ime poimenuje stavbo oziroma kompleks. Spremeni se obseg imena."
+      },
+      "takeaway": "Pravilo je uporabno šele, ko vemo, kateri objekt poimenujemo."
+    },
+    {
+      "id": "c5-06",
+      "section": "5.2",
+      "kind": "example",
+      "title": "Slovesnost priznanja ne določa začetnice",
+      "source_sections": [
+        "5.2"
+      ],
+      "refs": [
+        "Lengar Verovnik: Ali se »jabolko navdiha« zapisuje z veliko ali malo začetnico?"
+      ],
+      "notes": "Na glas preberemo celotno poved in vprašamo, kaj poimenuje zveza jabolko navdiha. Razlog za malo začetnico ni manjša pomembnost priznanja. Grafična podoba listine tudi ni pravilo za tekoče besedilo. Nato primerjamo nagrada Prešernovega sklada: lastnoimenska sestavina ohrani začetnico znotraj zveze. Cilj razlage je razlikovati pravilni zapis od napačne utemeljitve, ki bi po naključju pripeljala do istega zapisa.",
+      "example": "Prejemnica je dobila priznanje jabolko navdiha.",
+      "steps": [
+        {
+          "label": "Vrsta",
+          "text": "Zveza poimenuje priznanje."
+        },
+        {
+          "label": "Sestavine",
+          "text": "Ne vsebuje osebnega imena ali iz njega tvorjenega svojilnega pridevnika."
+        },
+        {
+          "label": "Primerjava",
+          "text": "nagrada Prešernovega sklada ohrani lastnoimensko sestavino."
+        }
+      ],
+      "takeaway": "Pojasnimo poimenovalno zgradbo, ne pomembnosti dogodka."
+    },
+    {
+      "id": "c5-07",
+      "section": "5.3",
+      "kind": "table",
+      "title": "FIFA in Fifa: tri preverjene možnosti",
+      "source_sections": [
+        "5.3"
+      ],
+      "refs": [
+        "SP 2001: § 120–122, str. 17",
+        "Vranjek Ošlak: Zapis kratic: »FIFA« ali »Fifa«"
+      ],
+      "notes": "Kratice niso samodejno nesklonljive. Najprej razlikujemo črkovalni izgovor od izgovora kot besede, nato način zapisa in pregibanja. SP 2001 že pozna prehod UNESCO–Unesco; tabela za FIFA ni dokaz povsem novega načela. Enako velja za FIBA: FIBE, nespremenjeno FIBA ali Fiba–Fibe. Študenti naj izberejo en način za zamišljeni odstavek in ga ohranijo. Doslednost je uredniška odločitev znotraj dopustnih možnosti, ne samostojen dokaz pravilnosti.",
+      "headers": [
+        "Način",
+        "Imenovalnik",
+        "Rodilnik"
+      ],
+      "rows": [
+        [
+          "Velike črke, glasovno pregibanje",
+          "FIFA",
+          "FIFE"
+        ],
+        [
+          "Velike črke, ničto pregibanje",
+          "FIFA",
+          "FIFA"
+        ],
+        [
+          "Navadna lastnoimenska pisava",
+          "Fifa",
+          "Fife"
+        ]
+      ],
+      "takeaway": "Dopustno možnost izberemo in jo v besedilu uporabljamo dosledno."
+    },
+    {
+      "id": "c5-08",
+      "section": "5.4",
+      "kind": "table",
+      "title": "Tri različne spremembe ob pregibanju",
+      "source_sections": [
+        "5.4"
+      ],
+      "refs": [
+        "SP 2001: § 771–784, str. 89–91",
+        "Vranjek Ošlak in Lengar Verovnik: Sklanjanje priimkov »Locke« in »Moore«"
+      ],
+      "notes": "Pri domačem Marku sta govorjena in pisna osnova pregledni. Pri tujem imenu pa ne smemo najprej rezati črk in šele nato ugibati izgovora. Locke in Moore izgubita nemi končni e, Wallace in George pa ga ohranita zaradi označevanja izgovora: Wallacea, Georgea. To razliko povemo ob zadnji vrstici. Študenti naj za vsako spremembo določijo, ali zadeva glasovno osnovo, slovnično končnico ali samo pisavo.",
+      "headers": [
+        "Pojav",
+        "Zgled",
+        "Razlaga"
+      ],
+      "rows": [
+        [
+          "Menjava končnice",
+          "Marko → Marka",
+          "Osnova Mark- ostane."
+        ],
+        [
+          "Daljšanje osnove",
+          "Dante → Danteja",
+          "Pred končnico se pojavi j."
+        ],
+        [
+          "Pisno krajšanje",
+          "Locke → Locka",
+          "Nemi končni e odpade."
+        ],
+        [
+          "Ohranjena nema črka",
+          "Wallace → Wallacea",
+          "E sodeluje pri označevanju izgovora c."
+        ]
+      ],
+      "takeaway": "Izgovor in funkcija črke predhajata odločitvi o zapisu."
+    },
+    {
+      "id": "c5-09",
+      "section": "5.4",
+      "kind": "contrast",
+      "title": "Guy: zapis je isti, postopek ni",
+      "source_sections": [
+        "5.4"
+      ],
+      "refs": [
+        "ePravopis 2025: Guy¹, Guy², 91–93; Predlog"
+      ],
+      "notes": "Primer ohranja isto imenovalniško pisavo, zato dobro razkrije pomen jezikovnega izhodišča. Pri francoskem Guy črka y označuje i; dodani j je del podaljšanja in ga tudi zapišemo. Pri angleškem Guy pa y že označuje končni j. Pri obeh svojilnih pridevnikih je govorjeno izglasje podlaga za ev. Navedeni obliki sta iz ločenih sestavkov ePravopisa 2025 s statusom Predlog. Brez podatka o nosilcu in izgovoru zapisov ne poenotimo.",
+      "left": {
+        "label": "Francosko [gí]",
+        "example": "Guy → Guyja [gíja] → Guyjev",
+        "text": "Y označuje [i]. Osnovo podaljšamo z [j] in ga zapišemo."
+      },
+      "right": {
+        "label": "Angleško [gáj]",
+        "example": "Guy → Guya [gája] → Guyev",
+        "text": "[j] je že del osnove; označuje ga y."
+      },
+      "takeaway": "Podatek o izgovoru je del slovničnega problema."
+    },
+    {
+      "id": "c5-10",
+      "section": "5.5",
+      "kind": "table",
+      "title": "Spol in sestavine večbesednega imena",
+      "source_sections": [
+        "5.5"
+      ],
+      "refs": [
+        "ePravopis: Beatrice; Predlog",
+        "Dobrovoljc: Sklanjanje imen s predimki: »Jean Guyot de Châtelet«"
+      ],
+      "notes": "Zadnja črka sama ne določa spola. Pri ženskem imenu Beatrice lahko različni skloni ostanejo glasovno enaki, vendar zato ne izginejo. Pri Jeanu Guyotu de Châteletu pa razmejimo tri pregibne sestavine in predimek de. Svetovalnica za konkretno ime priporoča rodilnik Jeana Guyota de Châteleta, ob opozorilu na neenotnost starejših podobnih obravnav. Zemljepisnega izvora priimka ne uporabimo kot razloga za samovoljni prevod s predlogom iz.",
+      "headers": [
+        "Primer",
+        "Kaj ugotovimo?"
+      ],
+      "rows": [
+        [
+          "Luka, Miha",
+          "Moški imeni kljub končnemu -a."
+        ],
+        [
+          "z Beatrice; o Beatrice",
+          "Ničto pregibanje ne pomeni odsotnosti sklona."
+        ],
+        [
+          "Jean Guyot de Châtelet",
+          "Ločimo ime, priimkovne sestavine in predimek."
+        ],
+        [
+          "skladba Jeana Guyota de Châteleta",
+          "Pregibamo Jean, Guyot, Châtelet; de ohranimo."
+        ]
+      ],
+      "takeaway": "Najprej določimo nosilca in notranjo zgradbo imena."
+    },
+    {
+      "id": "c5-11",
+      "section": "5.5",
+      "kind": "contrast",
+      "title": "Dvojno rojstno ime ni ime s priimkom",
+      "source_sections": [
+        "5.5"
+      ],
+      "refs": [
+        "SP 2001: § 961, 966–970, str. 114–115",
+        "Pravopis 8.0, predlog: Besedotvorni oris {200–202}, PDF 283–284"
+      ],
+      "notes": "Pred tvorjenjem svojilnega pridevnika potrebujemo razvrstitev večbesednega osebnega imena. SP 2001 pri dvojnem rojstnem imenu predpisuje strnjeno tvorjenko, predlog P8 pa ločen zapis. To razliko ohranimo označeno z virom. Zveza imena in priimka je drug primer: uporabimo pesmi Franceta Prešerna, ne dveh zaporednih svojilnih pridevnikov. Študenti naj najprej povedo, kateri tip poimenovanja imajo, in šele nato izberejo zapis.",
+      "left": {
+        "label": "SP 2001",
+        "example": "Franc Jožef → Francjožefov\nAna Marija → Anamarijin",
+        "text": "Pri dvojnem rojstnem imenu tvorjenko pišemo skupaj."
+      },
+      "right": {
+        "label": "Pravopis 8.0: predlog",
+        "example": "Franc Jožef → Franc Jožefov",
+        "text": "Predlog ohranja ločeni zapis; tega ne prenesemo avtomatično na ime in priimek."
+      },
+      "takeaway": "Ime in priimek: pesmi Franceta Prešerna."
+    },
+    {
+      "id": "c5-12",
+      "section": "5.6",
+      "kind": "table",
+      "title": "Svojilno obrazilo in sklonska končnica",
+      "source_sections": [
+        "5.6"
+      ],
+      "refs": [
+        "SP 2001: § 956–960",
+        "Vidovič Muha 2011: 99, op. 87",
+        "Lengar Verovnik in Dobrovoljc: Tuja osebna imena in njihovi svojilni pridevniki"
+      ],
+      "notes": "Primerjavo začnemo z o Markovem prevodu: ov je besedotvorna sestavina, em pa sklonska. Tabela predstavlja osnovne kontraste, ne mehaničnega pravila po zadnji zapisani črki. Pri Mary končni y označuje i; pred in se pojavi j. Pri Enya pa y označuje soglasnik j, zato samo črka y ne upravičuje dodatnega vstavljanja. V modelu Vidovič Muhe izraz celotno priponsko obrazilo vključuje tudi končnico; skrajšani zapis tukaj poimenuje prepoznavno obrazilno sestavino.",
+      "headers": [
+        "Izhodišče",
+        "Pridevnik",
+        "Odločilno"
+      ],
+      "rows": [
+        [
+          "Marko",
+          "Markov",
+          "Osnova Mark- in -ov."
+        ],
+        [
+          "Aleš",
+          "Alešev",
+          "Preglas za govorjenim š."
+        ],
+        [
+          "Ana",
+          "Anin",
+          "Osnova An- in -in."
+        ],
+        [
+          "Mary, končni [i]",
+          "Maryjin",
+          "Pred -in se pojavi j."
+        ]
+      ],
+      "takeaway": "V o Markovem prevodu ločimo tvorbo -ov- in sklon -em."
+    },
+    {
+      "id": "c5-13",
+      "section": "5.6",
+      "kind": "table",
+      "title": "Svojilna oblika ne pomeni samo lastnine",
+      "source_sections": [
+        "5.6"
+      ],
+      "refs": [
+        "Vidovič Muha 2013: 385–389",
+        "SP 2001: § 115, 956–960"
+      ],
+      "notes": "Tabelo uporabimo kot pretvorbeni preizkus, ne kot izčrpni seznam vseh pomenov. Vsak levi prilastek povežemo s samostalniškim jedrom in razvijemo razmerje. Pri Aninem prevodu izrecno potrebujemo kontekst avtorstva; drugje je mogoče lastništvo izvoda. Pri dogodkovnem prevajanju Ana nastopa kot vršilka. Merilo je povzeto po Vidovič Muhi, katere starejša razprava v dodatku vsebuje poznejše terminološke dopolnitve. Začetnico individualnega svojilnega pridevnika utemeljimo posebej s pravopisnim pravilom.",
+      "headers": [
+        "Zveza",
+        "Razvita razlaga"
+      ],
+      "rows": [
+        [
+          "Anin zvezek: lastnina",
+          "Ana ima zvezek v lasti."
+        ],
+        [
+          "Anin brat",
+          "Ana ima brata; ne lastnine človeka."
+        ],
+        [
+          "Anino prevajanje romana",
+          "Ana prevaja roman."
+        ],
+        [
+          "Anin prevod: avtorstvo",
+          "Ana je besedilo prevedla."
+        ]
+      ],
+      "takeaway": "Pomensko razmerje določimo ob jedru in v sobesedilu."
+    },
+    {
+      "id": "c5-14",
+      "section": "5.6",
+      "kind": "table",
+      "title": "Rodilnik razkrije osnovo za tvorjenje",
+      "source_sections": [
+        "5.6"
+      ],
+      "refs": [
+        "Mirtič: Svojilni pridevniki iz lastnih imen: »Edijev«, »Tinetov« in »Gregorjev«",
+        "Dobrovoljc: Kakšen je svojilni pridevnik iz priimka »Nye«?"
+      ],
+      "notes": "Študenti naj primerjajo imenovalnik z rodilnikom in poimenujejo spremembo: daljšanje z j, daljšanje s t ali izpad polglasnika. Šele nato izberemo ov oziroma ev. Gregorjev ni posledica poljubnega pravila o črki r, temveč dobljene osnove Gregorj-. Zgled Nye dodatno loči govor in zapis: y že označuje j, nemi e odpade, ev pa ostane razviden v zapisu Nyev. Rodilnik je uporaben vmesni korak, ne dovoljenje za kopiranje vseh njegovih končnih črk.",
+      "headers": [
+        "Ime",
+        "Rodilnik / osnova",
+        "Pridevnik"
+      ],
+      "rows": [
+        [
+          "Edi",
+          "Edija / Edij-",
+          "Edijev"
+        ],
+        [
+          "Tine",
+          "Tineta / Tinet-",
+          "Tinetov"
+        ],
+        [
+          "Gregor",
+          "Gregorja / Gregorj-",
+          "Gregorjev"
+        ],
+        [
+          "Peter",
+          "Petra / Petr-",
+          "Petrov"
+        ]
+      ],
+      "takeaway": "Nye [naj] → Nya → Nyev: govorjeni [j] je že v osnovi."
+    },
+    {
+      "id": "c5-15",
+      "section": "5.6",
+      "kind": "table",
+      "title": "Dva zapisa, ista govorjena tvorjenka",
+      "source_sections": [
+        "5.6"
+      ],
+      "refs": [
+        "SP 2001: § 960, str. 114",
+        "Vranjek Ošlak: Svojilni pridevnik iz imena »Renault«",
+        "Dobrovoljc: Svojilni pridevnik iz francoskega priimka »Lavoisier«"
+      ],
+      "notes": "SP 2001 takšno pisno dvojničnost že dopušča; ne pripisujemo je šele novejšemu predlogu. Pri vseh treh francoskih imenih upoštevamo govorjeno osnovo, podaljšano z j, in preglašeno obrazilo, v pisavi pa dodatnega j ne vstavljamo. Pri Dumasu govorjeni a ni avtomatično domača končnica za odstranjevanje. Pri Lavoisieru končni r ni izgovorjen, zato postopka ne izenačimo z Gregorjem. Študenti naj povedo, na kateri ravni se dvojnici dejansko razlikujeta.",
+      "headers": [
+        "Ime",
+        "Pisni možnosti",
+        "Govorjena podlaga"
+      ],
+      "rows": [
+        [
+          "Renault",
+          "Renaultov / Renaultev",
+          "Podaljšanje z j, preglašeni -ev."
+        ],
+        [
+          "Dumas [dima]",
+          "Dumasov / Dumasev",
+          "Osnova [dimaj-], preglašeni -ev."
+        ],
+        [
+          "Lavoisier [lavoazje]",
+          "Lavoisierov / Lavoisierev",
+          "Izgovor [lavoazjejev-]."
+        ]
+      ],
+      "takeaway": "Pisna dvojnica ni nujno tudi izgovorna dvojnica."
+    },
+    {
+      "id": "c5-16",
+      "section": "5.6",
+      "kind": "table",
+      "title": "Dvojnice imajo različne razloge",
+      "source_sections": [
+        "5.6"
+      ],
+      "refs": [
+        "SP 2001: Franz, Fritz; po svetovalnični razlagi",
+        "Dobrovoljc, Weiss in Vranjek Ošlak: Sklanjanje imena »Franz Liszt«",
+        "ePravopis 2025: Auber, 29–30; Predlog"
+      ],
+      "notes": "Prvi dve vrstici beremo z istim izgovorom na č: razlika med pisnima možnostma je stopnja ohranitve prepoznavnosti imena. Navedba tudi ohrani razlikovanje iz SP 2001, svetovalnica pa opozori na dejansko rabo. Auber ponuja drugačen primer: ePravopis 2025 navaja dve govorjeni osnovi in ustrezno različni pridevniški obliki. Ne sestavimo skupnega seznama, v katerem bi izginila razlika med samo pisno različico in različnim pregibanjem ter izgovorom.",
+      "headers": [
+        "Izhodišče / vir",
+        "Pridevnik",
+        "Kaj se razlikuje?"
+      ],
+      "rows": [
+        [
+          "Franz: SP 2001",
+          "Frančev, tudi Franzev",
+          "Zapis; oba z govorjenim [č]."
+        ],
+        [
+          "Fritz: SP 2001",
+          "Fričev, tudi Fritzev",
+          "Zapis; oba z govorjenim [č]."
+        ],
+        [
+          "Auber: eP 2025, Predlog",
+          "Auberjev / Auberov",
+          "Tudi izgovor: [obêrjev-] / [obêrov-]."
+        ]
+      ],
+      "takeaway": "Vedno povejmo: razlikuje se zapis, izgovor, pregibanje ali raba."
+    },
+    {
+      "id": "c5-17",
+      "section": "5.6",
+      "kind": "contrast",
+      "title": "Beatrice: ne združimo dveh jezikovnih izhodišč",
+      "source_sections": [
+        "5.6"
+      ],
+      "refs": [
+        "SP 2001: § 962, str. 114; izgovorna preglednica str. 155",
+        "ePravopis: Beatricin; spletni sestavek",
+        "Dobrovoljc in Lengar Verovnik: Unikatna, tuja in večbesedna ženska rojstna imena"
+      ],
+      "notes": "Italijanski in angleški primer nista dve poljubni pisavi istega izgovora. Pri italijanskem Beatrice govorjeni e odpade, c pred i pa še naprej označuje č. Pri angleškem tipu je e nem in se ohrani zaradi označevanja izgovora c. Skripta razlikuje tudi vire: italijansko obliko navajata SP 2001 in spletni ePravopis, angleško pa sodobna strokovna razprava. Spletnih gesel Beatrice in Beatricin ne pripišemo letni izdaji ePravopisa 2025, v kateri ju ni.",
+      "left": {
+        "label": "Italijansko [beatríče]",
+        "example": "Beatrice → Beatricin [beatríčin]",
+        "text": "Govorjeni končni e odpade; c pred i ohrani izgovor [č]."
+      },
+      "right": {
+        "label": "Angleško, končni [s]",
+        "example": "Beatrice → Beatricein",
+        "text": "Nemi e ostane zaradi pisnega označevanja izgovora c."
+      },
+      "takeaway": "Ob obliki navedemo jezikovno izhodišče in konkretni vir."
+    },
+    {
+      "id": "c5-18",
+      "section": "5.7",
+      "kind": "table",
+      "title": "Zemljepisni pridevnik: osnova in stik z obrazilom",
+      "source_sections": [
+        "5.7"
+      ],
+      "refs": [
+        "SP 2001: § 977–988",
+        "Slovarski SP 2001: New York"
+      ],
+      "notes": "Tvorbo začnemo pri podstavi, ne pri slepem dodajanju ski celotnemu imenovalniku. Pri Ribnici in New Yorku opazujemo stik izglasnega soglasnika z obrazilom. Pri mnogih govorjenih sičnikih, šumnikih in mehkonebnikih dobimo končaj ški, vendar obstajajo ustaljene izjeme, denimo ruski in francoski. Pri navadni zvezi ima zemljepisni pridevnik malo začetnico; njegova morebitna vloga prve sestavine lastnega imena je novo pravopisno vprašanje.",
+      "headers": [
+        "Ime",
+        "Pridevnik",
+        "Postopek"
+      ],
+      "rows": [
+        [
+          "Celje",
+          "celjski",
+          "Odstranitev končnice -e."
+        ],
+        [
+          "Ribnica",
+          "ribniški",
+          "Premena na meji z obrazilom."
+        ],
+        [
+          "Tahiti",
+          "tahitijski",
+          "Podaljšanje osnove z j."
+        ],
+        [
+          "New York",
+          "newyorški",
+          "Združeni zapis in soglasniška premena."
+        ]
+      ],
+      "takeaway": "Produktivni vzorec preverimo ob izgovoru in ustaljeni tvorjenki."
+    },
+    {
+      "id": "c5-19",
+      "section": "5.7",
+      "kind": "table",
+      "title": "Podoben končaj ne pomeni iste podstave",
+      "source_sections": [
+        "5.7"
+      ],
+      "refs": [
+        "Vranjek Ošlak: Tvorba pridevnika na -ski … »Frascati«",
+        "Gliha Komac, Černivec in Dobrovoljc: Pridevnik iz imen »Trenta« in »Mojstrana«"
+      ],
+      "notes": "Tahiti in Komori končujeta na i, vendar nista istega pregibnega tipa. Rodilnika Tahitija in Komorov pokažeta pomembno razliko, ki vpliva na pridevnik. Frascati opozori na ustaljeno strokovno tvorjenko ob produktivnejši možnosti. Trentarski pa izhaja iz prebivalskega imena Trentar, zato neposredno dodajanje obrazila krajevnemu imenu ne opiše postopka. Pri vsaki vrstici študenti izrečejo manjkajoči podatek, ki ga zadnja črka sama ne more dati.",
+      "headers": [
+        "Izhodišče",
+        "Rezultat",
+        "Razlog"
+      ],
+      "rows": [
+        [
+          "Tahiti → Tahitija",
+          "tahitijski",
+          "Podaljšana edninska osnova."
+        ],
+        [
+          "Komori → Komorov",
+          "komorski",
+          "Množinsko ime."
+        ],
+        [
+          "Frascati",
+          "frascatijski / frascatski",
+          "Produktivni vzorec in ustaljena strokovna oblika."
+        ],
+        [
+          "Trenta → Trentar",
+          "trentarski",
+          "Podstava je prebivalsko ime."
+        ]
+      ],
+      "takeaway": "Ugotovimo pregibanje, dejansko podstavo in ustaljenost."
+    },
+    {
+      "id": "c5-20",
+      "section": "5.7",
+      "kind": "table",
+      "title": "SP 2001 in eP 2025: razlike poimenujemo",
+      "source_sections": [
+        "5.7"
+      ],
+      "refs": [
+        "SP 2001: § 980–981, 988; Aix-en-Provence",
+        "ePravopis 2025: 14, 75–76, 133–134, 199–200; Predlog"
+      ],
+      "notes": "Vsako vrstico beremo skupaj z normativnim okvirom. Aix-en-Provence v predlogu ohrani vezaje, Dachau in Midway kažeta drugačno razmerje do pisne podstave, Versailles pa tudi omejitve v ustaljenih zvezah. Predlog pri Dachau in Midway posebej omenja uveljavljeni starejši obliki. Če naloga zahteva SP 2001, je starejši ustrezni zapis veljaven odgovor. Opisna zveza arhiv mesta Aix-en-Provence je uporabna v besedilu, ne nadomesti pa izrecno zahtevane tvorbe pridevnika.",
+      "headers": [
+        "Ime",
+        "SP 2001 / starejša oblika",
+        "eP 2025: Predlog"
+      ],
+      "rows": [
+        [
+          "Aix-en-Provence",
+          "aixenprovenški",
+          "aix-en-provenški"
+        ],
+        [
+          "Dachau",
+          "dachavski / dahavski",
+          "dachauski / dahavski"
+        ],
+        [
+          "Midway",
+          "midwajski",
+          "midwayski"
+        ],
+        [
+          "Versailles",
+          "versajski",
+          "versajski tudi versailleski"
+        ]
+      ],
+      "takeaway": "Ustaljeni zvezi ostajata versajski mir in versajska Evropa."
+    },
+    {
+      "id": "c5-21",
+      "section": "5.8",
+      "kind": "process",
+      "title": "Različice preverjamo za isto izhodišče in isti okvir",
+      "source_sections": [
+        "5.8"
+      ],
+      "refs": [
+        "ePravopis 2025: 6, 10, 164; Predlog",
+        "SP 2001: § 115, 159",
+        "Slovenski pravopis: stanje prenove ob nastanku skripte, oktober 2026"
+      ],
+      "notes": "Ob nastanku skripte oktobra 2026 je SP 2001 veljavna kodifikacija, P8 pa predlog v redakciji. ePravopis 2025 je letna slovarska izdaja, objavljena 2026; navedeni sestavki imajo status Predlog. Fran je zbirka različnih virov, zato ga ne navajamo kot en sam slovar. Primer Proustova/proustova magdalenica nadaljuje možnost, znano že SP 2001, medtem ko Proustova pisma ohranijo veliko začetnico ob individualni pripadnosti. Novejši podatek torej ni nujno novo pravilo.",
+      "steps": [
+        {
+          "label": "Izhodišče",
+          "text": "Določimo ime, izgovor, pomen in obravnavano zvezo."
+        },
+        {
+          "label": "Vir",
+          "text": "Zapišemo priročnik, sestavek ali člen, različico in datum."
+        },
+        {
+          "label": "Status",
+          "text": "Ločimo veljavni SP 2001, svetovalno razlago in predlog."
+        },
+        {
+          "label": "Doseg dvojnic",
+          "text": "Pojasnimo, kaj se razlikuje in v kateri rabi sta možnosti dopustni."
+        }
+      ],
+      "takeaway": "Dolg seznam nepreverjenih oblik ni natančnejši odgovor."
+    }
+  ],
+  "wrap": {
+    "points": [
+      "Začetnico določa poimenovalna vloga izraza.",
+      "Izgovor in pregibanje razkrijeta osnovo za tvorjenje.",
+      "Različice presojamo z virom, statusom in pomenom."
+    ],
+    "bridge": "Ko so poimenovanja in oblike določeni, preverimo njihova razmerja v celotni povedi.",
+    "reading": "Toporišič 2004: 274–275; Vidovič Muha 2013: 92–93, 385–389; SP 2001: § 69–74, 771–784, 956–988; ePravopis 2025: navedena gesla."
+  }
+}

@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+~$*.pptx
+/.build/
+/build/
+/dist/
+/_site/
+/LSSJ_sample.pptx

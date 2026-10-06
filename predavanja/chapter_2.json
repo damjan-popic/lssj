@@ -1,0 +1,557 @@
+{
+  "chapter": 2,
+  "title": "Pomen in poimenovanje: kaj v sobesedilu pomeni izraz?",
+  "short_title": "Pomen in poimenovanje",
+  "question": "Kako dokažemo, kaj izraz poimenuje in kako je povezan z drugimi?",
+  "outcomes": [
+    "Razločimo leksem, pomen, pomensko sestavino in nanosnik.",
+    "Utemeljimo pomensko razmerje z analizo in preizkusom.",
+    "Povežemo poimenovanje z obliko, vezljivostjo in okoliščinami."
+  ],
+  "slides": [
+    {
+      "id": "c2-01",
+      "section": "2.1",
+      "kind": "example",
+      "title": "Izraz, pomen in konkretni termometer",
+      "source_sections": [
+        "2.1"
+      ],
+      "refs": [
+        "Vidovič Muha 2013: 17–21, 51–52"
+      ],
+      "notes": "Poglavje sledi strukturalnemu leksikalnemu pomenoslovju Ade Vidovič Muha v drugi, dopolnjeni izdaji iz leta 2013. Leksem je jezikovni znak: povezuje izrazno in vsebinsko stran. Izraz termometer ni naprava, pomen pa ni seznam vseh naših izkušenj z napravami. Denotat pri občnem poimenovanju razlagamo na sistemski ravni posplošene predmetnosti; nanosnik je konkretni primerek v besedilu. Avtorica opozarja na različno rabo teh terminov v literaturi, zato to razmejitev izrecno vežemo na naš okvir.",
+      "example": "Ta termometer se je pokvaril.",
+      "steps": [
+        {
+          "label": "Izraz",
+          "text": "Glasovi oziroma črke besede termometer."
+        },
+        {
+          "label": "Sistemska raven",
+          "text": "Pomen povezuje poimenovanje s posplošeno predmetnostjo, ne z vsemi podatki o primerku."
+        },
+        {
+          "label": "Besedilni nanosnik",
+          "text": "Določeni termometer; njegova barva in mesto nakupa nista zato sestavini slovarskega pomena."
+        }
+      ],
+      "takeaway": "Razlikujemo jezikovni znak, poimenovano predmetnost in konkretno nanašanje."
+    },
+    {
+      "id": "c2-02",
+      "section": "2.1",
+      "kind": "table",
+      "title": "Sem, semem in pomenje niso sopomenke",
+      "source_sections": [
+        "2.1"
+      ],
+      "refs": [
+        "Vidovič Muha 2013: 18–19, 25–27, 59"
+      ],
+      "notes": "Najprej ponovimo razliko med sklonsko obliko in pomenom. Miško in miške sta lahko oblikovni različici, žival in računalniška naprava pa pomena. Sem je pomenska sestavina, semem posamezni pomen, semantem oziroma pomenje pa urejena celota povezanih pomenov leksema. Izrazna enota je lahko tudi večbesedna: sončna očala so ustaljeno poimenovanje, opraskana očala lahko zgolj sproten opis. Hierarhija pojmov omogoči analizo, ki ne ostane pri ugotovitvi, da ima beseda več razlag.",
+      "headers": [
+        "Pojem",
+        "Kaj označuje?",
+        "Opora v zgledu"
+      ],
+      "rows": [
+        [
+          "Sem",
+          "Pomenska sestavina.",
+          "Sodeluje pri razločevanju posameznega pomena."
+        ],
+        [
+          "Semem",
+          "Posamezni pomen.",
+          "Miška kot žival; miška kot naprava."
+        ],
+        [
+          "Pomenje / semantem",
+          "Celota povezanih pomenov leksema.",
+          "Povezana pomena istega leksema miška."
+        ]
+      ],
+      "takeaway": "Oblikovna različica ni nov pomen; pomenska sestavina ni celotno pomenje."
+    },
+    {
+      "id": "c2-03",
+      "section": "2.2",
+      "kind": "table",
+      "title": "Štiri razsežnosti slovarskega pomena",
+      "source_sections": [
+        "2.2"
+      ],
+      "refs": [
+        "Vidovič Muha 2013: 33–40, 108–110"
+      ],
+      "notes": "Avtorica razlikuje obvezni kategorialni in širši denotativni pomen ter obvezno izbirni konotativni in pragmatični pomen. Izbirnost pomeni, da sestavina ni lastna vsakemu leksemu, ne da lahko zaznamovanost poljubno prezremo. Pri knjigi je ženski spol slovarska lastnost; mestnik v govoriti o knjigi izhaja iz konkretne zgradbe. Pri glagolu ločimo vid in intenčnost od stavčno uresničenih časovnih ter naklonskih določitev. Konotativnost je lahko inherentna ali adherentna, vezana na neprvi pomen; ne pripišemo je samodejno vsem pomenom.",
+      "headers": [
+        "Razsežnost",
+        "Kaj razložimo?",
+        "Zgled oziroma preizkus"
+      ],
+      "rows": [
+        [
+          "Kategorialna (obvezna)",
+          "Lastnosti za skladenjsko vedenje.",
+          "knjiga: ženski spol; mestnik določi konkretna zveza."
+        ],
+        [
+          "Širša denotativna (obvezna)",
+          "Kaj izraz poimenuje.",
+          "Vrsta denotata usmeri način razlage."
+        ],
+        [
+          "Konotativna (obvezno izbirna)",
+          "Dodatno vrednotenje ali zaznamovanost.",
+          "pes / kuža: mogoča razlika v naklonjenosti."
+        ],
+        [
+          "Sporočanjsko-pragmatična (obvezno izbirna)",
+          "Leksikalizirano govorno dejanje in okoliščine.",
+          "Dober dan kot pozdrav."
+        ]
+      ],
+      "takeaway": "Slovnične lastnosti, poimenovalno vsebino, vrednotenje in govorno dejanje analiziramo razločeno."
+    },
+    {
+      "id": "c2-04",
+      "section": "2.2",
+      "kind": "contrast",
+      "title": "Pozdrav in namig zahtevata različni razlagi",
+      "source_sections": [
+        "2.2"
+      ],
+      "refs": [
+        "Vidovič Muha 2013: 97–102, 107–108"
+      ],
+      "notes": "Dober dan v pozdravni rabi ni navadna ocena kakovosti dneva. Pojasnimo ustaljeno govorno dejanje in njegove okoliščine. Podobno au izraža bolečino, ne vrste predmeta. Pri izjavi o slabem zraku lahko naslovnik iz situacije sklepa na željo po odprtem oknu; zato še ne potrebujemo novega slovarskega pomena zrak. Tudi ironični Odlično! ob pokvarjenem tiskalniku zahteva razlago konkretne rabe. Slovarski pomen in besedilni učinek sodelujeta, vendar nista ista raven.",
+      "left": {
+        "label": "Leksikalizirano govorno dejanje",
+        "example": "Dober dan.",
+        "text": "Razlaga pove, da izraz uporabljamo za pozdravljanje in v katerih okoliščinah."
+      },
+      "right": {
+        "label": "Sklepanje iz položaja",
+        "example": "Tukaj je slab zrak.",
+        "text": "Željo po odprtem oknu lahko razberemo iz situacije; nov pomen besede zrak ni dokazan."
+      },
+      "takeaway": "Sporočanjskega učinka ne vpišemo avtomatično v slovarski pomen posamezne besede."
+    },
+    {
+      "id": "c2-05",
+      "section": "2.3",
+      "kind": "example",
+      "title": "Pomenska razlaga izbere razločevalne podatke",
+      "source_sections": [
+        "2.3"
+      ],
+      "refs": [
+        "Vidovič Muha 2013: 58–66"
+      ],
+      "notes": "Razlaga je učni zgled uporabe sestavinskega modela, ne citat slovarske definicije. UPS je ena, čeprav jo ubesedimo z zvezo merilna naprava. RPS razloči termometer od drugih merilnih naprav. Rdeče ohišje ali učiteljev nakup opišeta primerek. Podrobnejši tehnični opis ni samodejno boljša pomenska razlaga. Splošni slovar upošteva naslovnika in ni nujno najpodrobnejša znanstvena taksonomija. Oznak navadno in zlasti ne smemo prebrati kot brezizjemni vedno.",
+      "example": "Termometer: merilna naprava za merjenje temperature.",
+      "steps": [
+        {
+          "label": "UPS",
+          "text": "Merilna naprava: uvrstitev v neposredno širši razred."
+        },
+        {
+          "label": "RPS",
+          "text": "Merjenje temperature: razločevanje od drugih merilnih naprav."
+        },
+        {
+          "label": "Meja razlage",
+          "text": "Rdeča naprava, ki jo je učitelj kupil včeraj, opisuje primerek."
+        }
+      ],
+      "takeaway": "Razlaga potrebuje pomensko razločevalnost, ne vseh podatkov o predmetnosti."
+    },
+    {
+      "id": "c2-06",
+      "section": "2.3",
+      "kind": "contrast",
+      "title": "Zakaj globok ne razlagamo kakor vodnjak?",
+      "source_sections": [
+        "2.3"
+      ],
+      "refs": [
+        "Vidovič Muha 2013: 60–61, 76–79"
+      ],
+      "notes": "Endogenost in eksogenost sta termina obravnavanega modela. Pri endogenih leksemih avtorica opisuje notranjo hierarhijo UPS in RPS, zlasti pri samostalnikih in glagolih. Pridevniki in modifikacijski prislovi pa pomensko razvijajo ustrezno zunanje jedro. Vodnjak ni nadpomenka pridevnika globok. Prav tako jedro pridevniku ne podeli poljubnega pomena: med sestavinama mora biti razložljiva pomenska družljivost. To razliko bomo pozneje povezali z lastnostnimi in vrstnimi pridevniki ter njihovimi oblikami.",
+      "left": {
+        "label": "Endogeni leksemi",
+        "example": "vodnjak",
+        "text": "Pomenska zgradba ima notranjo hierarhijo uvrščevalne in razločevalnih sestavin."
+      },
+      "right": {
+        "label": "Eksogeni leksemi",
+        "example": "globok vodnjak / globoka misel / globok glas",
+        "text": "Pomen pridevnika razvijamo ob pomensko ustrezni zunanji jedrni besedi."
+      },
+      "takeaway": "Samostalnik ob pridevniku ni njegova nadpomenka; preverimo pomensko družljivost."
+    },
+    {
+      "id": "c2-07",
+      "section": "2.3",
+      "kind": "table",
+      "title": "Več pomenov: povezanost še potrebuje razlago",
+      "source_sections": [
+        "2.3"
+      ],
+      "refs": [
+        "Vidovič Muha 2013: 130–133, 138–139, 193–195",
+        "SSKJ²: boks¹, boks²"
+      ],
+      "notes": "Miška povezuje motivirana pomena istega leksema. Pri možu avtorica opiše pomensko vsebovanost: zakonski mož zoži pomen odraslega moškega z dodatnim razmerjem do zakonke. Pri računalniški miški se spremeni razred poimenovanega; naprava ni vrsta živali. Boks kot šport in boks kot ograjeni prostor sta v SSKJ² ločeni iztočnici. Številčenje pove nekaj o slovarski obravnavi, vendar analiza še vedno zahteva presojo pomenske povezanosti, izrazne podobe in slovničnih lastnosti. Homonimija ima tudi širše in ožje teoretične opredelitve.",
+      "headers": [
+        "Primer",
+        "Razmerje",
+        "Kaj pojasnimo?"
+      ],
+      "rows": [
+        [
+          "mož: odrasli moški / zakonski mož",
+          "Vsebovanost pomenov.",
+          "Ožji pomen ohrani in dopolni izhodiščne lastnosti."
+        ],
+        [
+          "miška: žival / naprava",
+          "Pomenski prenos.",
+          "Naprava ni vrsta živali; pokažemo motivacijsko povezavo."
+        ],
+        [
+          "boks: šport / ograjeni prostor",
+          "Homonimija.",
+          "Različna leksema z enako izrazno podobo."
+        ]
+      ],
+      "takeaway": "Pomensko vsebovanost, prenos in homonimijo utemeljimo z različnimi merili."
+    },
+    {
+      "id": "c2-08",
+      "section": "2.3",
+      "kind": "table",
+      "title": "Pri prenosu pokažemo, kaj povezuje pomena",
+      "source_sections": [
+        "2.3"
+      ],
+      "refs": [
+        "Vidovič Muha 2013: 145–156"
+      ],
+      "notes": "Pri vsakem zgledu študenti najprej določijo izhodiščni in novi pomen, šele nato ime prenosa. V avtoričinem modelu je sinekdoha poseben tip znotraj metonimičnih prenosov: konstitutivni del in celota pomensko zamenjata hierarhični vlogi. Metaforo povezuje vezna lastnost, ki ni nujno definicijska sestavina prvega pomena. Leksikalizirana metafora je lahko povsem nevtralno poimenovanje. Sveža podoba pokopališče zavrnjenih naslovov pa sama še ne dokazuje novega slovarskega pomena ali besedotvorne tvorjenke.",
+      "headers": [
+        "Prenos",
+        "Zgled",
+        "Razmerje med pomenoma"
+      ],
+      "rows": [
+        [
+          "Metafora",
+          "živalska / računalniška miška",
+          "Predstavi poveže podobnost, zlasti oblika."
+        ],
+        [
+          "Metonimija",
+          "Popil je skodelico čaja.",
+          "Poimenovanje posode se nanaša na vsebino."
+        ],
+        [
+          "Sinekdoha",
+          "hruška: drevo / sadež",
+          "Sadež postane uvrščevalen; drevo ostane razločevalna povezava."
+        ]
+      ],
+      "takeaway": "Oznako prenosa podprejo izhodiščni pomen, novi pomen in dokazano razmerje."
+    },
+    {
+      "id": "c2-09",
+      "section": "2.4",
+      "kind": "concept",
+      "title": "Ime identificira; opis in vrsta uvrščata drugače",
+      "source_sections": [
+        "2.4"
+      ],
+      "refs": [
+        "Vidovič Muha 2013: 92–93",
+        "SP 2001: § 39, 147"
+      ],
+      "notes": "V obravnavanem modelu lastna imena nimajo enake strukturirane denotativne vrednosti z UPS in RPS kot občna poimenovanja. To ne pomeni odsotnosti spola, pregibanja ali kulturnih asociacij. Dve osebi se lahko imenujeta Ana. Pri Rembrandtu razločimo osebo, avtorstvo in poimenovanje umetnine. Pri Toyoti podjetje, znamko in izdelek. Majhna dvorana je lahko opis, Mala dvorana ime. Pomenska analiza pripravi pravopisno odločitev; ustaljenost poimenovanja, pomembnost predmeta ali logotip same velike začetnice ne dokazujejo.",
+      "lead": "Poimenovalna funkcija je pogoj za presojo začetnice.",
+      "blocks": [
+        {
+          "label": "Identifikacija",
+          "text": "Ana lahko identificira različni osebi; ime zato ne postane občno."
+        },
+        {
+          "label": "Podjetje in znamka",
+          "text": "Toyota je predstavila nov model. / avtomobil znamke Toyota"
+        },
+        {
+          "label": "Opis in ime",
+          "text": "majhna dvorana / Mala dvorana"
+        }
+      ],
+      "takeaway": "Najprej določimo, kaj izraz poimenuje, nato uporabimo pravopisno pravilo."
+    },
+    {
+      "id": "c2-10",
+      "section": "2.5",
+      "kind": "contrast",
+      "title": "Isti nanosnik še ne pomeni sopomenskosti",
+      "source_sections": [
+        "2.5"
+      ],
+      "refs": [
+        "Vidovič Muha 2013: 121–124, 172–176"
+      ],
+      "notes": "Sopomenskost zadeva ustrezna pomena različnih leksemov, ne nujno celotnega pomenja obeh. V strožji avtoričini opredelitvi se prekrivajo denotativne sestavine, izrazni podobi pa se razlikujeta. Pes in kuža lahko dopuščata denotativno zamenjavo, ne da bi ohranila ton. Profesor in sosed lahko označujeta istega človeka, vendar to ni dokaz slovarske sopomenskosti. Tudi lep zgled in dober zgled ne omogočita vseh zamenjav lep z dober. Oblikovni dvojnici govorijo in govoré pa pripadata istemu leksemu.",
+      "left": {
+        "label": "Ustrezna pomena različnih leksemov",
+        "example": "pes / kuža",
+        "text": "Možno je prekrivanje denotativnega pomena ob različni zaznamovanosti in omejitvah rabe."
+      },
+      "right": {
+        "label": "Isto nanašanje v besedilu",
+        "example": "profesor / sosed",
+        "text": "Izraza lahko označujeta istega človeka, vendar ga različno pomensko opredelita."
+      },
+      "takeaway": "Sopomensko zamenjavo preverimo v konkretnem pomenu, registru in besedni zvezi."
+    },
+    {
+      "id": "c2-11",
+      "section": "2.5",
+      "kind": "table",
+      "title": "Različna nasprotja omogočajo različne sklepe",
+      "source_sections": [
+        "2.5"
+      ],
+      "refs": [
+        "Vidovič Muha 2013: 183–188"
+      ],
+      "notes": "Pri navzočnosti določimo osebe, čas in merilo evidence, šele nato uporabimo komplementarno nasprotje. Polarno nasprotje dopušča sredino; gradualno razmerje je v tej razvrstitvi njegov podtip, ne povsem ločena peta skupina. Prodaja in nakup sta različna pogleda na isti odnos, vendar zahtevata preureditev udeležencev: Ana je Boru prodala kolo; Bor je od Ane kupil kolo. Odpreti in zapreti pomenita nasprotno usmerjeni dejanji, ne zgolj zamenjavo perspektive na eno dejanje.",
+      "headers": [
+        "Tip",
+        "Zgled",
+        "Preizkus"
+      ],
+      "rows": [
+        [
+          "Dopolnjevalno",
+          "prisoten / odsoten",
+          "V omejenem dvodelnem polju izključitev enega potrdi drugo."
+        ],
+        [
+          "Skrajnostno; stopnjevalni podtip",
+          "velik / majhen; vroč – topel – hladen – mrzel",
+          "Zanikanje ene možnosti ne izbere nujno njene nasprotnosti."
+        ],
+        [
+          "Zamenjavno",
+          "Ana je Boru prodala kolo. / Bor je od Ane kupil kolo.",
+          "Isti odnos zahteva preureditev udeležencev."
+        ],
+        [
+          "Usmerjeno",
+          "odpreti / zapreti",
+          "Dejanji sta nasprotno usmerjeni in povezani s stanjem."
+        ]
+      ],
+      "takeaway": "Protipomenskost poimenujemo šele po preverjanju razmerja in mogočih sklepov."
+    },
+    {
+      "id": "c2-12",
+      "section": "2.5",
+      "kind": "table",
+      "title": "Razmerje dokažemo s smerjo sklepa",
+      "source_sections": [
+        "2.5"
+      ],
+      "refs": [
+        "Vidovič Muha 2013: 189–193, 199"
+      ],
+      "notes": "Pri nadpomenskosti je vključevanje enosmerno. Iz breze lahko preidemo v drevo, obratno pa ne dobimo določene vrste. Breza in bukev sta vzporedni podpomenki v izbranem polju, kjer ju povezuje ista neposredna nadpomenka, denimo listnato drevo. Zgolj sorodnost še ne zadošča za natančno hierarhijo. Paronimija pa je drugačne vrste: izrazna podobnost delaven in deloven ne zagotavlja enakega pomena. V terminologiji lahko poimenovalna doslednost zahteva, da istega pojma ne preimenujemo brez pojasnila.",
+      "headers": [
+        "Razmerje",
+        "Zgled",
+        "Dovoljen ali nedovoljen sklep"
+      ],
+      "rows": [
+        [
+          "Podpomenskost",
+          "breza → drevo",
+          "Vsaka breza je drevo; vsako drevo ni breza."
+        ],
+        [
+          "Vzporedna podpomenskost",
+          "breza / bukev",
+          "Izberemo skupno neposredno nadpomenko: listnato drevo."
+        ],
+        [
+          "Paronimija",
+          "delaven človek / delovni prostor",
+          "Podobnost izraza ne dovoljuje pomenske zamenjave."
+        ]
+      ],
+      "takeaway": "Posploševanje, vzporednost v polju in izrazna podobnost so različna razmerja."
+    },
+    {
+      "id": "c2-13",
+      "section": "2.6",
+      "kind": "example",
+      "title": "Pomen odpira mesta za druge sestavine",
+      "source_sections": [
+        "2.6"
+      ],
+      "refs": [
+        "Vidovič Muha 2013: 39–40, 76–79, 121"
+      ],
+      "notes": "Kolokacija je značilna sopojavitev, denimo sprejeti odločitev; vezljivost pa zadeva odpiranje mest za določila. Pri pogajanju razločimo udeleženca, sogovornika in temo. Tema je lahko neizrečena, če je znana. Avtoričina intenčnost poudari pomenski potencial glagola. Otrok že bere lahko izraža pridobljeno sposobnost, Otrok bere knjigo dejavnost; toda vsak izpust predmeta ne ustvari novega pomena. Pri študentki v Mentorica je študentki poslala pripombe razločimo prejemnico, predmet in dajalnik. Pridevniki so prav tako vezljivi in pomensko družljivi.",
+      "example": "Predstavniki se pogajajo z upravo o delovnem času.",
+      "steps": [
+        {
+          "label": "Vezljivostni vzorec",
+          "text": "Nekdo se pogaja z nekom o nečem."
+        },
+        {
+          "label": "Intenčnost",
+          "text": "Glagol s pomenom prinaša potencial za udeleženska mesta."
+        },
+        {
+          "label": "Izrečenost",
+          "text": "Znana tema lahko ostane neizražena; to samo ne odpravi vezljivostnega mesta."
+        }
+      ],
+      "takeaway": "Pomensko vlogo, stavčno funkcijo in slovnično obliko vodimo kot povezane, različne podatke."
+    },
+    {
+      "id": "c2-14",
+      "section": "2.7",
+      "kind": "table",
+      "title": "Večbesedni leksem je lahko pomensko razviden",
+      "source_sections": [
+        "2.7"
+      ],
+      "refs": [
+        "Vidovič Muha 2013: 25–32, 154"
+      ],
+      "notes": "Sončna očala so avtomatizirano poimenovanje: govorec ga ne sestavi vsakič znova. Zlomljena očala lahko sproti opišejo stanje. Pregibanje s sončnimi očali ne odpravi poimenovalne identitete. Tabela prikazuje stopnje pomenske sestavljenosti iz avtoričine obravnave terminoloških zvez. Samostalniški prilastek in portugalska ladja kot poimenovanje ožigalkarja nista enako razvidna, vendar je oboje lahko termin. Pojmov sestava, skup, sklop in zraslek v tem okviru ne pomešamo avtomatično z istozvočnimi besedotvornimi oznakami.",
+      "headers": [
+        "Tip",
+        "Razmerje pomenov sestavin"
+      ],
+      "rows": [
+        [
+          "Sestava",
+          "Pomeni sestavin se ohranijo."
+        ],
+        [
+          "Skup",
+          "Pomensko se preoblikuje ena sestavina."
+        ],
+        [
+          "Sklop",
+          "Pomensko se preoblikujeta oba dela zveze."
+        ],
+        [
+          "Zraslek",
+          "Pomena celote iz sestavin ne moremo več razbrati."
+        ]
+      ],
+      "takeaway": "Ustaljenost ne zahteva popolne pomenske neprosojnosti ali nespremenljivosti oblik."
+    },
+    {
+      "id": "c2-15",
+      "section": "2.7",
+      "kind": "concept",
+      "title": "Frazem, termin in register odgovarjajo različno",
+      "source_sections": [
+        "2.7"
+      ],
+      "refs": [
+        "Vidovič Muha 2013: 107, op. 113; 126–130"
+      ],
+      "notes": "Avtorica opozarja na širši pojem frazeologije in ožji pojem frazema. Zato vseh terminoloških zvez ne imenujemo frazemi. Pri ustaljenem kar se tiče kakovosti moramo dodatno analizirati skladnjo in ločila. Terminološka enopomenskost je načelo znotraj izbranega pojmovnega sistema, ne trditev, da isti izraz nikjer nima drugega pomena. Terminologizacija in determinologizacija povezujeta splošno ter strokovno rabo, vendar nista nujno zrcalna postopka. Register omeji priporočilo na okoliščine; pogovorni izraz ni zato sam po sebi slovnično nemogoč.",
+      "lead": "Ustaljen izraz presojamo po pomenu, strokovni nalogi in okoliščinah.",
+      "blocks": [
+        {
+          "label": "Frazem",
+          "text": "Metati polena pod noge pomeni oviranje; razlaga posameznih besed ne zadošča."
+        },
+        {
+          "label": "Termin",
+          "text": "Koren poimenuje različna pojma v jezikoslovju in matematiki; področje je del presoje."
+        },
+        {
+          "label": "Register",
+          "text": "Za uradno obvestilo lahko priporočamo nevtralni izraz, ne da zavrnemo pogovorno rabo nasploh."
+        }
+      ],
+      "takeaway": "Pojmovne doslednosti, frazeološkega pomena in situacijske ustreznosti ne enačimo."
+    },
+    {
+      "id": "c2-16",
+      "section": "2.8",
+      "kind": "contrast",
+      "title": "Sodobni ples poimenuje zvrst",
+      "source_sections": [
+        "2.8"
+      ],
+      "refs": [
+        "Dobrovoljc 2025: »Sodoben« ali »sodobni ples«",
+        "Vidovič Muha 2013: 30–31"
+      ],
+      "notes": "Konkretno priporočilo za plesno zvrst opira skripta na odgovor Helene Dobrovoljc iz novembra 2025. Pomenoslovni model pomaga razložiti, zakaj lahko lastnostni pridevnik v ustaljenem poimenovanju preide v vrstnega. Črni bor zato ne pomeni samo bora, ki je trenutno bolj črn. Najprej določimo, ali poimenujemo vrsto ali opisujemo primerek, nato vlogo pridevnika in obliko. Končni i sam terminološkosti ne dokazuje: novi vir lahko označuje že znani primerek.",
+      "left": {
+        "label": "Strokovno poimenovanje zvrsti",
+        "example": "Predstava vključuje sodobni ples.",
+        "text": "Pridevnik opredeli vrsto; odločitev utemeljimo s terminološkim pomenom celotne zveze."
+      },
+      "right": {
+        "label": "Pripisovanje lastnosti",
+        "example": "sodoben ples",
+        "text": "Ob ustreznem sobesedilu ocenjujemo sodobnost določenega plesa."
+      },
+      "takeaway": "Poimenovalni namen usmeri izbiro oblike; določni i sam ne dokazuje vrstnosti."
+    },
+    {
+      "id": "c2-17",
+      "section": "2.9",
+      "kind": "process",
+      "title": "Nov predlog preverimo na treh različnih ravneh",
+      "source_sections": [
+        "2.9",
+        "2.12"
+      ],
+      "refs": [
+        "Vidovič Muha 2013: 22, 190–191"
+      ],
+      "notes": "Natečajni predlog za prostovoljsko dejavnost je lahko razumljiv in tvorbeno mogoč, ne da bi bil že ustaljen. Ponatisi iste novice niso neodvisne rabe. Onomaziološko izhajamo iz pojma in iščemo izraz; semaziološko iz izraza raziskujemo njegove pomene. Slovarji imajo različne namene in merila vključevanja. Odsotnost besede zato tudi ne dokazuje njene nemožnosti. Pri prehodu v naslednje poglavje primerjamo pisatelja: besedotvorna povezava s pisanjem še ne izčrpa njegove ožje slovarske uvrstitve.",
+      "steps": [
+        {
+          "label": "Tvorbena možnost",
+          "text": "Ali je predlog razložljiv in povezan z jezikovnim vzorcem?"
+        },
+        {
+          "label": "Ustaljena raba",
+          "text": "Ali ga neodvisno uporabljajo različni govorci, v katerih pomenih in besedilih?"
+        },
+        {
+          "label": "Slovarska vključitev",
+          "text": "Ali ustreza namenu in merilom konkretnega slovarja?"
+        }
+      ],
+      "takeaway": "Razumljivost, ustaljenost in slovarska vključitev potrebujejo različne dokaze."
+    }
+  ],
+  "wrap": {
+    "points": [
+      "Slovarski pomen ni seznam vseh podatkov o posameznem nanosniku.",
+      "Razmerje dokažemo, preden mu pripišemo terminološko oznako.",
+      "Pomen, oblika, raba in kodificirani zapis potrebujejo povezane, različne dokaze."
+    ],
+    "bridge": "Zdaj bomo preverili, kako se poimenovalno razmerje izrazi v notranji zgradbi tvorjenke.",
+    "reading": "Vidovič Muha 2013: 17–22, 33–40, 59–67, 76–79, 132–133, 144–156, 172–175, 184–193."
+  }
+}

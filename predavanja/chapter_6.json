@@ -1,0 +1,546 @@
+{
+  "chapter": 6,
+  "title": "Zgradba povedi in vejica",
+  "short_title": "Zgradba povedi",
+  "question": "Kaj se povezuje na tem mestu in katero mejo označuje vejica?",
+  "outcomes": [
+    "Razločimo stavčne člene, udeleženske vloge in notranjo hierarhijo.",
+    "Določimo nadrejenost, prirednost in obseg odvisnikov.",
+    "Utemeljimo ločila ter preureditev besednega in naslonskega reda."
+  ],
+  "slides": [
+    {
+      "id": "c6-01",
+      "section": "6.1",
+      "kind": "example",
+      "title": "Najprej določimo cele sestavine",
+      "source_sections": [
+        "6.1"
+      ],
+      "refs": [
+        "Toporišič 2004: 555–557"
+      ],
+      "notes": "Zgled razčlenimo najprej po udeležencih in okoliščini, nato po stavčnih členih. Študentka je osebek, mentorici in dopolnjen osnutek sta predmeta, včeraj pa časovno določilo. Dopolnjen je notranji prilastek predmeta. Posebej vprašamo, ali je predmet samo osnutek ali celotna zveza: jedro ni isto kot obseg. Nadaljujemo z daljšo zvezo dopolnjen osnutek seminarske naloge, ki je lahko še vedno en sam predmet z notranjo hierarhijo.",
+      "example": "Študentka je mentorici včeraj poslala dopolnjen osnutek.",
+      "steps": [
+        {
+          "label": "Povedek",
+          "text": "je poslala: en sestavljeni povedek."
+        },
+        {
+          "label": "Udeleženci",
+          "text": "študentka; mentorici; dopolnjen osnutek."
+        },
+        {
+          "label": "Notranja zgradba",
+          "text": "dopolnjen določa osnutek; včeraj umešča dogodek v čas."
+        }
+      ],
+      "takeaway": "Jedro stavčnega člena razlikujemo od njegovega celotnega obsega."
+    },
+    {
+      "id": "c6-02",
+      "section": "6.1",
+      "kind": "concept",
+      "title": "Besedna vrsta in funkcija sta različna podatka",
+      "source_sections": [
+        "6.1"
+      ],
+      "refs": [
+        "Toporišič 2004: 317, 344, 412, 557, 588–589, 618–619"
+      ],
+      "notes": "Pri prvih dveh zgledih primerjamo izhodiščno pridevniško besedo in njeno vlogo. Toporišič dopušča opis pridevniških besed v več funkcijah, hkrati pa opredeli povedkovnik in prehode vanj. Model moramo zato poimenovati; povedkovnik ni sinonim za povedek. Tretji zgled uvede dodatno prisojanje: Ana se vrne in je ob tem utrujena. Za razliko od biti utrujen glagol vrniti se brez pridevniškega dela ohrani svoj osnovni pomen. Mejna določila ob imenovati za presojamo z navedbo merila in vira.",
+      "lead": "Izhodiščno besedno vrsto ločimo od trenutne stavčnočlenske vloge in modela konverzije.",
+      "blocks": [
+        {
+          "label": "Prilastek",
+          "text": "jasno besedilo: pridevnik določa samostalniško jedro."
+        },
+        {
+          "label": "Povedkovo določilo",
+          "text": "Besedilo je jasno: je jasno tvori povedek; jasno prispeva njegovo bistveno vsebino."
+        },
+        {
+          "label": "Povedkov prilastek",
+          "text": "Ana se je vrnila utrujena: dodatno stanje osebka ob vrnitvi."
+        }
+      ],
+      "takeaway": "Povedkovnik je besednovrstni pojem; povedek je stavčnočlenski."
+    },
+    {
+      "id": "c6-03",
+      "section": "6.1",
+      "kind": "concept",
+      "title": "Izpustljivost sama ne dokazuje nevezljivosti",
+      "source_sections": [
+        "6.1"
+      ],
+      "refs": [
+        "Toporišič 2004: 318, 556, 614, 617–618"
+      ],
+      "notes": "Začnemo z razliko med odprtjem pomenskega mesta in njegovo glasovno uresničitvijo. V odgovoru Sem ji že poslala je osnutek znan iz vprašanja, zato ga ni treba ponoviti. To ne dokazuje odsotnosti vezljivostnega mesta. Nato primerjamo krajevni zvezi ob brati in obesiti: obe označujeta prostor, vendar druga v izbranem pomenu glagola določa cilj namestitve. Vezljivost sprašuje, katera mesta so predvidena, vezava pa, katero obliko odvisnost zahteva.",
+      "lead": "Vezljivost določa predvidena dopolnila; sobesedilo določa, kaj moramo ponovno izreči.",
+      "blocks": [
+        {
+          "label": "Znano iz sobesedila",
+          "text": "Si mentorici že poslala osnutek? – Sem ji že poslala."
+        },
+        {
+          "label": "Prosta okoliščina",
+          "text": "Ana je brala na hodniku: kraj prosto umešča branje."
+        },
+        {
+          "label": "Predvideni cilj",
+          "text": "Ana je obesila sliko na steno: krajevno določilo sodeluje v glagolskem vzorcu."
+        }
+      ],
+      "takeaway": "Vezljivost, vezavo in izrečenost preverimo ločeno."
+    },
+    {
+      "id": "c6-04",
+      "section": "6.1",
+      "kind": "table",
+      "title": "Osebek ni nujno vršilec ali prva beseda",
+      "source_sections": [
+        "6.1"
+      ],
+      "refs": [
+        "Toporišič 2004: 606–610"
+      ],
+      "notes": "Pri prvih dveh povedih se spremeni vrstni red, ne slovnične vloge. Šele trpna zgradba postavi rokopis v osebek, pri čemer vršilka ni izražena. Osebek določamo z več merili, predvsem obliko, ujemanjem, zgradbo in pomenom. Nato ustno dodamo Ani se je sanjalo: Ani je doživljalka v dajalniku, ki jo Toporišič imenuje logični osebek. To poimenovanje ne odpravi razlike do imenovalniškega osebka in običajnega ujemanja v Ana je sanjala.",
+      "headers": [
+        "Poved",
+        "Osebek",
+        "Udeleženska vloga"
+      ],
+      "rows": [
+        [
+          "Urednica je pregledala rokopis.",
+          "urednica",
+          "vršilka"
+        ],
+        [
+          "Rokopis je pregledala urednica.",
+          "urednica",
+          "vršilka"
+        ],
+        [
+          "Rokopis je bil pregledan.",
+          "rokopis",
+          "prizadeto"
+        ]
+      ],
+      "takeaway": "Pomenska vloga in stavčni člen nista ista razvrstitev."
+    },
+    {
+      "id": "c6-05",
+      "section": "6.1",
+      "kind": "example",
+      "title": "Povedek je lahko hierarhično sestavljen",
+      "source_sections": [
+        "6.1"
+      ],
+      "refs": [
+        "Toporišič 2004: 587–588, 611–612"
+      ],
+      "notes": "Študenti naj najprej označijo vse glagolske oblike, nato pa pojasnijo, zakaj njihov seštevek ni število stavkov. Je izraža časovne in osebne podatke skupaj z deležnikom, morala nujnost, začeti fazo, pregledovati pa dejavnost. Razlago povemo kot nujen začetek pregledovanja. Toporišič naklonska in fazna dopolnjevanja analizira znotraj sestavljene povedkove zgradbe. Primerjamo še Dežuje: odsotnost osebka ne pomeni, da poved ne more izraziti dogajanja.",
+      "example": "Ana je morala začeti pregledovati rokopis.",
+      "steps": [
+        {
+          "label": "Čas in nujnost",
+          "text": "je morala: dejanje je predstavljeno v preteklosti in kot nujno."
+        },
+        {
+          "label": "Faza",
+          "text": "začeti: nujnost zadeva začetek."
+        },
+        {
+          "label": "Dejavnost",
+          "text": "pregledovati rokopis: vsebina dejavnosti."
+        }
+      ],
+      "takeaway": "Število glagolskih besed ni število stavkov ali vseh predikacijskih vsebin."
+    },
+    {
+      "id": "c6-06",
+      "section": "6.2",
+      "kind": "table",
+      "title": "Vsebinski odvisnik nima vedno iste funkcije",
+      "source_sections": [
+        "6.2"
+      ],
+      "refs": [
+        "Toporišič 2004: 637–638"
+      ],
+      "notes": "V vseh treh vrsticah odvisnik izraža vsebino, vendar je odvisen od drugačnega nadrejenega člena. Pri obljubila je pomaga zamenjava s predmetom prihod; pri veseli me zamenjava s to, kar je osebek. Pri obljubi je odvisnik notranji prilastek k samostalniku. S tem ohranimo dve razvrstitveni merili, namesto da bi eno zavrnili. Toporišič ločuje tipologije po vsebini, besednovrstni vrednosti in stavčnočlenski vlogi. Podobno lahko stavčno izrazimo časovno ali vzročno določilo.",
+      "headers": [
+        "Poved",
+        "Kaj odvisnik dopolnjuje?",
+        "Funkcija"
+      ],
+      "rows": [
+        [
+          "Obljubila je, da pride.",
+          "glagol obljubiti",
+          "predmet"
+        ],
+        [
+          "Veseli me, da pride.",
+          "povedek veseli me",
+          "osebek"
+        ],
+        [
+          "Obljuba, da pride, nas je razveselila.",
+          "samostalnik obljuba",
+          "prilastek"
+        ]
+      ],
+      "takeaway": "Vsebinski in predmetni sta oznaki po različnih merilih."
+    },
+    {
+      "id": "c6-07",
+      "section": "6.2",
+      "kind": "contrast",
+      "title": "Podoben nedoločnik, druga odvisnost",
+      "source_sections": [
+        "6.2"
+      ],
+      "refs": [
+        "Toporišič 2004: 616"
+      ],
+      "notes": "Pretvorba v samostalniško ali stavčno dopolnilo pomaga razločiti predmetni nedoločnik od sestavine naklonskega povedka. Ne uporabljamo je kot avtomatičnega pravila o vejici. Nato dodamo zgled Vprašanje, kako nadaljevati delo, je ostalo odprto. Njegovo ogrodje je Vprašanje je ostalo odprto, vprašalni nedoločniški del pa izraža vsebino vprašanja in ima obe označeni meji. Enaka neosebna oblika torej ne upravičuje enake analize v vseh treh okoljih.",
+      "left": {
+        "label": "Vsebina obljube",
+        "example": "Obljubila je priti.",
+        "text": "Pretvorba: Obljubila je prihod. / Obljubila je, da pride."
+      },
+      "right": {
+        "label": "Naklonski povedek",
+        "example": "Morala je priti.",
+        "text": "Priti je del naklonskega povedka; Morala je prihod ne ohrani te zgradbe."
+      },
+      "takeaway": "Preizkus zamenjave pojasni funkcijo; ločila preverimo posebej."
+    },
+    {
+      "id": "c6-08",
+      "section": "6.3",
+      "kind": "example",
+      "title": "Odvisnik je lahko nadreden drugemu odvisniku",
+      "source_sections": [
+        "6.3"
+      ],
+      "refs": [
+        "SP 2001: § 289–348"
+      ],
+      "notes": "Najprej preberemo poved z odvisnikom na koncu, nato prikazano različico, kjer je prilastkov odvisnik vrinjen pred objavila. Vejica po popravil zapre samo ta notranji del; nato se vrnemo k prej začetemu povedku bo objavila. Glavni označuje izhodišče celotnega podredja, nadredni pa odnos med dvema sestavinama. Primerjamo Predlog, da bi besedilo, ki še ni pregledano, takoj objavili, ni bil sprejet in poiščemo ogrodje Predlog ni bil sprejet.",
+      "example": "Urednica je sporočila, da bo besedilo, ki ga je avtor popravil, objavila.",
+      "steps": [
+        {
+          "label": "Glavni stavek",
+          "text": "Urednica je sporočila."
+        },
+        {
+          "label": "Prva vsebina",
+          "text": "da bo besedilo objavila."
+        },
+        {
+          "label": "Notranji odvisnik",
+          "text": "ki ga je avtor popravil določa besedilo."
+        }
+      ],
+      "takeaway": "Označimo celotne sestavine in mesto, kamor se po odvisniku vrnemo."
+    },
+    {
+      "id": "c6-09",
+      "section": "6.4",
+      "kind": "table",
+      "title": "Veznik prepoznamo po razmerju, ne samo po zapisu",
+      "source_sections": [
+        "6.4"
+      ],
+      "refs": [
+        "SP 2001: § 308, 319, 325",
+        "Lengar Verovnik 2016: Vejica pred »in to«"
+      ],
+      "notes": "Priredje lahko povezuje besede, besedne zveze, povedkovne vsebine ali odvisnike iste ravni. Prvi dve vrstici razlikujeta ločni ali od začetka odvisnega vprašanja. Dodamo še zgodovinsko protivno rabo: Dolgo je poskušal, ali uspeha ni bilo, kjer ali pomeni vendar. Pri in to pa ločimo pojasnjevalno zvezo od veznika in ter samostojnega zaimka to. Pregled je namenjen analizi konkretne funkcije, ne izdelavi seznama besed, pred katerimi vejica vedno je ali je nikoli ni.",
+      "headers": [
+        "Zgled",
+        "Funkcija"
+      ],
+      "rows": [
+        [
+          "Izberi članek ali knjigo.",
+          "Ločna povezava."
+        ],
+        [
+          "Povej, ali si članek prebrala.",
+          "Odvisno vprašanje."
+        ],
+        [
+          "Odgovor je poslal, in to včeraj.",
+          "Pojasnilo časa."
+        ],
+        [
+          "Predlog je bil sprejet in to nas je razveselilo.",
+          "Vezalni in + zaimek to."
+        ]
+      ],
+      "takeaway": "Isti niz besed lahko sodeluje v različnih zgradbah."
+    },
+    {
+      "id": "c6-10",
+      "section": "6.5",
+      "kind": "contrast",
+      "title": "Prirednost ne zahteva dveh stavkov",
+      "source_sections": [
+        "6.5"
+      ],
+      "refs": [
+        "SP 2001: § 315"
+      ],
+      "notes": "Zaradi okvare je predložna zveza, ker je zmanjkalo elektrike pa odvisnik. Oba dela lahko izražata alternativni vzrok istega zastoja in sta zato ločno povezana. Prvega ne razglasimo za stavek zato, da bi ohranili naučeno razlago. Ko celotno vzročno sestavino prestavimo naprej, označimo njen konec. Ustno primerjamo še Revma ga najbolj muči zvečer in ko dežuje. Morebitno naknadno pripombo bi morali utemeljiti kot drugačno členitev, ne kot obvezno posledico osebne oblike.",
+      "left": {
+        "label": "Znotraj povedi",
+        "example": "Zastoj je nastal zaradi okvare ali ker je zmanjkalo elektrike.",
+        "text": "Nestavčni in stavčni del izražata enakovredni možnosti vzroka."
+      },
+      "right": {
+        "label": "Na začetku",
+        "example": "Zaradi okvare ali ker je zmanjkalo elektrike, je nastal zastoj.",
+        "text": "Vejica označi konec začetne sestavine."
+      },
+      "takeaway": "Enakovredna funkcija dopušča različno izrazno obliko."
+    },
+    {
+      "id": "c6-11",
+      "section": "6.6",
+      "kind": "contrast",
+      "title": "Vejica pred in lahko zapira odvisnik",
+      "source_sections": [
+        "6.6"
+      ],
+      "refs": [
+        "SP 2001: § 289–348"
+      ],
+      "notes": "Pri prvi povedi vprašamo, kaj je prebrala in kaj napisala: in povezuje glavni dejanji. Vejica pred njim zapre prilastkov odvisnik. Pri drugi povedi oba podatka ostaneta znotraj opisa članka, zato vejice pred in ni. Postopek prenesemo na Obljubila je, da bo prišla, ko konča delo, in da bo prinesla gradivo: notranji časovni odvisnik povzroči vejico na stiku z in da. Brez njega je vezalna povezava odvisnikov brez te vejice.",
+      "left": {
+        "label": "Povezani glavni dejanji",
+        "example": "Prebrala je članek, ki si ji ga priporočil, in napisala odziv.",
+        "text": "Vejica zapre odvisnik pred nadaljevanjem glavne povezave."
+      },
+      "right": {
+        "label": "Povezana podatka v odvisniku",
+        "example": "Prebrala je članek, ki obravnava narečja in prinaša nove podatke.",
+        "text": "In ostaja znotraj istega odvisnika."
+      },
+      "takeaway": "Ugotovimo, na kateri ravni povezuje in."
+    },
+    {
+      "id": "c6-12",
+      "section": "6.6",
+      "kind": "contrast",
+      "title": "Stik veznikov: dva različna razloga za vejico",
+      "source_sections": [
+        "6.6"
+      ],
+      "refs": [
+        "SP 2001: § 328"
+      ],
+      "notes": "V levem primeru je drugi priredni člen uveden s pogojnim odvisnikom. SP 2001 postavi vejico pred in in ne med in ter če; druga vejica zapre pogojni del. Desni primer pa nima začetnega odvisnika znotraj drugega prirednega člena: oba odvisnika neposredno dopolnjujeta isti vem. Primerjamo še mešano prirednost zaradi okvare ali ker je zmanjkalo elektrike. Sosednja veznika zato sama ne določita enega pravilnega postopka; najprej razčlenimo njuno nadrejenost.",
+      "left": {
+        "label": "Drugi člen začne odvisnik",
+        "example": "Prišla bo, in če bo imela čas, bo pregledala gradivo.",
+        "text": "In povezuje glavna dela; če začne pogoj znotraj drugega."
+      },
+      "right": {
+        "label": "Istovrstna odvisnika",
+        "example": "Vem, da pride in da prinese gradivo.",
+        "text": "Oba dela dopolnjujeta vem; med njima je vezalno razmerje."
+      },
+      "takeaway": "Vejice ne vrivamo med in in če po občutku premora."
+    },
+    {
+      "id": "c6-13",
+      "section": "6.7",
+      "kind": "example",
+      "title": "Elipsa ohrani razmerja tudi brez ponovitve glagola",
+      "source_sections": [
+        "6.7"
+      ],
+      "refs": [
+        "Toporišič 2004: 613, 634–635",
+        "SP 2001: § 331",
+        "Jezikovna svetovalnica 2026: Vejica na meji med skladenjsko raznorodnimi enotami"
+      ],
+      "notes": "Pred težjim zgledom obnovimo Eva je izbrala prvi naslov, Nika pa drugega in Eva zaupa mentorici, Nika pa urednici. Izpuščeni glagol ohranja razmerje in vezavo. Nato v prikazanem zgledu razvežemo ampak marjetica v ampak je marjetica. Protivni del ostane znotraj prve vsebine ugotovitve; druga vsebina se začne z in da. Kratki Vem, zakaj obravnavamo glede na obnovljivost iz sobesedila in opozorilo SP 2001 o omahovanju, ne kot univerzalni vzorec.",
+      "example": "Ugotovil je, da na sliki ni ivanjščica, ampak marjetica, in da so vsi podnapisi napačni.",
+      "steps": [
+        {
+          "label": "Obnovimo izpust",
+          "text": "ampak marjetica → ampak je marjetica."
+        },
+        {
+          "label": "Določimo obseg",
+          "text": "Protivni del pripada prvi ugotovljeni vsebini."
+        },
+        {
+          "label": "Vrnemo se navzgor",
+          "text": "in da uvaja drugo vsebino ugotovitve."
+        }
+      ],
+      "takeaway": "Izpuščeno ni brez slovnične vloge."
+    },
+    {
+      "id": "c6-14",
+      "section": "6.8",
+      "kind": "table",
+      "title": "Razvezljivost primerjave ni univerzalni preizkus",
+      "source_sections": [
+        "6.8"
+      ],
+      "refs": [
+        "SP 2001: § 330"
+      ],
+      "notes": "Prvi dve vrstici kažeta osnovni kontrast nestavčnega člena in razvitega primerjalnega odvisnika. Naslednji dve pa preprečujeta napačno posplošitev: možnost, da sami dodamo glagol ali razširimo primerjavo, še ne zahteva vejice. SP 2001 pri teh tipih izrecno razlikuje zapis. Dodamo primer Nastopila je kot predstavnica študentov, kjer kot lahko izraža vlogo. Pomen primerjanja in pomen vloge preverjamo v sobesedilu, ne samo iz prisotnosti besede kot.",
+      "headers": [
+        "Zgled",
+        "Zgradba oziroma pravilo"
+      ],
+      "rows": [
+        [
+          "Maja bere hitreje kot Luka.",
+          "Nestavčni primerjalni člen."
+        ],
+        [
+          "Maja bere hitreje, kot je brala lani.",
+          "Razvit primerjalni odvisnik."
+        ],
+        [
+          "Več je govoril kot delal.",
+          "Nepopolno izraženi primerjalni člen brez vejice."
+        ],
+        [
+          "Bolje je delati kot govoriti.",
+          "Nedoločniška primerjava brez vejice."
+        ]
+      ],
+      "takeaway": "Ločilo določa tip primerjalne zgradbe, ne zamišljena daljša različica."
+    },
+    {
+      "id": "c6-15",
+      "section": "6.8",
+      "kind": "concept",
+      "title": "Ustaljena zveza lahko ohrani ali izgubi stavčnost",
+      "source_sections": [
+        "6.8"
+      ],
+      "refs": [
+        "Lengar Verovnik: Vrinjeni stavek »kot bi mignil« in vejica"
+      ],
+      "notes": "Izraz fraza ne razreši ločil. Kar se tiče rokov ohranja oziralno zgradbo, kar se da pa v prikazanem zgledu določa stopnjo jasnosti. Kot bi mignil lahko ohrani odvisniško razlago ali preide v prislovno zvezo. Ko ga povežemo z brez zapletov, priredna zgradba podpira prislovno analizo. To je dokaz iz vključitve v poved, ne dovoljenje za odstranjevanje vseh vejic ob tej zvezi. Študenti naj poimenujejo funkcijo vsake celote.",
+      "lead": "Ohranjen osebni glagol v ustaljeni zvezi sam še ni univerzalni sprožilec vejice.",
+      "blocks": [
+        {
+          "label": "Oziralna zgradba",
+          "text": "Kar se tiče rokov, smo se dogovorili."
+        },
+        {
+          "label": "Določanje stopnje",
+          "text": "Odgovor naj bo kar se da jasen."
+        },
+        {
+          "label": "Prislovna vključitev",
+          "text": "Zadevo je uredil kot bi mignil in brez zapletov."
+        }
+      ],
+      "takeaway": "Funkcijo celote preverimo v konkretni povedi."
+    },
+    {
+      "id": "c6-16",
+      "section": "6.9",
+      "kind": "example",
+      "title": "Celovita redakcija preveri tudi že zapisane vejice",
+      "source_sections": [
+        "6.9"
+      ],
+      "refs": [
+        "SP 2001: § 289–348"
+      ],
+      "notes": "Najprej pokažemo izhodiščni zapis iz skripte brez vejic in pustimo čas za analizo. Nato razkrijemo urejeno poved. Dve vsebini dopolnjujeta povedala; prva vsebuje prilastkov, druga pogojni odvisnik. Pred in ni vejice, ker se notranji prilastkov odvisnik konča že pred predolg. Študenti naj za vsako vejico povedo začetek ali konec katere sestavine označuje. Na koncu preverimo še mesta, kjer smo se zavestno odločili vejice ne dodati.",
+      "example": "Urednica je povedala, da je članek, ki smo ga poslali, predolg in da ga bo objavila, če ga skrajšamo.",
+      "steps": [
+        {
+          "label": "Ogrodje",
+          "text": "Urednica je povedala."
+        },
+        {
+          "label": "Dve vsebini",
+          "text": "Članek je predolg; objavila ga bo pod pogojem."
+        },
+        {
+          "label": "Obe meji",
+          "text": "Prilastkov odvisnik se konča pred predolg; pogojni se začne pred če."
+        }
+      ],
+      "takeaway": "Pravilno mesto brez vejice prav tako potrebuje razlago."
+    },
+    {
+      "id": "c6-17",
+      "section": "6.10",
+      "kind": "contrast",
+      "title": "Iste stavčne vloge, drugačen sporočilni poudarek",
+      "source_sections": [
+        "6.10"
+      ],
+      "refs": [
+        "Toporišič 2004: 660–663"
+      ],
+      "notes": "Povedi najprej preberemo kot odgovora na dve različni vprašanji. Pri prvem sprašujemo po pregledanem, pri drugem po vršilki. Sklon in ujemanje ostaneta enaka, spremeni se členitev po aktualnosti: kaj vzamemo za izhodišče in kaj za osrednjo novost. Toporišič razlikuje temo, prehod in remo. Nevtralno zaporedje navadno vodi od dostopnega k novemu, vendar ga vprašanje ali poudarek spremeni. Tema zato ni drugo ime za osebek.",
+      "left": {
+        "label": "Kaj je pregledala urednica?",
+        "example": "Urednica je pregledala rokopis.",
+        "text": "V ospredju nove informacije je rokopis."
+      },
+      "right": {
+        "label": "Kdo je pregledal rokopis?",
+        "example": "Rokopis je pregledala urednica.",
+        "text": "Rokopis je izhodišče; nova informacija je urednica."
+      },
+      "takeaway": "Slovnično pravilna preureditev lahko spremeni poudarek besedila."
+    },
+    {
+      "id": "c6-18",
+      "section": "6.10",
+      "kind": "contrast",
+      "title": "Naslonke imajo svoj notranji red",
+      "source_sections": [
+        "6.10"
+      ],
+      "refs": [
+        "Toporišič 2004: 671, 675–676"
+      ],
+      "notes": "Primerjavo opravimo tako, da prvo poved preoblikujemo v tretjo osebo. Zgolj zamenjava sem z je na istem mestu ne zadošča: sem je pred zaimkoma, je pa za njima. Dajalniški ji predhaja tožilniškemu ga. Nato razširimo začetno sestavino v Včeraj popoldne ji ga je poslala in v Ko je končala pregled, ji ga je poslala. Niz torej ni mehanično za drugo besedo. V zadnjem zgledu vejica zapre odvisnik in je ne povzroča prisotnost naslonk.",
+      "left": {
+        "label": "Prva oseba",
+        "example": "Včeraj sem ji ga poslala.",
+        "text": "sem → ji → ga"
+      },
+      "right": {
+        "label": "Tretja oseba",
+        "example": "Včeraj ji ga je poslala.",
+        "text": "ji → ga → je"
+      },
+      "takeaway": "Mesto naslonskega niza določamo po sestavinah, ne s štetjem besed."
+    }
+  ],
+  "wrap": {
+    "points": [
+      "Obseg sestavine je pomembnejši od same začetne besede.",
+      "Izpusti in neosebne oblike ohranijo slovnična razmerja.",
+      "Vejico utemeljimo z razmerjem in obema mejama."
+    ],
+    "bridge": "Zdaj preverimo posebne vključitve: pristavke, vrivke, polstavke in navedke.",
+    "reading": "Toporišič 2004: 555–557, 587–589, 606–638, 660–663, 671, 675–676; SP 2001: § 289–348."
+  },
+  "display_title": "Zgradba povedi in vejica"
+}

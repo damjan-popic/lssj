@@ -1,0 +1,522 @@
+{
+  "chapter": 4,
+  "title": "Oblike v sobesedilu: zakaj ima beseda prav to obliko?",
+  "short_title": "Oblike v sobesedilu",
+  "question": "Katero razmerje v povedi zahteva izbrano slovnično obliko?",
+  "outcomes": [
+    "Določim sklon, osnovo in končnico iz primerjave oblik.",
+    "Ločim pridevniški pomen, določnost in skladenjsko funkcijo.",
+    "Utemeljim izbiro zaimka in glagolske oblike v sobesedilu."
+  ],
+  "slides": [
+    {
+      "id": "c4-01",
+      "section": "4.1",
+      "kind": "concept",
+      "title": "Oblika, besedna vrsta in funkcija so tri ravni",
+      "source_sections": [
+        "4.1"
+      ],
+      "refs": [
+        "Toporišič 2004: 255–256, 317–320"
+      ],
+      "notes": "Začnemo s tremi vprašanji: kateremu leksemu pripada oblika, katere kategorije izraža in katero nalogo opravlja v zgradbi. Pridevnik mlad ne preneha biti isti izhodiščni leksem samo zaradi spremembe funkcije. Pri branju Toporišiča uporabimo njegov širši pojem pridevniška beseda, ki vključuje tudi pridevniške števnike in zaimke. Podobno samostalniška beseda zajame samostalniške zaimke in posamostaljene pridevniške besede. Njegovega seznama devetih besednih vrst zato ne prepišemo brez pojasnila v drugačen šolski sistem. Nato se usmerimo k razmerjem, ki zahtevajo posamezno obliko.",
+      "lead": "Ista oblika lahko v različnih zgradbah opravlja različni nalogi.",
+      "blocks": [
+        {
+          "label": "Prilastek",
+          "text": "mlado drevo: mlado določa samostalniško jedro."
+        },
+        {
+          "label": "Povedkovo določilo",
+          "text": "Drevo je mlado: lastnost pripišemo osebku."
+        },
+        {
+          "label": "Toporišičev širši pojem",
+          "text": "tiste tri mlade lipe: zaimenske, števniške in navadne pridevniške besede."
+        }
+      ],
+      "takeaway": "Poimenovanje besedne vrste samo še ne pojasni oblike v povedi."
+    },
+    {
+      "id": "c4-02",
+      "section": "4.1",
+      "kind": "contrast",
+      "title": "Vezava določi obliko; ujemanje poveže kategorije",
+      "source_sections": [
+        "4.1"
+      ],
+      "refs": [],
+      "notes": "Pri vezavi nadrejena beseda zahteva določilo v določeni obliki. Dodamo spomniti se dogodka in ponosen na dosežek, da primerov ne omejimo na isti glagolski vzorec. Pri ujemanju pa končnice niso nujno enake. Samostalniška oblika načrtu je lahko dajalnik ali mestnik; to ugotovimo iz zgradbe. Smer in mesto primerjamo v vstopiti v predavalnico : sedeti v predavalnici. Pri običajnem predmetu zanikanega prehodnega glagola pokažemo še Prebral sem članek : Članka nisem prebral. Vprašalnice pomagajo, vendar ne nadomestijo razmerja, ki ga želimo pojasniti.",
+      "left": {
+        "label": "Vezava",
+        "example": "zaupati sodelavcu",
+        "text": "Glagol zahteva dajalniško določilo."
+      },
+      "right": {
+        "label": "Ujemanje",
+        "example": "z novim sodelavcem",
+        "text": "Pridevnik in samostalnik: moški spol, ednina, orodnik; končnici sta različni."
+      },
+      "takeaway": "Ujemanje je skladnost slovničnih kategorij, ne enakost zadnjih črk."
+    },
+    {
+      "id": "c4-03",
+      "section": "4.2",
+      "kind": "contrast",
+      "title": "Virtualnem in virtualnemu sta različna sklona",
+      "source_sections": [
+        "4.2"
+      ],
+      "refs": [
+        "Jelovšek 2026, junij"
+      ],
+      "notes": "Obe pridevniški obliki sta knjižni, vendar nista poljubno zamenljivi. Levo samostalniška zveza izraža mesto v okviru predložne zveze, desno glagol prilagajati se zahteva dajalnik. Popravek utemeljimo v treh korakih: določimo sklon zveze, povežemo pridevnik z jedrom in izberemo ustrezno končnico. Splošna izjava, da je -emu napačno ali manj formalno, bi bila zavajajoča. Če študent opozori na podobno rabo v narečju, jo ločimo od vprašanja knjižne oblike v konkretnem besedilu.",
+      "left": {
+        "label": "Mestnik",
+        "example": "v virtualnem svetu",
+        "text": "Pridevnik moškega spola ednine ima končnico -em."
+      },
+      "right": {
+        "label": "Dajalnik",
+        "example": "Prilagaja se virtualnemu svetu.",
+        "text": "Glagolska vezava zahteva dajalnik in končnico -emu."
+      },
+      "takeaway": "Popravljamo neustrezno obliko v zvezi, ne končnice v vseh rabah."
+    },
+    {
+      "id": "c4-04",
+      "section": "4.3",
+      "kind": "table",
+      "title": "Osnovo ugotovimo s primerjavo oblik",
+      "source_sections": [
+        "4.3"
+      ],
+      "refs": [
+        "SP 2001, § 772–784, 791",
+        "Toporišič 2004: 261–262"
+      ],
+      "notes": "Ločimo končaj, ki je končni niz glasov ali črk, od končnice, ki ima slovnično vlogo. Pri vetru se e izgubi znotraj osnove, zato ga ne označimo za imenovalniško končnico. Taksija in čaja se končata podobno, toda j ima različno mesto v postopku. Pri stricem nastopi preglas v končnici, vezan na govorjeni konec osnove. Pri tujih imenih bomo zato potrebovali izgovor in pregibni vzorec. Sama zadnja črka ne dokazuje niti osnove niti spola ali sklanjatve.",
+      "headers": [
+        "Primerjava",
+        "Ugotovitev"
+      ],
+      "rows": [
+        [
+          "veter → vetra",
+          "Neobstojni samoglasnik v osnovi; e ni končnica."
+        ],
+        [
+          "taksi → taksija",
+          "Osnova se podaljša z j."
+        ],
+        [
+          "čaj → čaja",
+          "j je že v imenovalniški osnovi."
+        ],
+        [
+          "stric → s stricem",
+          "V orodniški končnici nastopi preglas."
+        ]
+      ],
+      "takeaway": "Primerjamo oblike in funkcije; ne odrežemo samodejno zadnje črke."
+    },
+    {
+      "id": "c4-05",
+      "section": "4.3",
+      "kind": "concept",
+      "title": "Oblikotvorje ni drugo ime za besedotvorje",
+      "source_sections": [
+        "4.3"
+      ],
+      "refs": [
+        "Toporišič 2004: 257, 261–262"
+      ],
+      "notes": "Predstavljena delitev pregibanja je Toporišičeva. Sklanjanje in spreganje uvršča v oblikospreminjanje, stopnjevanje in tvorbo drugih slovničnih oblik pa v oblikotvorje. Besedotvorje iz tretjega poglavja obravnava drugo razmerje. Ponovimo mizic-ami pri sklanjatveni členitvi in miz-ic-ami pri morfemski. Končnica -ami v z mizicami označuje orodnik množine, osnova pa vsebuje več morfemov. Dodamo ničto končnico korak-Ø ter večpomenskost istega zapisa mize: brez mize je rodilnik ednine, mize so pripravljene imenovalnik množine. Zapis dokončno razložimo v zvezi.",
+      "lead": "V Toporišičevem modelu razlikujemo več vrst spreminjanja oblike.",
+      "blocks": [
+        {
+          "label": "Oblikospreminjanje",
+          "text": "lep → lepega; sklanjanje in spreganje."
+        },
+        {
+          "label": "Oblikotvorje",
+          "text": "lep → lepši; med drugim stopnjevanje, spolske, določne in glagolske oblike."
+        },
+        {
+          "label": "Besedotvorje",
+          "text": "lep → lepota; razmerje med dvema leksemoma."
+        }
+      ],
+      "takeaway": "Pri nalogi najprej določimo, kateri odnos med oblikami nas zanima."
+    },
+    {
+      "id": "c4-06",
+      "section": "4.4",
+      "kind": "table",
+      "title": "Japonska in Japonsko: dva pregibna vzorca",
+      "source_sections": [
+        "4.4"
+      ],
+      "refs": [
+        "SP 2001, § 841",
+        "Mirtič 2016",
+        "ePravopis, geslo Japonska: predlog"
+      ],
+      "notes": "Mestnik Japonskem izhaja iz srednjespolskega poimenovanja Japonsko s pridevniškim pregibanjem. Japonska pa ima ženski samostalniški vzorec. V ustaljeni rabi se vzorca prepletata, zato iz ene oblike ne izpeljemo nujno vseh drugih po isti shemi. Ločimo še izbiro predloga od izbire pregibnega vzorca. Splošni par na–z/s ne zadošča za zavrnitev iz Japonske. Novejši ePravopis izrecno navaja iz/z Japonske, vendar ima ta slovar status predloga. Tako ne prekrivamo ustaljene rabe, starejšega pravila in novejšega slovarskega podatka.",
+      "headers": [
+        "Izhodišče ali vir",
+        "Vzorec oziroma status",
+        "Oblike"
+      ],
+      "rows": [
+        [
+          "Japonska",
+          "ženski samostalniški",
+          "Japonske; na Japonski"
+        ],
+        [
+          "Japonsko",
+          "srednji pridevniški",
+          "Japonskega; na Japonskem"
+        ],
+        [
+          "Ustaljeno prepletanje",
+          "SP 2001, § 841",
+          "na Japonsko; iz Japonske"
+        ],
+        [
+          "ePravopis: Japonska",
+          "slovarski predlog",
+          "iz/z Japonske"
+        ]
+      ],
+      "takeaway": "Predložni par ne nadomesti podatka o ustaljenih zemljepisnih zvezah."
+    },
+    {
+      "id": "c4-07",
+      "section": "4.5",
+      "kind": "table",
+      "title": "Pridevniški pomen razberemo v zvezi",
+      "source_sections": [
+        "4.5"
+      ],
+      "refs": [
+        "Toporišič 2004: 318–320, 325, 329",
+        "Vidovič Muha 2013: 368–369"
+      ],
+      "notes": "Uporabljamo Toporišičevo razlikovanje lastnostnih, vrstnih in svojilnih pridevnikov. Pri lastnostnih loči kakovostne in merne: prijazen proti visok. Zgled zid, visok dva metra pokaže mersko dopolnilo; višina je določena tudi, če zid za neki namen ni posebno visok. Pri slovničnem priročniku taka mera ni smiselna, ker opredeljujemo področje. Tudi stopnjevanje ni samostojen razvrščevalni avtomat: najlepši izmed treh primerov ni nujno zelo lep po zunanjem merilu. Razločimo relativno primerjanje in absolutno vrednotenje, nato preidemo k oblikovni določnosti.",
+      "headers": [
+        "Pomen",
+        "Zgled",
+        "Kaj izrazimo?"
+      ],
+      "rows": [
+        [
+          "Lastnostni",
+          "zanimiv članek; visok zid",
+          "Kakovost ali razsežnost."
+        ],
+        [
+          "Vrstni",
+          "slovnični priročnik",
+          "Vrsto oziroma področje."
+        ],
+        [
+          "Svojilni",
+          "avtoričin rokopis",
+          "Svojilno razmerje."
+        ]
+      ],
+      "takeaway": "Obrazilo je lahko namig; pomen in slovnično vedenje preverimo v zvezi."
+    },
+    {
+      "id": "c4-08",
+      "section": "4.5",
+      "kind": "concept",
+      "title": "Določenost, določna oblika in vrstnost niso isto",
+      "source_sections": [
+        "4.5"
+      ],
+      "refs": [
+        "Toporišič 2004: 320, 328",
+        "Vidovič Muha 2013: 398–399"
+      ],
+      "notes": "Pri novem viru lahko najprej pripišemo lastnost, z določno obliko novi pa se nato navežemo na prepoznaven vir. Kazalni ta podpira določno obliko. Toda avtoričin nima enakega nasprotja oblik kot nov–novi. Toporišič poleg pridevnikov z obema oblikama loči tiste samo z nedoločno ali samo z določno obliko; obe zadnji skupini hkrati opredeli kot določni. Tudi povedkovna vloga ne zahteva avtomatično oblike brez -i: Ta jezik je slovenski; Čaj je lipov. Vidovič Muha posebej opozori, da nasprotij -(e)n : -ni ne razložimo vseh samo z znanostjo lastnosti.",
+      "lead": "Pomensko prepoznavnost ločimo od dejanskega nasprotja oblik.",
+      "blocks": [
+        {
+          "label": "Dve obliki",
+          "text": "Našli smo nov vir. Novi vir smo nato pregledali; ta novi vir."
+        },
+        {
+          "label": "Brez takega nasprotja",
+          "text": "Rokopis je avtoričin: ne ustvarimo avtoričini po vzorcu nov–novi."
+        },
+        {
+          "label": "Povedkovni položaj",
+          "text": "Vir je nov; Ta jezik je slovenski. Upoštevamo, katere oblike pridevnik ima."
+        }
+      ],
+      "takeaway": "Oblikovne izbire ne izpeljemo neposredno iz ene pomenske ali skladenjske oznake."
+    },
+    {
+      "id": "c4-09",
+      "section": "4.5",
+      "kind": "concept",
+      "title": "Steklen: snovni pomen in različne skladenjske vloge",
+      "source_sections": [
+        "4.5"
+      ],
+      "refs": [
+        "Praznik 2014",
+        "Vidovič Muha 2013: 367, 369, 385, 395–396"
+      ],
+      "notes": "Zgled je posebej uporaben za opozorilo na razliko med merili. Snovni pomen ostane tako v prilastku kot v povedkovem določilu. Praznik ga po pomenu uvršča med vrstne, a opozori na lastnosti, ki ga približujejo lastnostnim. Vidovič Muha v ponatisnjeni študiji poveže različne skladenjske vloge in delno določnost z lastnostnimi, pretvorbo žlica iz lesa ter odsotnost običajnega stopnjevanja pa z vrstnimi lastnostmi. V izdaji 2013 upoštevamo naknadne terminološke opombe, tudi vprašalnico iz česa. Predikativnost sama zato ne dokazuje nevrstnosti.",
+      "lead": "Razvrstitev je odvisna od meril in teoretičnega okvira.",
+      "blocks": [
+        {
+          "label": "Snovni pomen",
+          "text": "steklen kozarec; bombažne nogavice: opredelitev snovi."
+        },
+        {
+          "label": "Različni vlogi",
+          "text": "steklen kozarec → Kozarec je steklen: prilastek in povedkovo določilo."
+        },
+        {
+          "label": "Pretvorbeno merilo",
+          "text": "lesena žlica → žlica iz lesa; vprašalnica kakšen sama ne odloči."
+        }
+      ],
+      "takeaway": "Skladenjska funkcija ni neposreden dokaz ene same pomenske razvrstitve."
+    },
+    {
+      "id": "c4-10",
+      "section": "4.6",
+      "kind": "contrast",
+      "title": "Svoj in njen lahko spremenita lastnico",
+      "source_sections": [
+        "4.6"
+      ],
+      "refs": [],
+      "notes": "Prvo poved razložimo v njeni dejanski zgradbi: povratnosvojilni zaimek se nanaša na osebek Majo. Druga potrebuje nanosnico iz sobesedila; Nina je možna, toda pri daljšem besedilu ni nujno edina. Če potrebujemo nedvoumnost, uporabimo Ninino nalogo. Pravila ne raztegnemo brez razčlenitve na celoten odstavek. V Maja je povedala, da je Nina poslala svojo nalogo odvisnik dobi svoj osebek, zato je naloga v običajnem branju Ninina. Pri nedoločnikih in prepletenih perspektivah potrebujemo dodatno presojo nosilca dejanja.",
+      "left": {
+        "label": "Povratnosvojilni zaimek",
+        "example": "Maja je Nini poslala svojo nalogo.",
+        "text": "V tej zgradbi je naloga Majina."
+      },
+      "right": {
+        "label": "Osebnosvojilni zaimek",
+        "example": "Maja je Nini poslala njeno nalogo.",
+        "text": "Lastnico razberemo iz sobesedila; če je to Nina, lahko zapišemo Ninino nalogo."
+      },
+      "takeaway": "Nanašanje preverimo znotraj konkretne stavčne zgradbe."
+    },
+    {
+      "id": "c4-11",
+      "section": "4.6",
+      "kind": "contrast",
+      "title": "Ki in kateri ne delita ljudi od stvari",
+      "source_sections": [
+        "4.6"
+      ],
+      "refs": [],
+      "notes": "Oba načina uporabimo tudi za osebe: sodelavec, ki sem ga vprašal, in sodelavec, s katerim sodelujemo. Ki je nespremenljiv, njegovo predmetno vlogo pa pogosto dodatno izrazi osebni zaimek. Kateri za predlogom dobi ustrezno sklonsko obliko. Spol in število določa odnosnica, sklon pa razmerje znotraj odvisnika. To ločitev lahko pokažemo pri odnosnici v tožilniku glavnega stavka in zvezi o kateri v mestniku odvisnika. Sklona ne prenesemo avtomatično iz glavnega stavka v odvisni stavek.",
+      "left": {
+        "label": "Nespremenljivi ki",
+        "example": "knjiga, ki jo berem",
+        "text": "Predmetno vlogo znotraj odvisnika izrazi tudi jo."
+      },
+      "right": {
+        "label": "Kateri za predlogom",
+        "example": "knjiga, o kateri govorimo",
+        "text": "O kateri je mestnik zaradi razmerja znotraj odvisnika."
+      },
+      "takeaway": "Odnosnica usmerja spol in število; sklon določi odvisnik."
+    },
+    {
+      "id": "c4-12",
+      "section": "4.6",
+      "kind": "contrast",
+      "title": "Kaj in kar usmerjata različno branje",
+      "source_sections": [
+        "4.6"
+      ],
+      "refs": [
+        "Gabrovšek 2025"
+      ],
+      "notes": "Par uporabimo za razlikovanje vprašalne oziroma vsebinske in oziralne zgradbe. Leva poved poizveduje po vsebini opažanja, desna usmerja k temu, naj naslovnik opaženo pove. Razlike ne spremenimo v absolutno pravilo, po katerem bi bila ena oblika vedno napačna. Rabi se v nekaterih okoljih srečujeta in odločitev mora upoštevati namen ter sobesedilo. Svetovalnični vir ob sloganu pojasnjuje možnost pomensko utemeljene izbire; osmo poglavje primer vključi v pisanje jezikovnega nasveta. Cilj je prepoznati, katero razlago predpostavlja popravek.",
+      "left": {
+        "label": "Kaj",
+        "example": "Povej, kaj si opazil.",
+        "text": "Vprašanje po vsebini opažanja."
+      },
+      "right": {
+        "label": "Kar",
+        "example": "Povej, kar si opazil.",
+        "text": "Oziralna zgradba: posreduj opaženo."
+      },
+      "takeaway": "Pogostejša oblika ni samodejno edina pomensko utemeljena izbira."
+    },
+    {
+      "id": "c4-13",
+      "section": "4.7",
+      "kind": "concept",
+      "title": "Osebna glagolska oblika je lahko večbesedna",
+      "source_sections": [
+        "4.7"
+      ],
+      "refs": [],
+      "notes": "Osebna glagolska oblika povezuje dogajanje z osebo in številom ter sodeluje pri času in naklonu. Pri sestavljeni obliki se slovnične informacije razporedijo med njene dele. Pomožnik bom označuje osebo, deležnik pregledala pa tudi spol in število. Povedek analiziramo kot celoto in ne štejemo vsake njegove besede kot samostojnega osebnega glagola. Nasproti temu stojijo neosebne oblike, denimo nedoločnik, namenilnik in deležniške oziroma deležijske oblike. Njihova prepoznava še ni navodilo za ločila; kasneje bomo določili tudi način vključitve v poved.",
+      "lead": "Število zapisanih glagolskih besed ni število osebnih povedkov.",
+      "blocks": [
+        {
+          "label": "Enobesedna oblika",
+          "text": "pregledam: osebna glagolska oblika."
+        },
+        {
+          "label": "Sestavljena oblika",
+          "text": "bom pregledala: pomožnik in deležnik tvorita celoto."
+        },
+        {
+          "label": "Neosebne oblike",
+          "text": "pregledati, pregledat, pregledano: skladenjsko funkcijo ugotovimo v zvezi."
+        }
+      ],
+      "takeaway": "Najprej določimo sestavljeno obliko, nato vlogo njenih delov."
+    },
+    {
+      "id": "c4-14",
+      "section": "4.7",
+      "kind": "contrast",
+      "title": "Nedoločnik in namenilnik nista poljubni dolžini",
+      "source_sections": [
+        "4.7"
+      ],
+      "refs": [],
+      "notes": "Pri izbiri preverimo nadrejeni glagol in pomen zveze. Želim izraža željo, grem pa premikanje z namenom, zato sledita različni neosebni obliki. Namenilnik je mogoč tudi ob povzročanju premikanja: poslala ga je kupit papir. Če je glagol premikanja izpuščen, obnovimo celotno sporočilo; vsake oblike brez -i ne razglasimo za napačen nedoločnik. Pri Besedotvorje nas uči tvorjene besede razumeti nedoločnik dopolnjuje glagol uči in ga ne ločimo z vejico zgolj zaradi neosebnosti. Oblikovna oznaka in ločilo zahtevata različni stopnji analize.",
+      "left": {
+        "label": "Nedoločnik",
+        "example": "Želim prebrati obvestilo.",
+        "text": "Neosebna oblika dopolnjuje glagol želje."
+      },
+      "right": {
+        "label": "Namenilnik",
+        "example": "Grem prebrat obvestilo.",
+        "text": "Premikanje z namenom branja."
+      },
+      "takeaway": "Odločilna je skladenjska funkcija neosebne oblike v celotni zvezi."
+    },
+    {
+      "id": "c4-15",
+      "section": "4.7",
+      "kind": "table",
+      "title": "Deležnik ali deležje: primerjajmo funkcijo in pregibanje",
+      "source_sections": [
+        "4.7"
+      ],
+      "refs": [
+        "Toporišič 2004: 319, 403–405"
+      ],
+      "notes": "Pri prvih dveh vrsticah je podoben končaj povezan z drugačno funkcijo. Opisni deležnik sodeluje pri pretekli obliki, deležnik stanja pa določa samostalnik in se z njim ujema tudi v sklonu. Pri smejočih se otrocih pokažemo sklanjanje, pri Smejoč se, je otrok odšel pa spremljajoče dogajanje. Toporišič pregibne deležnike, razen obeh opisnih, uvršča med pridevniške besede, deležja pa med glagolske oblike. Pri pregledano poročilo in poročilo je bilo pregledano preverimo tudi dejanje proti stanju. Iz oznake deležnik ne izpeljemo avtomatične vejice.",
+      "headers": [
+        "Zgled",
+        "Analiza",
+        "Kaj primerjamo?"
+      ],
+      "rows": [
+        [
+          "Listi so padli.",
+          "Opisni deležnik na -l.",
+          "Del sestavljene pretekle oblike."
+        ],
+        [
+          "Pobirali smo padle liste.",
+          "Deležnik stanja na -l.",
+          "Prilastek se ujema tudi v sklonu."
+        ],
+        [
+          "smejoči se otroci → s smejočimi se otroki",
+          "Pregibni deležnik.",
+          "Sprememba oblike ob samostalniku."
+        ],
+        [
+          "Smejoč se, je otrok odšel.",
+          "Deležje.",
+          "Nepregibna oblika spremljajočega dogajanja."
+        ]
+      ],
+      "takeaway": "Podoben končaj ne zagotavlja enake funkcije ali enakega obsega pregibanja."
+    },
+    {
+      "id": "c4-16",
+      "section": "4.8",
+      "kind": "concept",
+      "title": "Vid in čas opisujeta različni razmerji",
+      "source_sections": [
+        "4.8"
+      ],
+      "refs": [],
+      "notes": "Prvi dve povedi govorita o prihodnosti. Nedovršnik predstavi ukvarjanje s pisanjem, dovršnik v ospredje postavi celovitost oziroma dokončanje. Nedovršna poved dokončanja ne izključuje, dovršna pa ne pomeni že preteklega dogodka. Nato primerjamo sedanjik s prihodnjo umestitvijo v tretjem zgledu. Pri Zdaj odprete datoteko lahko sedanjik sodeluje tudi pri usmerjanju dejanja. Časovne razlage zato ne izpeljemo samo iz imena oblike: pomagata prislov in sobesedilo. To bo pomembno pri preoblikovanju tvornika v trpnik, kjer lahko nehote zamenjamo še vid.",
+      "lead": "Dovršnost ni preteklost; sedanjik ni vedno sedanjost.",
+      "blocks": [
+        {
+          "label": "Nedovršni pogled",
+          "text": "Jutri bom pisal poročilo: v ospredju je ukvarjanje s pisanjem."
+        },
+        {
+          "label": "Dovršni pogled",
+          "text": "Jutri bom napisal poročilo: v ospredju je dokončanje celote."
+        },
+        {
+          "label": "Časovna umestitev",
+          "text": "Jutri odpotujemo: sedanjik, prihodnji dogodek."
+        }
+      ],
+      "takeaway": "Časovno in vidsko razlago utemeljimo iz celotne povedi."
+    },
+    {
+      "id": "c4-17",
+      "section": "4.8",
+      "kind": "table",
+      "title": "Besedni red še ne naredi trpnika",
+      "source_sections": [
+        "4.8"
+      ],
+      "refs": [],
+      "notes": "Prvi dve povedi sta tvorni kljub različnemu vrstnemu redu. Pri tretji rokopis postane osebek, vršilka pa ni izražena. Trpnik lahko smiselno postavi v ospredje predmet ali postopek, zato ga ne odpravljamo zgolj zaradi oblike. Če je odgovornost pomembna, preverimo, ali izpust vršilca povzroči nejasnost. Pri nadaljnjih pretvorbah pazimo tudi na vid: popravljala in popravljeno ne pomenita zgolj zamenjave načina, ker se nedovršno popravljati zamenja z dovršnim popraviti. Poglavje zaključimo z vprašanjem, katere slovnične in pomenske informacije mora uredniška sprememba ohraniti.",
+      "headers": [
+        "Poved",
+        "Način",
+        "Udeleženska razmerja"
+      ],
+      "rows": [
+        [
+          "Urednica je pregledala rokopis.",
+          "Tvornik.",
+          "Urednica je osebek in vršilka."
+        ],
+        [
+          "Rokopis je pregledala urednica.",
+          "Tvornik.",
+          "Besedni red se spremeni, razmerji ostaneta."
+        ],
+        [
+          "Rokopis je bil pregledan.",
+          "Trpnik.",
+          "Rokopis je osebek; vršilka ni izražena."
+        ]
+      ],
+      "takeaway": "Pri preoblikovanju preverimo način, vid, izražene udeležence in namen besedila."
+    }
+  ],
+  "wrap": {
+    "points": [
+      "Oblika dobi razlago v konkretni zgradbi.",
+      "Skladenjska vloga in pomenska skupina se ne prekrivata avtomatično.",
+      "Pri pretvorbi ohranimo tudi vid in udeleženska razmerja."
+    ],
+    "bridge": "Pri lastnih imenih bomo tem postopkom dodali izgovor, poimenovalno vlogo in pravopisni vir.",
+    "reading": "Toporišič 2004: 255–262, 317–329, 403–405; Vidovič Muha 2013: 367–369, 385, 395–399."
+  }
+}

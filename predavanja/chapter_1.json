@@ -1,0 +1,563 @@
+{
+  "chapter": 1,
+  "title": "Kako utemeljimo jezikovno odločitev?",
+  "short_title": "Jezikovna odločitev",
+  "question": "Kateri podatek odloča o rešitvi jezikovnega problema?",
+  "outcomes": [
+    "Natančno poimenujemo problem in raven analize.",
+    "Razločimo pomen, zgradbo, kodifikacijo in ustreznost.",
+    "Izberemo vir ter omejimo doseg svojega sklepa."
+  ],
+  "slides": [
+    {
+      "id": "c1-01",
+      "section": "1.1",
+      "kind": "table",
+      "title": "Tisto, kar nas zmoti, še ni diagnoza",
+      "source_sections": [
+        "1.1"
+      ],
+      "refs": [],
+      "notes": "Začnemo s tremi vprašanji iz skripte. Študenti naj najprej povedo, kateri podatek bi potrebovali, ne takoj izberejo odgovora. Pri prvem primeru poiščemo sklon in ujemanje, pri drugem pomen pridevnika in sobesedilo, pri tretjem mejo odvisnika. Skupna oznaka pravilno ali nepravilno prikrije različne naloge. V nadaljevanju bomo gradili besedišče, s katerim problem poimenujemo dovolj natančno, da lahko izberemo tudi ustrezen vir.",
+      "headers": [
+        "Primer",
+        "Odločilno vprašanje"
+      ],
+      "rows": [
+        [
+          "v novem poročilu / v novemu poročilu",
+          "Kateri sklon zahteva zveza?"
+        ],
+        [
+          "nov slovar / novi slovar",
+          "Kaj pomeni pridevnik v sobesedilu?"
+        ],
+        [
+          "Poročilo, ki ga je pripravila skupina, bomo objavili jutri.",
+          "Kje se odvisnik začne in konča?"
+        ]
+      ],
+      "takeaway": "Natančno vprašanje usmeri analizo in izbiro vira."
+    },
+    {
+      "id": "c1-02",
+      "section": "1.2",
+      "kind": "table",
+      "title": "Štiri razsežnosti jezikovne presoje",
+      "source_sections": [
+        "1.2"
+      ],
+      "refs": [],
+      "notes": "Vsako presojo umestimo v ustrezno razsežnost. Pogost zapis je podatek o rabi, ne neposredna potrditev kodifikacije. Slovnično mogoča poved je lahko v določenem uradnem besedilu slogovno neprimerna. Dve dopustni obliki lahko izrazita različna pomena. Pri razlagi študenti poimenujejo tudi doseg sklepa: popravljajo ujemanje, razrešujejo dvoumnost ali predlagajo slogovno izboljšavo. Razsežnosti se povezujejo, vendar ene ne dokazujemo samo z drugo.",
+      "headers": [
+        "Razsežnost",
+        "Kaj ugotavljamo?"
+      ],
+      "rows": [
+        [
+          "Pomen",
+          "Kaj izraz sporoča in na kaj se nanaša?"
+        ],
+        [
+          "Slovnična zgradba",
+          "Kakšni odnosi povezujejo sestavine?"
+        ],
+        [
+          "Kodifikacija",
+          "Kako pojav obravnava določeni normativni priročnik?"
+        ],
+        [
+          "Sporazumevalna ustreznost",
+          "Kako izbira deluje pri teh naslovnikih in v tej vrsti besedila?"
+        ]
+      ],
+      "takeaway": "Povejmo, kaj naša utemeljitev dokazuje in kako daleč velja."
+    },
+    {
+      "id": "c1-03",
+      "section": "1.2",
+      "kind": "contrast",
+      "title": "Teoretična analiza in pravopisna odločitev",
+      "source_sections": [
+        "1.2"
+      ],
+      "refs": [
+        "Toporišič 2004: 833–834",
+        "Vidovič Muha 2013: 17–18"
+      ],
+      "notes": "Primerjava loči vrsti trditev, ne knjig na povsem opisne in povsem normativne. Toporišič tudi slovnico uvršča med kodifikacijske priročnike. Zato ob sklicevanju prepoznamo, katero vrsto trditve prevzemamo. Leksem je lahko večbeseden, toda iz tega ne dobimo dovoljenja za poljubno združevanje besed. Pri vsaki odločitvi povežemo razlagalno merilo s pravilom za obravnavano skupino. Ime avtorja ali izpita samo ne nadomesti dokaza.",
+      "left": {
+        "label": "Teorija",
+        "example": "Ta beseda je tvorjena iz predložne zveze.",
+        "text": "Razložimo zgradbo po določenem merilu in v imenovanem modelu."
+      },
+      "right": {
+        "label": "Kodifikacija",
+        "example": "To obliko v izbranem priročniku pišemo z vezajem.",
+        "text": "Preverimo obseg pravila, konkretni primer in status normativnega vira."
+      },
+      "takeaway": "Analiza pojasni zgradbo; normativno odločitev dodatno utemeljimo v izbranem okviru."
+    },
+    {
+      "id": "c1-04",
+      "section": "1.3",
+      "kind": "contrast",
+      "title": "Dve obliki ali dva leksema?",
+      "source_sections": [
+        "1.3"
+      ],
+      "refs": [
+        "Vidovič Muha 2013: 17–19, 25–29",
+        "Toporišič 2004: 103–106"
+      ],
+      "notes": "V povedi poiščemo obe pojavitvi leksema študent. Obliki sta različni, ker sta vključeni v različni skladenjski razmerji. Nato preidemo na nasprotno vprašanje: ali dva presledkom ločena zapisa nujno pomenita dve samostojni poimenovanji? Sončna očala pokažejo, da ne. Pri štetju moramo razlikovati pojavitve, oblike in lekseme. Toporišičev opis besede in avtoričin pojem leksema odgovarjata na povezani, vendar ne povsem isti vprašanji.",
+      "left": {
+        "label": "Obliki istega leksema",
+        "example": "Študent je študentu posodil knjigo.",
+        "text": "Študent in študentu pripadata istemu leksemu; v povedi imata različni nalogi."
+      },
+      "right": {
+        "label": "Večbesedni leksem",
+        "example": "sončna očala / nova očala",
+        "text": "Ustaljeno poimenovanje primerjamo s prosto opisno zvezo."
+      },
+      "takeaway": "Vedno navedimo, ali analiziramo pojavitev, besedno obliko ali leksem."
+    },
+    {
+      "id": "c1-05",
+      "section": "1.3",
+      "kind": "table",
+      "title": "Oblika, tvorjenka in pomen so različne ravni",
+      "source_sections": [
+        "1.3"
+      ],
+      "refs": [
+        "Vidovič Muha 2013: 18–19"
+      ],
+      "notes": "Primerjave vodimo zaporedno. Knjig-a in knjig-e pokažeta osnovo in končnico. Pri gozdarju pripona sodeluje pri tvorjenju druge besede; podrobno analizo prepustimo tretjemu poglavju. Pri miški pa moramo ločiti oblikovno razliko od razlike med živaljo in napravo. V modelu Ade Vidovič Muha posamezni pomen imenujemo semem, celoto povezanih pomenov pa pomenje oziroma semantem. Ti dve oznaki bomo v drugem poglavju še razvili.",
+      "headers": [
+        "Primer",
+        "Raven analize"
+      ],
+      "rows": [
+        [
+          "knjig-a – knjig-e",
+          "Osnova in sklonska končnica."
+        ],
+        [
+          "gozd – gozdar",
+          "Tvorjenje nove besede s pripono."
+        ],
+        [
+          "miška – miški",
+          "Različni slovnični obliki."
+        ],
+        [
+          "miška: žival – računalniška naprava",
+          "Povezana pomena znotraj pomenja istega leksema."
+        ]
+      ],
+      "takeaway": "Oblikovne spremembe ne enačimo s tvorjenjem ali pomenskim razmerjem."
+    },
+    {
+      "id": "c1-06",
+      "section": "1.4",
+      "kind": "table",
+      "title": "Besedna vrsta še ne določi stavčnega člena",
+      "source_sections": [
+        "1.4"
+      ],
+      "refs": [
+        "Toporišič 2004: 317, 344, 412"
+      ],
+      "notes": "V prvih treh zgledih prepoznamo isti samostalniški leksem in različni stavčni funkciji. Pri predložni zvezi označimo celoto o knjigi. Enako pri osebku nova knjiga o prevajanju ne označimo zgolj njegovega jedra. Četrti zgled pripravi terminološko razlikovanje: zanimiva je povedkovo določilo, skupaj z je pa tvori povedek. Podrobnejša besednovrstna analiza lahko v Toporišičevem modelu obravnava prehod v povedkovnik. To ni drugo ime za povedek.",
+      "headers": [
+        "Poved",
+        "Funkcija sestavine"
+      ],
+      "rows": [
+        [
+          "Knjiga je izšla.",
+          "Knjiga: osebek."
+        ],
+        [
+          "Urednica bere knjigo.",
+          "knjigo: predmet."
+        ],
+        [
+          "Pogovarjali smo se o knjigi.",
+          "o knjigi: predmetna predložna zveza."
+        ],
+        [
+          "Knjiga je zanimiva.",
+          "zanimiva: povedkovo določilo; je zanimiva: povedek."
+        ]
+      ],
+      "takeaway": "Razločimo besedno vrsto, jedro sestavine in celotno stavčno funkcijo."
+    },
+    {
+      "id": "c1-07",
+      "section": "1.5",
+      "kind": "table",
+      "title": "Tri načine povezovanja preverimo z zgledi",
+      "source_sections": [
+        "1.5"
+      ],
+      "refs": [],
+      "notes": "Najprej spreminjamo zvezo zanimiva razprava: zanimive razprave, zanimivi razpravi. Odvisna sestavina se po ustreznih kategorijah ravna po jedru. Pri razmišljati o razpravi je pomembna zahtevana oblika dopolnila; vezavo povezujemo s širšim vprašanjem vezljivosti. Pri pozorno brati ni takšnega oblikovnega prilagajanja. Ti preizkusi omogočijo, da odnose poimenujemo na podlagi vedenja sestavin in ne zgolj po občutku, katere besede sodijo skupaj.",
+      "headers": [
+        "Razmerje",
+        "Zgled",
+        "Odločilna lastnost"
+      ],
+      "rows": [
+        [
+          "Ujemanje",
+          "zanimiva razprava",
+          "Prilagajanje po spolu, številu in sklonu."
+        ],
+        [
+          "Vezava",
+          "razmišljati o razpravi",
+          "Dopolnilo v določeni obliki."
+        ],
+        [
+          "Primik",
+          "pozorno brati",
+          "Določanje brez oblikovnega ujemanja ali sklonovne vezave."
+        ]
+      ],
+      "takeaway": "Pri vsaki zvezi ugotovimo, kako jedro omejuje oziroma povezuje odvisni del."
+    },
+    {
+      "id": "c1-08",
+      "section": "1.5",
+      "kind": "example",
+      "title": "Ista poved vsebuje prirednost in podrednost",
+      "source_sections": [
+        "1.5"
+      ],
+      "refs": [],
+      "notes": "Študenti naj zamejijo oba predmeta in povedo, kaj povezuje in. Nato poiščejo odnosnico zaimka jo. Odvisnik določa knjigo, ne obeh samostalnikov avtomatično. Povezavo prenesemo na besedotvorje: zgodovina književnosti vzpostavi drugačno razmerje kot književnost in zgodovina. Toda prirednost v podstavi tvorjenke in prirednost med stavkoma nista isto vprašanje o zapisu. Vedno določimo raven analize, šele potem odločamo o vezaju, presledku ali vejici.",
+      "example": "Bere članek in knjigo, ki jo je priporočila mentorica.",
+      "steps": [
+        {
+          "label": "Prirednost",
+          "text": "Članek in knjiga sta predmeta na isti skladenjski ravni."
+        },
+        {
+          "label": "Podrednost",
+          "text": "Odvisnik ki jo je priporočila mentorica določa knjigo."
+        },
+        {
+          "label": "Raven",
+          "text": "Odnose med stavki ločimo od odnosov v podstavi tvorjenke."
+        }
+      ],
+      "takeaway": "Oznaka priredno sama še ne določi ločila ali zapisa tvorjenke."
+    },
+    {
+      "id": "c1-09",
+      "section": "1.6",
+      "kind": "contrast",
+      "title": "Poved in stavek ne merita istega",
+      "source_sections": [
+        "1.6"
+      ],
+      "refs": [
+        "Toporišič 2004: 488–490"
+      ],
+      "notes": "Poved je sporočilna enota, stavek pa skladenjska zgradba. Primer z nedoločnikom je lahko samostojen vzklik, čeprav nima osebne glagolske oblike. Toporišič obravnava tudi ustreznike stavkov in pastavčne tvorbe, denimo nagovor ali medmetni odziv. Za uvodno raven je bistveno, da štetje osebnih oblik ni popolna definicija povedi. Pri zahtevnejši razčlenitvi poimenujemo konkretni tip zgradbe; vseh takih zgledov ne združimo v eno nedoločeno izjemo.",
+      "left": {
+        "label": "Osebna stavčna zgradba",
+        "example": "Ana hodi domov.",
+        "text": "Povedek ima osebno glagolsko obliko; poved je samostojno sporočilo."
+      },
+      "right": {
+        "label": "Neosebni izraz",
+        "example": "Hoditi domov ob taki uri!",
+        "text": "Nedoločniška zgradba je lahko samostojno sporočilo brez osebne glagolske oblike."
+      },
+      "takeaway": "Sporočilne samostojnosti ne določimo samo s štetjem osebnih glagolov."
+    },
+    {
+      "id": "c1-10",
+      "section": "1.6",
+      "kind": "table",
+      "title": "Isto pomensko izhodišče različno upovedimo",
+      "source_sections": [
+        "1.6"
+      ],
+      "refs": [
+        "Toporišič 2004: 491–492"
+      ],
+      "notes": "Izhodišče tvorijo poslati, urednica, avtor in pripombe. Pri treh povedih preverimo ohranitev udeleženskih razmerij ter spremembo sporočilne vloge. Urednica ostane predvidena vršilka, avtor prejemnik, pripombe poslano. Zatrjevanje dogodka ni isto kot spraševanje ali poziv. Propozicijo v tej razlagi uporabljamo za pomensko podstavo, upovedovanje pa za njeno konkretno skladenjsko in sporazumevalno uresničitev. Zato besedni seznam sam še ne izraža časa ali govorčeve namere.",
+      "headers": [
+        "Način upovedovanja",
+        "Poved"
+      ],
+      "rows": [
+        [
+          "Trditev",
+          "Urednica je avtorju poslala pripombe."
+        ],
+        [
+          "Vprašanje",
+          "Ali je urednica avtorju poslala pripombe?"
+        ],
+        [
+          "Poziv",
+          "Naj urednica avtorju pošlje pripombe."
+        ]
+      ],
+      "takeaway": "Upovedovanje pomenski podstavi doda konkretno zgradbo, časovne določitve in sporočilno vlogo."
+    },
+    {
+      "id": "c1-11",
+      "section": "1.6",
+      "kind": "table",
+      "title": "Povedek ne izčrpa vseh predikacijskih vsebin",
+      "source_sections": [
+        "1.6"
+      ],
+      "refs": [
+        "Toporišič 2004: 491–492, 494–495, 555, 611–618"
+      ],
+      "notes": "Povedje in povedek v skripti razlikujeta pomensko in skladenjsko raven. Predikat je v literaturi večpomenski termin, tudi pri Toporišiču, zato ga ne razglašamo za univerzalno pomensko oznako. V prikazanih povedih štejemo zgradbe in razlagamo njihov pomen. Je oddala vsebuje dve besedi, toda eno sestavljeno osebno obliko. Želi oddati ne zatrjuje opravljene oddaje. Vrnila se je utrujena poleg vrnitve pripiše Maji stanje. Nominalizacija uredničino pošiljanje pripomb avtorju ohrani dogodkovno vsebino, ne osebnega povedka.",
+      "headers": [
+        "Zgled",
+        "Kaj moramo ločiti?"
+      ],
+      "rows": [
+        [
+          "Maja je oddala nalogo.",
+          "Dve glagolski besedi; ena sestavljena osebna oblika."
+        ],
+        [
+          "Maja želi oddati nalogo.",
+          "Hotenje; oddaja še ni zatrjena kot izvršena."
+        ],
+        [
+          "Maja je povedala, da bo oddala nalogo.",
+          "Nadredni stavek in vsebinski odvisnik."
+        ],
+        [
+          "Maja se je vrnila utrujena.",
+          "Vrnitev in dodatno prisojeno Majino stanje."
+        ]
+      ],
+      "takeaway": "Najprej razločimo vsebine in njihovo vključitev, nato štejemo ter poimenujemo zgradbe."
+    },
+    {
+      "id": "c1-12",
+      "section": "1.7",
+      "kind": "example",
+      "title": "Zakaj stojita dve vejici?",
+      "source_sections": [
+        "1.7"
+      ],
+      "refs": [],
+      "notes": "Najprej preberemo poved brez odvisnika: Poročilo bomo objavili jutri. Nato znova vključimo prilastkov odvisnik in označimo njegov začetek ter konec. Vejica pred bomo zapira odvisnik; ni posledica besede bomo. Odstranitev pomaga razkriti osnovno zgradbo, vendar ni splošno ločilno pravilo. Tudi novo v zvezi novo poročilo lahko izpustimo, pa zato ne potrebuje dveh vejic. Od študentov zahtevamo navedbo konkretne odnosnice in obeh meja.",
+      "example": "Poročilo, ki ga je pripravila skupina, bomo objavili jutri.",
+      "steps": [
+        {
+          "label": "Osnova",
+          "text": "Poročilo bomo objavili jutri."
+        },
+        {
+          "label": "Odnosnica",
+          "text": "Ki ga je pripravila skupina določa poročilo."
+        },
+        {
+          "label": "Meji",
+          "text": "Prva vejica začne odvisnik; druga ga konča."
+        }
+      ],
+      "takeaway": "Vejico pred bomo pojasni konec odvisnika, ne beseda, ki sledi."
+    },
+    {
+      "id": "c1-13",
+      "section": "1.8",
+      "kind": "table",
+      "title": "Izberemo vir, ki odgovarja na naše vprašanje",
+      "source_sections": [
+        "1.8"
+      ],
+      "refs": [],
+      "notes": "Fran je dostop do različnih virov, ne ime enega slovarja z enotnim namenom. Ob zadetku preberemo naslov slovarja, pomen in oznake. Teorijo preverjamo v slovnici ali monografiji, ustaljeni strokovni pojem v terminološkem viru, zapleteno praktično zadrego pa lahko v Jezikovni svetovalnici. Korpus prispeva podatke o besedilni rabi. Noben od teh virov ni samodejna zamenjava za druge: izbira sledi natančno opredeljenemu predmetu presoje.",
+      "headers": [
+        "Vprašanje",
+        "Začetni vir",
+        "Kaj preberemo?"
+      ],
+      "rows": [
+        [
+          "Model ali kategorija",
+          "Slovnica, monografija",
+          "Merilo, dokazni zgled, meje analize."
+        ],
+        [
+          "Pomen ali termin",
+          "Razlagalni, terminološki slovar",
+          "Pomen, področje, kvalifikatorji."
+        ],
+        [
+          "Pravilo ali zadrega",
+          "Pravopis, Jezikovna svetovalnica",
+          "Obseg pravila, pogoji, status in datum."
+        ],
+        [
+          "Besedilna raba",
+          "Korpus",
+          "Celotno sobesedilo, žanr, ponovitve."
+        ]
+      ],
+      "takeaway": "Sklic na portal še ne pove, kateri vir in kateri podatek uporabljamo."
+    },
+    {
+      "id": "c1-14",
+      "section": "1.8",
+      "kind": "process",
+      "title": "Slovarski sestavek beremo po plasteh",
+      "source_sections": [
+        "1.8"
+      ],
+      "refs": [
+        "eP 2025: 7–9"
+      ],
+      "notes": "Pravilo opredeli skupino primerov, slovarski sestavek pa pokaže uvrstitev konkretne enote. Pri tujem imenu potrebujemo splošni postopek in njegov izgovor. Oštevilčena enakopisna sestavka lahko obravnavata različni enoti, ne dveh prostih različic. Povezavi in ter tudi razložimo po navodilih slovarja. Drugo mesto ne pomeni napačnosti. Prav tako ne smemo iz različnih paradigem vzeti posameznih delov in sestaviti nove dvojnice, ki je vir ne navaja.",
+      "steps": [
+        {
+          "label": "Iztočnica",
+          "text": "Prepoznamo enoto in morebitno številčenje enakopisnih sestavkov."
+        },
+        {
+          "label": "Izgovor in pregibanje",
+          "text": "Preberemo izgovor, paradigmo ter slovnično in pomensko uvrstitev."
+        },
+        {
+          "label": "Zgledi in tvorjenke",
+          "text": "Razločimo sklonsko obliko v zgledu, povezano tvorjenko in napotilo."
+        },
+        {
+          "label": "Navodila slovarja",
+          "text": "Preverimo kvalifikatorje, dvojnice in normativna pojasnila."
+        }
+      ],
+      "takeaway": "Pravilno prebrani slovarski podatek je pogoj za pravilno uporabo splošnega pravila."
+    },
+    {
+      "id": "c1-15",
+      "section": "1.8",
+      "kind": "table",
+      "title": "SP 2001, eP 2025 in P8 imajo različne vloge",
+      "source_sections": [
+        "1.8"
+      ],
+      "refs": [
+        "eP 2025: 6, 10"
+      ],
+      "notes": "V skripti ostaja SP 2001 osnovni normativni okvir. ePravopis 2025 je letni prirastek slovarja, ne celotno besedilo novih pravil. Predlog Pravopisa 8.0 uporabljamo posebej označeno za splošno predlagano ureditev. Oznaki Predlog in Potrjeno v redakcijskem postopku ne odpravita splošnega opozorila o normativni veljavnosti slovarja, povezani s potrditvijo pravil. Staro izpitno rešitev zato najprej pojasnimo v njenem takratnem okviru.",
+      "headers": [
+        "Vir",
+        "Kaj z njim utemeljujemo?",
+        "Kako ga navedemo?"
+      ],
+      "rows": [
+        [
+          "SP 2001",
+          "Pravilo v osnovnem normativnem okviru.",
+          "Člen in po potrebi stran."
+        ],
+        [
+          "ePravopis 2025",
+          "Konkretni slovarski predlog in paradigmo.",
+          "Iztočnica in stran."
+        ],
+        [
+          "Pravopis 8.0 — predlog",
+          "Predlagano splošno ureditev.",
+          "Poglavje, člen {…}, različica."
+        ]
+      ],
+      "takeaway": "Različnih statusov virov ne združimo v neoznačeno zbirko novih pravil."
+    },
+    {
+      "id": "c1-16",
+      "section": "1.8",
+      "kind": "table",
+      "title": "Razlika med odgovoroma ni vedno sprememba pravila",
+      "source_sections": [
+        "1.8"
+      ],
+      "refs": [
+        "eP 2025: 5–6"
+      ],
+      "notes": "Primerjava se začne s preverjanjem, ali oba vira obravnavata isto enoto in isti pomen. Različen izgovor enako zapisanega imena lahko spremeni pregibanje brez novega pravila. Dvojnica je lahko obstajala že prej, pa je nismo opazili. Šele po teh preverjanjih opredelimo morebitno spremembo predlagane kodifikacije. Pri normativnem odločanju eP obravnava izročilo, sistem, rabo, gospodarnost in potrebe skupnosti. Pogostnost in tradicija sta podatka, ne samostojna končna dokaza.",
+      "headers": [
+        "Položaj",
+        "Kaj preverimo?"
+      ],
+      "rows": [
+        [
+          "Spremenjen predlog zapisa",
+          "Ali vir izrecno predlaga drugačno kodifikacijo?"
+        ],
+        [
+          "Natančnejša razmejitev",
+          "Ali loči prej združene izgovore ali primere?"
+        ],
+        [
+          "Že obstoječa dvojnica",
+          "Ali smo staro navodilo prebrali v celoti?"
+        ],
+        [
+          "Drug pomen ali predmet",
+          "Ali oba odgovora rešujeta isto vprašanje?"
+        ]
+      ],
+      "takeaway": "Najprej zagotovimo primerljivost podatkov, nato poimenujemo razliko med viri."
+    },
+    {
+      "id": "c1-17",
+      "section": "1.8",
+      "kind": "process",
+      "title": "Od korpusnega zadetka do preverljive utemeljitve",
+      "source_sections": [
+        "1.8"
+      ],
+      "refs": [
+        "Gigafida: opis korpusa; skripta 1.8"
+      ],
+      "notes": "Gigafida je referenčni korpus pisne slovenščine, zato moramo vedeti, katere vrste besedil vsebuje. Za sopomenskost potrebujemo sobesedilo, za register primerljive vrste besedil, za pogostnost jasno poizvedbo in enoto štetja. Dvajset vrstic lahko vsebuje ponovitve iste objave ali različne pomene. Študenti naj oblikujejo kratek zapis preverjanja. Sklep o izpričani rabi nato povežemo s slovnično analizo in normativnim virom, če naloga sploh zahteva presojo pravilnosti.",
+      "steps": [
+        {
+          "label": "Vprašanje",
+          "text": "Določimo pomen, register ali pojav, ki ga preverjamo."
+        },
+        {
+          "label": "Podatki",
+          "text": "Zapišemo korpus, različico, poizvedbo in enoto štetja."
+        },
+        {
+          "label": "Presoja zadetkov",
+          "text": "Preberemo sobesedilo; razločimo pomene, žanre in ponovitve."
+        },
+        {
+          "label": "Omejen sklep",
+          "text": "Navedemo ugotovitev, datum dostopa in po potrebi normativno preverjanje."
+        }
+      ],
+      "takeaway": "Korpus dokazuje izpričano rabo; obseg sklepa določimo z analizo podatkov."
+    }
+  ],
+  "wrap": {
+    "points": [
+      "Ista površinska težava lahko zahteva različne vrste dokazov.",
+      "Besedna vrsta, stavčna funkcija in pomenska vloga so različne analize.",
+      "Vir uporabljamo z njegovim merilom, obsegom in statusom."
+    ],
+    "bridge": "Pred izbiro oblike zdaj podrobneje ugotovimo, kaj izraz poimenuje.",
+    "reading": "Toporišič 2004: 103–106, 488–492, 833–834; Vidovič Muha 2013: 17–22."
+  }
+}

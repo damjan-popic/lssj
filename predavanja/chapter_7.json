@@ -1,0 +1,501 @@
+{
+  "chapter": 7,
+  "title": "Vrinjeno, pristavljeno, citirano",
+  "short_title": "Dodatki in navedki",
+  "question": "Kako je dodana ali citirana vsebina vključena v poved?",
+  "outcomes": [
+    "Razločimo prilastek, pristavek, vrivek, dostavek in nagovor.",
+    "Povežemo neosebno obliko z njeno dejansko skladenjsko funkcijo.",
+    "Uredimo navedke in ohranimo govorni položaj pri poročanju."
+  ],
+  "slides": [
+    {
+      "id": "c7-01",
+      "section": "7.1",
+      "kind": "contrast",
+      "title": "Pristavek ponovno poimenuje isto osebo",
+      "source_sections": [
+        "7.1"
+      ],
+      "refs": [
+        "SP 2001: § 301–303"
+      ],
+      "notes": "Obe povedi identificirata urednico, vendar druga že imenovani Maji doda drugo poimenovanje. Desna vejica zato zapre pristavek in ne ločuje osebka od povedka. Nato primerjamo Z Ano, prevajalko iz Kopra, smo pregledali besedilo: iz Kopra je prilastek znotraj pristavka. Ista notranja zveza v s prevajalko iz Kopra še ne pomeni pristavka. Študenti naj pokažejo celotni obseg drugega poimenovanja in preverijo, ali se poved za njim nadaljuje.",
+      "left": {
+        "label": "Skupno poimenovanje",
+        "example": "Urednica Maja je pregledala besedilo.",
+        "text": "Zveza urednica Maja skupaj poimenuje osebo."
+      },
+      "right": {
+        "label": "Dodatno poimenovanje",
+        "example": "Maja, urednica zbirke, je pregledala besedilo.",
+        "text": "Urednica zbirke je pristavek k že poimenovani Maji."
+      },
+      "takeaway": "Pristavek omejimo na obeh straneh, če se poved nadaljuje."
+    },
+    {
+      "id": "c7-02",
+      "section": "7.2",
+      "kind": "contrast",
+      "title": "Vejica med prilastkoma ne odpira vrivka",
+      "source_sections": [
+        "7.2"
+      ],
+      "refs": [
+        "SP 2001: § 297–298",
+        "ŠUSS: arhivski primer 000505"
+      ],
+      "notes": "Najprej naj študenti poiščejo razlog za vsako vejico posebej. V levem zgledu prva vejica povezuje prilastka drugem in bolj obširnem; zato ne potrebuje zaključne vejice za delu. Za običajno branje izberemo desni zapis. Nato odstranimo tudi prvo vejico in primerjamo pomen: drugo bolj obširno delo lahko pomeni drugo izmed obširnejših del. Ponazorimo še dolgi kodrasti lasje proti dolgi, gosti lasje. Dve vidni vejici torej nista samodejno en par.",
+      "left": {
+        "label": "Odvečna vejica za delu",
+        "example": "V svojem drugem, bolj obširnem delu, je avtor ugotovil, da ...",
+        "text": "Prva vejica ne odpira vrivka do konca predložne zveze."
+      },
+      "right": {
+        "label": "Običajno branje",
+        "example": "V svojem drugem, bolj obširnem delu je avtor ugotovil, da ...",
+        "text": "Celotna predložna zveza ostaja vključena v glavni stavek."
+      },
+      "takeaway": "Vsako vejico razložimo z njenim lastnim skladenjskim razmerjem."
+    },
+    {
+      "id": "c7-03",
+      "section": "7.3",
+      "kind": "table",
+      "title": "Vmesni, vrinjeni in dostavljeni del",
+      "source_sections": [
+        "7.3"
+      ],
+      "refs": [
+        "SP 2001: § 289–348, 390–392"
+      ],
+      "notes": "Podobna lega še ne pomeni iste odvisnosti. Prvi del je odvisnik, ki določa članek in se pojavi med deloma nadrednega stavka. Drugi komentira sporočanje; tretji po že oblikovanem sporočilu dodaja časovno podrobnost. Dostavek zjutraj ni drugo poimenovanje naloge in zato ni pristavek. Možnost izpusta prav tako ni dovolj: izpustili bi lahko navadno časovno določilo. Študenti naj vsak dodatek povežejo s tem, kar pojasnjuje ali komentira.",
+      "headers": [
+        "Zgled",
+        "Vključitev"
+      ],
+      "rows": [
+        [
+          "Članek, ki ga pregledujemo, je nastal lani.",
+          "Vmesni prilastkov odvisnik."
+        ],
+        [
+          "Članek, to smo že omenili, je nastal lani.",
+          "Vrinjeni komentar o sporočanju."
+        ],
+        [
+          "Nalogo pošljite jutri, po možnosti zjutraj.",
+          "Dostavek z naknadno podrobnostjo."
+        ]
+      ],
+      "takeaway": "Analiziramo odnos dodatka do celote, ne samo njegove lege."
+    },
+    {
+      "id": "c7-04",
+      "section": "7.3",
+      "kind": "example",
+      "title": "Za pomišljajem je lahko še potrebna vejica",
+      "source_sections": [
+        "7.3"
+      ],
+      "refs": [
+        "SP 2001: § 390–392"
+      ],
+      "notes": "Najprej odstranimo vstavek in dobimo Ko je bil pregled končan, smo odšli. Vejica je že potrebna zaradi časovnega odvisnika. Ko nato vrnemo trajal je dve uri, pomišljaj zapre vstavek, vejica pa ostane na drugi skladenjski ravni. Primerjamo Rezultat je – čeprav tega nismo pričakovali – presegel napovedi, kjer za zaklepnim pomišljajem ni druge meje in zato ni vejice. Pomišljaj ne sproži dodatne vejice, niti ne odstrani vsake že potrebne vejice.",
+      "example": "Ko je bil pregled končan – trajal je dve uri –, smo odšli.",
+      "steps": [
+        {
+          "label": "Brez vstavka",
+          "text": "Ko je bil pregled končan, smo odšli."
+        },
+        {
+          "label": "Vstavek",
+          "text": "trajal je dve uri omejimo s pomišljajema."
+        },
+        {
+          "label": "Dve meji",
+          "text": "Pomišljaj zapre vstavek; vejica zapre časovni odvisnik."
+        }
+      ],
+      "takeaway": "Ločili lahko označujeta različni skladenjski meji na istem mestu."
+    },
+    {
+      "id": "c7-05",
+      "section": "7.3",
+      "kind": "contrast",
+      "title": "Bolje rečeno: vključeni popravek ali komentar?",
+      "source_sections": [
+        "7.3"
+      ],
+      "refs": [
+        "Weiss 2016: Besedna zveza »z drugimi besedami« in raba ločil"
+      ],
+      "notes": "Zveze bolje rečeno ne omejujemo avtomatično z dvema vejicama. V prikazanih različicah popravljamo poimenovanje projekta; desna različica celotni popravek dodatno osamosvoji. Obe meji morata ustrezati istemu dodatku. Nato preberemo Skoraj nič oziroma bolje rečeno nič se ni spremenilo ter Rezultati so se izboljšali oziroma se, bolje rečeno, niso poslabšali. V drugem primeru se komentar vključuje med dele glagolske zgradbe. Odločitev sledi obsegu in načinu vključitve, ne sami frazi.",
+      "left": {
+        "label": "Tekoči popravek poimenovanja",
+        "example": "Projekt oziroma bolje rečeno njegov prvi del bo končan maja.",
+        "text": "Popravek vključimo v tekočo zgradbo."
+      },
+      "right": {
+        "label": "Osamosvojeno pojasnilo",
+        "example": "Projekt, oziroma bolje rečeno njegov prvi del, bo končan maja.",
+        "text": "Omejimo celotni dodani popravek."
+      },
+      "takeaway": "Ne obdajamo mehanično samo besed bolje rečeno."
+    },
+    {
+      "id": "c7-06",
+      "section": "7.4",
+      "kind": "table",
+      "title": "Trije položaji istega zaporedja in da",
+      "source_sections": [
+        "7.4"
+      ],
+      "refs": [
+        "Jezikovna svetovalnica: Vejica in večbesedni vezniki: »in ker«"
+      ],
+      "notes": "Besedilno navezovanje, vrinjeni komentar in povezovanje odvisnikov zahtevajo različne analize.\n\nPrvi primer navezuje novo poved na prejšnje besedilo, nato pa komentar prekine nadaljevanje. V drugem se komentar pojavi v naštevanju; meja je pred in in za večja. V tretjem in povezuje odvisnika, ki dopolnjujeta isto nadredno zgradbo. Trojček iz arhivskega gradiva pokaže, zakaj se pravilo ne more glasiti pred in da je vejica ali pred in da ni vejice. Po potrebi primerjamo še stik in če iz šestega poglavja.",
+      "takeaway": "Sosednost veznikov še ne določa ločila.",
+      "headers": [
+        "Vključitev",
+        "Zgled"
+      ],
+      "rows": [
+        [
+          "Navezava in komentar",
+          "In, da ne pozabimo, zraven dobite tudi brezplačno majico!"
+        ],
+        [
+          "Komentar v naštevanju",
+          "Tovrstne govorice zdaj širi nemški, francoski, angleški, in da bo ironija še večja, tudi ameriški tisk."
+        ],
+        [
+          "Priredna odvisnika",
+          "V današnjem tempu življenja pogosto pozabimo na to, da lahko pomagamo drugim in da bomo morda tudi sami potrebovali pomoč že jutri."
+        ]
+      ],
+      "widths": [
+        3.1,
+        8.88
+      ]
+    },
+    {
+      "id": "c7-07",
+      "section": "7.5",
+      "kind": "contrast",
+      "title": "Nagovor lahko imenuje istega človeka kot osebek",
+      "source_sections": [
+        "7.5"
+      ],
+      "refs": [
+        "SP 2001: § 342–347",
+        "Jezikovna svetovalnica: Vejica ali ne pri igri »človek, ne jezi se«"
+      ],
+      "notes": "V prvi povedi je Maja osebek. V drugi Majo nagovarjamo, velelnik pa ima neizraženi osebek vi. Skupni nanosnik zato ne pomeni iste slovnične vloge. Prestavimo nagovor: Pošljite, Maja, še zadnjo različico. Nato primerjamo samostojni Da, besedilo je pripravljeno z vključenim členkom v Besedilo je gotovo pripravljeno. Enako razlikujemo neposredni pozdrav Dober dan, vstopite! in navajanje izraza v Pozdravil je z »dober dan«. Narekovaji sami ne ustvarijo notranje vejice.",
+      "left": {
+        "label": "Osebek",
+        "example": "Maja je poslala osnutek.",
+        "text": "Maja je vključena v osnovno stavčno zgradbo."
+      },
+      "right": {
+        "label": "Nagovor",
+        "example": "Maja, pošljite osnutek.",
+        "text": "Nagovor omejimo; osebek velelnika je neizraženi vi."
+      },
+      "takeaway": "Pomenska istovetnost ne izenači slovničnih funkcij."
+    },
+    {
+      "id": "c7-08",
+      "section": "7.6",
+      "kind": "table",
+      "title": "Pridevniški del lahko opravlja štiri vloge",
+      "source_sections": [
+        "7.6"
+      ],
+      "refs": [
+        "Toporišič 2004: 632–634",
+        "SP 2001: § 333–337"
+      ],
+      "notes": "Tabela poveže obliko s funkcijo in pripravi razlago polstavka. Pri povedkovem določilu glagol biti brez vsebinskega dopolnila ne ohrani istega pomena. Pri povedkovem prilastku pa odhod ostane samostojno dejanje, jeza je dodatno stanje ob njem. Zadnja vrstica izpostavi razširjeni desni opis urednika. Upoštevamo besednovrstni model iz prejšnjega poglavja; predikativna raba ni isto kot besedna vrsta povedek. Študenti naj za vsako vrstico povedo, kaj pridevniški del določa.",
+      "headers": [
+        "Poved",
+        "Funkcija"
+      ],
+      "rows": [
+        [
+          "Jezen urednik je odšel.",
+          "Levi prilastek."
+        ],
+        [
+          "Urednik je jezen.",
+          "Povedkovo določilo."
+        ],
+        [
+          "Urednik je odšel jezen.",
+          "Povedkov prilastek."
+        ],
+        [
+          "Urednik, jezen zaradi zamude, je odšel.",
+          "Desni polstavčni prilastek."
+        ]
+      ],
+      "takeaway": "Neosebna oblika sama še ne določi njene vključitve v poved."
+    },
+    {
+      "id": "c7-09",
+      "section": "7.6",
+      "kind": "table",
+      "title": "Neosebno jedro ne pomeni vedno vejice",
+      "source_sections": [
+        "7.6"
+      ],
+      "refs": [
+        "Toporišič 2004: 399–400, 632–634",
+        "SP 2001: § 333–337"
+      ],
+      "notes": "Toporišič polstavek opredeljuje po neosebnem jedru, vendar posebej razpravlja o razvitosti in vključenosti takih zgradb. Tabela pokaže, da nedoločnik lahko dopolnjuje naklonski povedek ali zaseda mesto osebka, namenilnik pa izraža cilj premikanja. Namenilniške razširitve so v slovnici tudi obravnavane med polstavčnimi tvorbami, a niso zato ločene z vejico. V zadnji vrstici je desni deležniški opis drugače vključen. Od oznake oblike zato vedno preidemo k konkretni skladenjski funkciji.",
+      "headers": [
+        "Zgled",
+        "Vloga neosebne zveze"
+      ],
+      "rows": [
+        [
+          "Urednica mora prebrati rokopis.",
+          "Del naklonskega povedka."
+        ],
+        [
+          "Prebrati rokopis je njena naloga.",
+          "Osebek."
+        ],
+        [
+          "Urednica je odšla prebrat rokopis.",
+          "Namenilnik ob premikanju."
+        ],
+        [
+          "Rokopis, prebran že prejšnji teden, je čakal na odgovor.",
+          "Desni polstavčni prilastek."
+        ]
+      ],
+      "takeaway": "Formula polstavek = vejica ne pojasni vseh zgradb."
+    },
+    {
+      "id": "c7-10",
+      "section": "7.6",
+      "kind": "contrast",
+      "title": "Deležijski polstavek in vključeno prislovno določilo",
+      "source_sections": [
+        "7.6"
+      ],
+      "refs": [
+        "SP 2001: § 333–336",
+        "Toporišič 2004: 632–634"
+      ],
+      "notes": "Razširjeno deležijsko zvezo razvežemo v Medtem ko je razmišljal o popravkih, je urednik zaprl računalnik. Razvezava pomaga ugotoviti spremljajoče dogajanje. Molče pa v drugem primeru deluje kot načinovno določilo. Vejice zato ne dodamo le zaradi zgodovinske povezave z glagolom. Dodatno primerjamo Ogledali smo si hišo, oprto v hrib in Ogledali smo si v hrib oprto hišo: položaj razširjenega prilastka glede na odnosnico spremeni ločilno podobo.",
+      "left": {
+        "label": "Spremljajoče dogajanje",
+        "example": "Razmišljajoč o popravkih, je urednik zaprl računalnik.",
+        "text": "Razširjeni deležijski polstavek po SP 2001 ločimo z vejico."
+      },
+      "right": {
+        "label": "Načinovno določilo",
+        "example": "Molče je odšel.",
+        "text": "Prislovna raba je vključena brez vejice."
+      },
+      "takeaway": "Preverimo razvitost, funkcijo in odnos do preostale povedi."
+    },
+    {
+      "id": "c7-11",
+      "section": "7.6",
+      "kind": "contrast",
+      "title": "Vejica ne popravi napačnega nosilca dejanja",
+      "source_sections": [
+        "7.6"
+      ],
+      "refs": [
+        "Toporišič 2004: 632–634",
+        "SP 2001: § 333–337"
+      ],
+      "notes": "V levem zgledu slovnična povezava zapiranje računalnika pripiše telefonu. Več ali drugače postavljene vejice tega ne rešijo. Razvita časovna zgradba jasno razloči nosilca dejanj: urednik zapira, telefon zazvoni. Nato opozorimo na meje pretvorbe: iz Urednik je odšel jezen ne sledi nujno Ker je bil jezen, je odšel, saj bi s ker izrecno dodali vzročnost. Pri razvezavi preverimo, ali smo ohranili nosilce, čas in vrsto razmerja.",
+      "left": {
+        "label": "Napačno nanašanje",
+        "example": "Zapirajoč računalnik, je zazvonil telefon.",
+        "text": "Zapiranje bi pripisali telefonu."
+      },
+      "right": {
+        "label": "Razločena nosilca",
+        "example": "Ko je urednik zapiral računalnik, je zazvonil telefon.",
+        "text": "Časovni odvisnik izrecno poimenuje urednika."
+      },
+      "takeaway": "Pred ločili preverimo, kdo opravlja posamezno dejanje."
+    },
+    {
+      "id": "c7-12",
+      "section": "7.6",
+      "kind": "contrast",
+      "title": "Stisnjeni v kot: dve različni vključitvi",
+      "source_sections": [
+        "7.6"
+      ],
+      "refs": [
+        "Jezikovna svetovalnica 2026: Vejica na meji med skladenjsko raznorodnimi enotami",
+        "SP 2001: § 333–337",
+        "Pravopis 8.0, predlog 22. 6. 2026: Ločila {55}, PDF 84"
+      ],
+      "notes": "Svetovalnična razlaga iz gradiva 2026 razlikuje vključeni povedkov prilastek od osamosvojene polstavčne zgradbe. Obeh zapisov ne predstavimo kot naključno menjavo vejice, temveč pojasnimo analizo. Ločeno opozorimo na predlog P8: njegov člen 55 opisuje opuščanje vejice ob začetnih deležijskih polstavkih v sodobni rabi. To je predlog in govori o deležijskih zgradbah; ne uporabimo ga brez razlike za vse začetne pridevniške zveze. Pri odgovoru po SP 2001 ostane odločilna konkretna vključitev.",
+      "left": {
+        "label": "Vključeni povedkov prilastek",
+        "example": "Stisnjeni v kot so se odločili, da popustijo.",
+        "text": "Začetna zveza ostane tesno vključena."
+      },
+      "right": {
+        "label": "Osamosvojena polstavčna zgradba",
+        "example": "Stisnjeni v kot, so se odločili, da popustijo.",
+        "text": "Začetno vsebino dodatno razmejimo."
+      },
+      "takeaway": "To pridevniško razliko ločimo od predloga P8 o začetnih deležijskih polstavkih."
+    },
+    {
+      "id": "c7-13",
+      "section": "7.7",
+      "kind": "table",
+      "title": "Položaj spremnega stavka določa zapis premega govora",
+      "source_sections": [
+        "7.7"
+      ],
+      "refs": [
+        "SP 2001: § 460"
+      ],
+      "notes": "Pri vsaki vrstici označimo dobesedni navedek in spremni stavek. Spremni stavek pred navedkom napove izjavo z dvopičjem. Kadar sledi pripovednemu navedku, pika postane vejica pred desnim narekovajem; spremni stavek se začne z malo začetnico. Vprašaj in klicaj ostaneta, dodatne vejice za narekovajem ne dodamo. Pri vmesnem spremnem stavku preverimo, ali se ista citirana poved nadaljuje. To razmejitev potrebujemo pozneje pri vključevanju samo dela citata v drugo poved.",
+      "headers": [
+        "Spremni stavek",
+        "Zapis"
+      ],
+      "rows": [
+        [
+          "Pred navedkom",
+          "Maja je rekla: »Osnutek oddam jutri.«"
+        ],
+        [
+          "Za navedkom",
+          "»Osnutek oddam jutri,« je rekla Maja."
+        ],
+        [
+          "Sredi navedka",
+          "»Osnutek,« je rekla Maja, »oddam jutri.«"
+        ],
+        [
+          "Za vprašanjem",
+          "»Kdaj oddate osnutek?« je vprašala Maja."
+        ]
+      ],
+      "takeaway": "Navedek in spremni stavek imata določeni meji in medsebojno razmerje."
+    },
+    {
+      "id": "c7-14",
+      "section": "7.7",
+      "kind": "contrast",
+      "title": "Poročanje prestavi osebo, čas in kraj",
+      "source_sections": [
+        "7.7"
+      ],
+      "refs": [
+        "Toporišič 2004: 657–658"
+      ],
+      "notes": "Izrecno določimo oba govorna položaja. V ponedeljek Maja govori Ani v Ljubljani. V torek dopoldne je Nika v Kopru in o izjavi poroča Roku. Bom postane bo, ti se nanaša na Ano in postane ji, jutri postane danes, tukaj pa nadomestimo z Ljubljano. Prihodnjik lahko ostane, ker naj bi se izročitev zgodila pozneje tisti dan. Ne uporabljamo samodejnega premika vseh časov; ohranjamo časovno vsebino glede na trenutek poročanja.",
+      "left": {
+        "label": "Ponedeljek v Ljubljani",
+        "example": "»Jutri ti bom tukaj izročila osnutek.«",
+        "text": "Maja govori Ani."
+      },
+      "right": {
+        "label": "Torek v Kopru",
+        "example": "Maja je včeraj Ani povedala, da ji bo danes v Ljubljani izročila osnutek.",
+        "text": "Nika poroča Roku."
+      },
+      "takeaway": "Besede prilagodimo, da ohranimo isti nanos in časovno razmerje."
+    },
+    {
+      "id": "c7-15",
+      "section": "7.7",
+      "kind": "contrast",
+      "title": "Sprememba naklona ne dovoljuje spremembe namena",
+      "source_sections": [
+        "7.7"
+      ],
+      "refs": [
+        "Toporišič 2004: 657–658"
+      ],
+      "notes": "Velelno obliko prenesemo v zgradbo z naj. Ana, ki je bila lahko nagovorjena, je v spremnem stavku izražena kot naslovnica glagola govorjenja. Zaimek ji se mora še vedno nanašati na Majo. Namenoma ohranimo nevtralni rekla: če bi prvotno prošnjo preimenovali v ukaz, bi dodali interpretacijo. Toporišič zato pri pretvarjanju poleg osebe, kraja in časa obravnava tudi skladenjski naklon, nagovore, členke in medmete. Poročanje ni zgolj odstranjevanje narekovajev.",
+      "left": {
+        "label": "Neposredna izjava",
+        "example": "»Pošlji mi pripombe,« je Maja rekla Ani.",
+        "text": "Velelna oblika pošlji; mi označuje Majo."
+      },
+      "right": {
+        "label": "Odvisni govor",
+        "example": "Maja je Ani rekla, naj ji pošlje pripombe.",
+        "text": "Zgradba z naj; naslovnica je Ani."
+      },
+      "takeaway": "Izbor spremnega glagola lahko spremeni interpretacijo govornega dejanja."
+    },
+    {
+      "id": "c7-16",
+      "section": "7.8",
+      "kind": "contrast",
+      "title": "Narekovaji lahko omejujejo stavčni člen",
+      "source_sections": [
+        "7.8"
+      ],
+      "refs": [
+        "SP 2001: § 357, 460",
+        "Jezikovna svetovalnica: Povedkovo določilo znotraj narekovajev in vprašanje vejice, dvopičja, začetnice …"
+      ],
+      "notes": "V prvem primeru je citirana besedna zveza predmet, v drugem pa citirana poved nastopa kot osebek okvirne povedi. Del je geslo uredništva ni spremni stavek, zato pred njim ne postavimo vejice samo zaradi narekovaja. Pri citirani povedi ohranimo njeno začetnico, končne pike pa praviloma ne prenašamo v sredino okvirne zgradbe. Študenti naj najprej opišejo slovnično mesto navedka in šele nato primerjajo zapis s premim govorom.",
+      "left": {
+        "label": "Navedek kot predmet",
+        "example": "Uredništvo zahteva »natančno preverjanje virov«.",
+        "text": "Navedena zveza dopolnjuje glagol zahteva."
+      },
+      "right": {
+        "label": "Navedek kot osebek",
+        "example": "»Vedno preverimo vir« je geslo uredništva.",
+        "text": "Med osebkom in povedkom ni dodatne vejice."
+      },
+      "takeaway": "Oblika narekovajev sama ne pove, ali imamo premi govor."
+    },
+    {
+      "id": "c7-17",
+      "section": "7.9",
+      "kind": "contrast",
+      "title": "Včasih moramo razmejiti dve zgradbi",
+      "source_sections": [
+        "7.9"
+      ],
+      "refs": [
+        "Jezikovna svetovalnica: Manj tipični primeri zapisa premega govora: ločila"
+      ],
+      "notes": "Zgled združuje povedkovo določilo v delnem navedku, novo citirano poved in spremni stavek. Prestavljanje ene končne vejice ne razreši te zgradbe. Desna rešitev ohrani oba citirana dela ter govorko, vendar jasno razmeji prvo okvirno poved od premega govora. Če bi želeli oba dela združiti v eno citirano poved, bi morali preveriti izvirnik in upravičenost vsebinskega posega. Uredniško popravljanje mora ohraniti razliko med natančnim navajanjem in našim preoblikovanjem.",
+      "left": {
+        "label": "Prepleteni zgradbi",
+        "example": "Njena želja je »odpreti razstavo. Vse je že pripravljeno,« je povedala avtorica.",
+        "text": "Delni navedek preide v novo poved s pripisom govorki."
+      },
+      "right": {
+        "label": "Razmejeni povedi",
+        "example": "Njena želja je »odpreti razstavo«. »Vse je že pripravljeno,« je povedala avtorica.",
+        "text": "Ohranimo citirana dela in podatek o govorki."
+      },
+      "takeaway": "Ločilo ne more nadomestiti manjkajoče skladenjske razmejitve."
+    }
+  ],
+  "wrap": {
+    "points": [
+      "Možnost izpusta sama ne določa vrste dodatka.",
+      "Ločila sledijo funkciji in stopnji vključenosti.",
+      "Poročanje in citiranje zahtevata pomensko zvestobo."
+    ],
+    "bridge": "V sklepnem poglavju te postopke združimo v celovit jezikovni nasvet in redakcijo besedila.",
+    "reading": "Toporišič 2004: 399–400, 632–634, 653–659; SP 2001: § 297–303, 333–347, 357, 390–392, 460."
+  },
+  "display_title": "Vrinjeno, pristavljeno, citirano"
+}

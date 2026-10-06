@@ -1,0 +1,589 @@
+{
+  "chapter": 3,
+  "title": "Beseda ali besedna zveza: kako zgradba vpliva na zapis?",
+  "short_title": "Beseda in besedna zveza",
+  "question": "Kako iz pomena in tvorbene zgradbe utemeljimo zapis?",
+  "outcomes": [
+    "Ločim morfemsko sestavo, tvorbeno razmerje in pregibanje.",
+    "Razložim SPo, BPo in celotno obrazilo izbrane stopnje.",
+    "Utemeljim zapis ter navedem teoretični in normativni okvir."
+  ],
+  "slides": [
+    {
+      "id": "c3-01",
+      "section": "3.1",
+      "kind": "contrast",
+      "title": "Nova oblika ali novo poimenovanje?",
+      "source_sections": [
+        "3.1"
+      ],
+      "refs": [
+        "Vidovič Muha 2011: 20, 23–25, 106"
+      ],
+      "notes": "Najprej primerjamo namen obeh sprememb. Pri hiše je leksem isti, oblika pa se lahko vključi v drugačno skladenjsko okolje. Pri hišici dobimo nov leksem z možnostjo izražanja majhnosti ali naklonjenosti. Poudarimo, da dolžina ni merilo: učiteljevima je pregibna oblika pridevnika učiteljev. Besedotvorje tudi ni edina pot do poimenovanja; prejšnje poglavje je obravnavalo pomenske prenose in večbesedne lekseme. Tvorjenost bomo ugotavljali iz dokazljivega razmerja, ne iz podobnosti zapisa.",
+      "left": {
+        "label": "Pregibanje",
+        "example": "hiša → hiše",
+        "text": "Isti leksem dobi drugo slovnično obliko."
+      },
+      "right": {
+        "label": "Besedotvorje",
+        "example": "hiša → hišica",
+        "text": "Nastane nov leksem; dodan je lahko pomen majhnosti ali naklonjenosti."
+      },
+      "takeaway": "Razvrščamo funkcijo spremembe, ne dolžine rezultata."
+    },
+    {
+      "id": "c3-02",
+      "section": "3.2",
+      "kind": "concept",
+      "title": "Ista beseda, dve ravni členitve",
+      "source_sections": [
+        "3.2"
+      ],
+      "refs": [
+        "Vidovič Muha 2011: 24–27, 98–99, 108–110, 331–332"
+      ],
+      "notes": "Morfem opredelimo kot najmanjšo enoto s pomensko ali slovnično vlogo, morf kot njegovo konkretno izrazno uresničitev. Ob roka in ročica pokažemo alomorfijo rok-/roč-. Nato razložimo prikazani členitvi: priponsko obrazilo v slovarski obliki vključuje tudi končnico, zato hiš-ica ne zanika členitve hiš-ic-a. Dodamo razliko med ničto končnico v korak-∅ : korak-a in ničtim obrazilom samostalnika lov glede na loviti. Analitični vezaji označujejo meje v razlagi; v običajni povedi ostane hišica brez vezajev.",
+      "lead": "Morfemska in besedotvorna členitev odgovarjata na različni vprašanji.",
+      "blocks": [
+        {
+          "label": "Morfemska sestava",
+          "text": "hiš-ic-a: koren + besedotvorni morfem + končnica."
+        },
+        {
+          "label": "Tvorbeno razmerje",
+          "text": "hiš-ica: besedotvorna podstava + obrazilo."
+        },
+        {
+          "label": "Osnova pri pregibanju",
+          "text": "hišic-a → hišic-e: osnova hišic- vsebuje več morfemov."
+        }
+      ],
+      "takeaway": "Pred členitvijo povejmo, katero raven analiziramo."
+    },
+    {
+      "id": "c3-03",
+      "section": "3.3",
+      "kind": "process",
+      "title": "Kako iz podstave razložimo besedo lovec?",
+      "source_sections": [
+        "3.3"
+      ],
+      "refs": [
+        "Vidovič Muha 2011: 23–29, 31, 331–332"
+      ],
+      "notes": "Uporabljamo model Ade Vidovič Muha. Skladenjska podstava je opredeljena zveza s pretvorljivimi sestavinami in razmerji; besedotvorna podstava je ohranjeni del tvorjenke. Pri lovcu se jedro tisti in njegovo slovnično razmerje do določila izrazita s priponskim obrazilom. Zveza tisti, ki lovi je kot celota samostalniška zveza, čeprav vsebuje odvisnik. Zato oznaka nestavčna podstava ne prepoveduje odvisnika v njenem določilu. Poudarimo, da ne odstranjujemo naključnih odvečnih besed, temveč pojasnimo njihov pretvorjeni pomen.",
+      "steps": [
+        {
+          "label": "Skladenjska podstava: SPo",
+          "text": "tisti, ki lovi"
+        },
+        {
+          "label": "Besedotvorna podstava: BPo",
+          "text": "lov- ohranja konkretni pomen podstavnega glagola."
+        },
+        {
+          "label": "Obrazilo: O",
+          "text": "-ec izraža zaimensko jedro s slovničnim razmerjem."
+        },
+        {
+          "label": "Tvorjenka",
+          "text": "lov- + -ec → lovec"
+        }
+      ],
+      "takeaway": "V tem modelu je tvorjenka celota BPo in obrazila."
+    },
+    {
+      "id": "c3-04",
+      "section": "3.3",
+      "kind": "contrast",
+      "title": "Sopomenski besedi nimata nujno iste podstave",
+      "source_sections": [
+        "3.3"
+      ],
+      "refs": [
+        "Vidovič Muha 2011: 32, 436"
+      ],
+      "notes": "Obe poimenovanji lahko uporabimo za istega strokovnjaka, vendar njuna tvorbena razčlenitev ni enaka. Razlaga zdravnik za zobe pri zobozdravniku preslika obe polnopomenski sestavini. Pri zobarju korenskega dela za zdravnik ni, zato mora biti jedro tvorbenega opisa splošnejše. Podobno pri pečarju ne dodamo glagola izdelovati samo zato, ker je razlaga izdelovalec peči smiselna. Z njo bi v opis vnesli leksikalni pomen brez ustrezne sestavine v tvorjenki. Ločitev pripravlja razlikovanje besedotvornega in slovarskega pomena.",
+      "left": {
+        "label": "zob-o-zdravnik",
+        "example": "zdravnik za zobe",
+        "text": "Obe polnopomenski sestavini se ohranita v besedotvorni podstavi."
+      },
+      "right": {
+        "label": "zob-ar",
+        "example": "tisti, ki je za zobe",
+        "text": "Zaimensko jedro se obrazili; poklicni pomen je konkretnejši slovarski podatek."
+      },
+      "takeaway": "Smiselna slovarska razlaga še ni dokaz skladenjske podstave."
+    },
+    {
+      "id": "c3-05",
+      "section": "3.4",
+      "kind": "contrast",
+      "title": "Enak konec -ec, različna tvorbena vloga",
+      "source_sections": [
+        "3.4"
+      ],
+      "refs": [
+        "Vidovič Muha 2011: 27–38"
+      ],
+      "notes": "Razliko utemeljimo z mestom sestavine, ki se pretvori v obrazilo. Pri lovcu je to jedro, pri bratcu pa odvisni del z vrednotenjskim ali velikostnim pomenom. V drugem zgledu je glede na sobesedilo možna tudi razlaga majhen brat. Navadne izpeljave ne enačimo z zamenjavo besedne vrste: peč in pečar sta oba samostalnika, pa je pečar navadna izpeljanka. Oznaki a1 in c1 sta del prikazanega modela, njuno merilo pa je skladenjska funkcija obraziljene sestavine.",
+      "left": {
+        "label": "a1: navadna izpeljava",
+        "example": "tisti, ki lovi → lov-ec",
+        "text": "V obrazilo se pretvori jedro s slovničnim razmerjem."
+      },
+      "right": {
+        "label": "c1: modifikacijska izpeljava",
+        "example": "ljubek brat → brat-ec",
+        "text": "V obrazilo se pretvori odvisni del s pomenom naklonjenosti."
+      },
+      "takeaway": "Glasovna enakost obrazila ne zagotavlja enakega besedotvornega pomena."
+    },
+    {
+      "id": "c3-06",
+      "section": "3.4",
+      "kind": "table",
+      "title": "Kateri deli tvorijo obrazilo zadnje stopnje?",
+      "source_sections": [
+        "3.4"
+      ],
+      "refs": [
+        "Vidovič Muha 2011: 19, 33–34, 85, 105–110, 442"
+      ],
+      "notes": "Preglednico beremo po vrsticah in obnovimo podstave: tisti, ki je brez doma; tisti, ki hodi po vrvi; zdravnik za zobe. Pri brezdomcu se obrazili tudi predložno in sklonsko razmerje, pri vrvohodcu razmerje po vrvi postane medpona. Pri zobozdravniku polnopomensko jedro zdravnik ostane v podstavi, zato zadnja stopnja nima dodatne pripone za vršilca. Njegov -nik pripada predhodni tvorbi. Vprašamo, zakaj razrez vrv + hodec zabriše del predstavljene pretvorbe. Ne sprašujemo samo, kateri glas je med korenoma.",
+      "headers": [
+        "Tvorjenka in tip",
+        "BPo",
+        "Celotno obrazilo"
+      ],
+      "rows": [
+        [
+          "brez-dom-ec · a2",
+          "-dom-",
+          "brez- … -ec: predponsko-priponsko"
+        ],
+        [
+          "vrv-o-hod-ec · a3",
+          "vrv- … -hod-",
+          "-o- … -ec: medponsko-priponsko"
+        ],
+        [
+          "zob-o-zdravnik · b",
+          "zob- … -zdravnik",
+          "-o-: medponsko"
+        ]
+      ],
+      "takeaway": "Štejemo sestavine obrazila obravnavane stopnje, ne vseh vidnih obrazilnih morfemov."
+    },
+    {
+      "id": "c3-07",
+      "section": "3.4",
+      "kind": "concept",
+      "title": "Sestavljanje in zlaganje loči zgradba podstave",
+      "source_sections": [
+        "3.4"
+      ],
+      "refs": [
+        "Vidovič Muha 2011: 30–31, 34–38, 98, 105–107"
+      ],
+      "notes": "Pri pradomovini se odvisni del nekdanja pretvori v predponsko obrazilo, ohranjena podstava pa izhaja iz ene besede. Pri zobozdravniku sta v podstavi dva korenska dela. Priredni tip č ponovno izpostavi drugačno razmerje: sestavini sta enakovredni, medpona pa izraža priredno povezavo. Opozorimo, da podpredsednik izraža vrstno oziroma hierarhično določitev, ne istega tipa modifikacije kot hišica. Pri brezdomcu položaj predpone ne zadošča za oznako sestavljenka, ker je celotno obrazilo predponsko-priponsko. Zapis slovensk-o-nemški je analitičen; običajno pišemo slovensko-nemški.",
+      "lead": "Odločilni sta vrsta ohranjene podstave in vloga obrazila.",
+      "blocks": [
+        {
+          "label": "c2: sestavljanje",
+          "text": "nekdanja domovina → pra-domovina; predponsko obrazilo."
+        },
+        {
+          "label": "b: podredno zlaganje",
+          "text": "zdravnik za zobe → zob-o-zdravnik; dvokorenska podstava."
+        },
+        {
+          "label": "č: priredno zlaganje",
+          "text": "slovenski in nemški → slovensk-o-nemški; enakovredni sestavini."
+        }
+      ],
+      "takeaway": "Predpona, medpona in pripona so sestavine hierarhično razložljive zgradbe."
+    },
+    {
+      "id": "c3-08",
+      "section": "3.5",
+      "kind": "table",
+      "title": "Kaj poimenujemo: dejanje, nosilca ali okoliščino?",
+      "source_sections": [
+        "3.5"
+      ],
+      "refs": [
+        "Vidovič Muha 2011: 82–89, 97–100"
+      ],
+      "notes": "Ta pregled ni splošna razvrstitev vseh tvorjenk. Nanaša se na propozicijske besedotvorne pomene ustreznih samostalniških tvorjenk tipa a. V drugi vrstici razločimo živega vršilca oziroma nosilca od neživega predmeta, ki opravlja dejanje. Tretja vrstica združi rezultat in sredstvo le zaradi preglednosti projekcije; to sta ločena pomena. Enako velja za mesto in čas v zadnji vrstici. Pri hišici obrazilo izraža modifikacijo, pri zobozdravniku medpona slovnično razmerje. Zato ju ne silimo v prikazanih sedem kategorij.",
+      "headers": [
+        "Sestavina SPo",
+        "Besedotvorni pomen",
+        "Zgled"
+      ],
+      "rows": [
+        [
+          "to, da …",
+          "dejanje, lastnost, stanje",
+          "pisanje; belina"
+        ],
+        [
+          "tisti, ki …",
+          "živi / neživi nosilec",
+          "lovec / nosilec kot predmet"
+        ],
+        [
+          "to, kar … / to, s čimer …",
+          "rezultat / sredstvo",
+          "odredba / cedilo"
+        ],
+        [
+          "tam, kjer … / tedaj, ko …",
+          "mesto / čas",
+          "gostilna / mladost (časovni pomen)"
+        ]
+      ],
+      "takeaway": "Pregled velja za ustrezne tvorjenke tipa a v modelu Vidovič Muha."
+    },
+    {
+      "id": "c3-09",
+      "section": "3.5",
+      "kind": "contrast",
+      "title": "Listavec: tvorbena razlaga in slovarski pomen",
+      "source_sections": [
+        "3.5"
+      ],
+      "refs": [
+        "Vidovič Muha 2011: 100–102, 437–438"
+      ],
+      "notes": "Navežemo se na UPS in RPS iz drugega poglavja. Pri tvorbeni razlagi iščemo preslikavo v sestavine listav- in -ec; slovarska razlaga pa mora dovolj natančno opredeliti poimenovano vrsto. Tudi knjigarna ni poljuben prostor s knjigami: ustaljeni pomen določa prodajalno. Pri pisanju v pomenu dejanja sta si opisa lahko zelo blizu. Nato razločimo še besedotvorni pomen od trenutne stavčne funkcije: v Opazoval sem vrvohodca je vrvohodca predmet, vendar njegova tvorba še vedno poimenuje vršilca hoje po vrvi.",
+      "left": {
+        "label": "Besedotvorni pomen",
+        "example": "listavec ← tisti, ki je listav",
+        "text": "Razlaga mora pojasniti motivacijo in sestavine tvorjenke."
+      },
+      "right": {
+        "label": "Slovarski pomen",
+        "example": "UPS: drevo; RPS: z listi",
+        "text": "Razlaga določi konkretnejšo poimenovano vrsto."
+      },
+      "takeaway": "Besedotvorna zgradba ne napove nujno celotnega ustaljenega pomena."
+    },
+    {
+      "id": "c3-10",
+      "section": "3.6",
+      "kind": "process",
+      "title": "Vsaka tvorbena stopnja ima svojo neposredno podstavo",
+      "source_sections": [
+        "3.6"
+      ],
+      "refs": [
+        "Vidovič Muha 2011: 20, 103–106"
+      ],
+      "notes": "V prikazanem nizu sta dva tvorbena koraka. Pri drugem -ar ni novo obrazilo, ampak že del podstave gozdar-. Primerjamo avtoričin niz peč, pečar, pečarski, pečarskost. Štetje morfemov ni štetje tvorbenih stopenj, sklanjanje pa ne doda naslednje besedotvorne stopnje. Splošno tvorbeno možnost ločimo od ustaljenosti in primernosti novega izraza. Pri demokracija, birokracija ali biologija ponavljajoče se sestavine še ne dokazujejo slovenske SPo. Niza tudi ne razglašamo za dokaz dejanskega zgodovinskega zaporedja nastanka besed.",
+      "steps": [
+        {
+          "label": "Izhodišče",
+          "text": "gozd"
+        },
+        {
+          "label": "Prva tvorbena stopnja",
+          "text": "gozd- + -ar → gozdar"
+        },
+        {
+          "label": "Druga tvorbena stopnja",
+          "text": "gozdar- + -ski → gozdarski"
+        },
+        {
+          "label": "Pregibanje tvorjenke",
+          "text": "gozdarski → gozdarskega: isti leksem, druga oblika."
+        }
+      ],
+      "takeaway": "Obrazilo prejšnje stopnje lahko postane del podstave naslednje."
+    },
+    {
+      "id": "c3-11",
+      "section": "3.7",
+      "kind": "table",
+      "title": "Isti termin v dveh modelih",
+      "source_sections": [
+        "3.7"
+      ],
+      "refs": [
+        "Toporišič 2004: 149–150, 156–160",
+        "Vidovič Muha 2011: 18–21, 25, 28, 33, 97, 111, 331"
+      ],
+      "notes": "Toporišičev algoritem gre od izhodiščne zveze prek izbire obrazila in podstave do ureditve ter glasovne in naglasne prilagoditve. Tudi pri njem najdemo navadno/modifikacijsko izpeljavo in oba glavna podtipa zlaganja; razlik ne napihujemo v trditev, da zgradbe ne opisuje. Ob nebodigatreba pojasnimo drugačno podstavo sklopa. Dodamo kratičnost Evropska unija → EU, ki jo Toporišič uvršča med posebne zloženke. Poenobesedenje prenosni računalnik → prenosnik pa poimenuje odnos med poimenovanjema in ni samodejno še en enakovreden obrazilni postopek.",
+      "headers": [
+        "Kaj opisujemo?",
+        "Vidovič Muha 2011",
+        "Toporišič 2004"
+      ],
+      "rows": [
+        [
+          "Izhodiščno zvezo",
+          "skladenjska podstava",
+          "besedotvorna podstava"
+        ],
+        [
+          "Ohranjeni del tvorjenke",
+          "besedotvorna podstava",
+          "podstava tvorjenke"
+        ],
+        [
+          "Predložno podstavo",
+          "poseben tip a2",
+          "izpeljava: Obsotelje"
+        ],
+        [
+          "Sklapljanje",
+          "obrobje sistemskih pretvorb",
+          "ena štirih osnovnih vrst"
+        ]
+      ],
+      "takeaway": "Pred primerjavo analiz določimo pomen uporabljenih terminov."
+    },
+    {
+      "id": "c3-12",
+      "section": "3.8",
+      "kind": "table",
+      "title": "Nespremenljiva sestavina še ne določi zapisa",
+      "source_sections": [
+        "3.8"
+      ],
+      "refs": [
+        "SP 2001, § 495–500",
+        "Dobrovoljc 2013, dopolnjeno 2026"
+      ],
+      "notes": "Lila v lila krilo ostane nespremenjen pridevniški prilastek. Žal v žal beseda nima iste rabe kot členek v Žal ne morem priti. Preglednica pokaže tri različne pravopisne položaje; dvojnosti ene skupine ne prenesemo na vse podobne začetke. Z ujemanjem preverimo še avtomobil bomba je eksplodiral in avtobomba je eksplodirala. V prvem primeru je jedro avtomobil, v drugem spol zloženke določa drugi del. Jezikoslovna besednost in število pisnih enot se zato ne prekrivata avtomatično.",
+      "headers": [
+        "Zgled po SP 2001",
+        "Kaj upoštevamo?"
+      ],
+      "rows": [
+        [
+          "pešpot; pedenjčlovek; teleobjektiv",
+          "Ustaljene zloženke pišemo skupaj."
+        ],
+        [
+          "minigolf / mini golf",
+          "Pri tej skupini sta dopuščena dva zapisa."
+        ],
+        [
+          "alfažarki / alfa žarki",
+          "Dvojnici; pravila priporočajo žarki alfa."
+        ],
+        [
+          "lila krilo; poceni blago; žal beseda",
+          "Pridevniški prilastek in samostalniško jedro ostaneta ločena."
+        ]
+      ],
+      "takeaway": "Vrsta sestavine, pomen celote in kodifikacija odločajo skupaj."
+    },
+    {
+      "id": "c3-13",
+      "section": "3.9",
+      "kind": "table",
+      "title": "Razvezava mora ohraniti predvideni pomen",
+      "source_sections": [
+        "3.9"
+      ],
+      "refs": [
+        "Lengar Verovnik 2016"
+      ],
+      "notes": "Pri vsaki vrstici najprej obnovimo pomen in poiščemo jedro. Prirednost ni dokazana že s tem, da lahko med besedi vstavimo in: literarna in zgodovinska razprava lahko pomeni nekaj drugega kot razprava o literarni zgodovini. Razliko dodatno pokažemo s športno-turističnim društvom, ki združuje dejavnosti, in športnoturističnim programom, povezanim s športnim turizmom. Vezaj v priredni pridevniški zloženki je stičen. Pri strojno prevedenem ostane prislov samostojen. Preglednica je pomenska opora za zapis, ne nadomestilo celotne formalne SPo.",
+      "headers": [
+        "Izhodiščni pomen",
+        "Razmerje",
+        "Zapis"
+      ],
+      "rows": [
+        [
+          "literarna zgodovina",
+          "podredno",
+          "literarnozgodovinski pregled"
+        ],
+        [
+          "slovenski in italijanski",
+          "priredno",
+          "slovensko-italijanski projekt"
+        ],
+        [
+          "prevedeno strojno",
+          "prislov določa deležnik",
+          "strojno prevedeno besedilo"
+        ],
+        [
+          "nov učbenik za osnovno šolo",
+          "dva pridevniška prilastka",
+          "nov osnovnošolski učbenik"
+        ]
+      ],
+      "takeaway": "Možnost vstavitve in ni dovolj; preverimo pomensko enakovrednost."
+    },
+    {
+      "id": "c3-14",
+      "section": "3.9",
+      "kind": "contrast",
+      "title": "Priredni pomen ne napove vedno istega vezaja",
+      "source_sections": [
+        "3.9"
+      ],
+      "refs": [
+        "SP 2001: kupo-prodajen",
+        "Dobrovoljc 2016"
+      ],
+      "notes": "Primer je namenjen primerjavi normativnih virov. Svetovalnični odgovor izrecno predstavlja prenovo pravila in opozarja na okrnjeno prvo sestavino kupo-, ki ni samostojen pridevnik kot vzgojni. Študent zato ne sme zapisati samo nakup in prodaja, torej nujno vezaj v vseh priročnikih. Novejše priporočilo kupoprodajna pogodba ne pomeni, da je enak zapis že prvotna kodifikacija SP 2001. Pri starem izpitnem navodilu, ki zahteva SP 2001, ohranimo navedeno razliko. Ne ustvarimo dvojnice brez poimenovanega vira.",
+      "left": {
+        "label": "SP 2001",
+        "example": "kupo-prodajen",
+        "text": "Zapis, ki ga upoštevamo pri izrecnem navodilu po SP 2001."
+      },
+      "right": {
+        "label": "Novejša obravnava",
+        "example": "kupoprodajen / kupoprodajni",
+        "text": "Prenova pravila upošteva okrnjeno prvo sestavino kupo-."
+      },
+      "takeaway": "Pomensko razmerje povežemo z obliko sestavin in izbranim normativnim virom."
+    },
+    {
+      "id": "c3-15",
+      "section": "3.10",
+      "kind": "contrast",
+      "title": "Kaj svet obravnava in kakšen svet je?",
+      "source_sections": [
+        "3.10"
+      ],
+      "refs": [
+        "Krvina 2025, december"
+      ],
+      "notes": "Najprej vprašamo, kaj točno poimenujemo. Levo je pridevnik povezan s področjem nacionalne varnosti. Desno sta dva pridevnika in drugačna razlaga: nacionalni svet, namenjen varnosti. Nato zvezi sklanjamo: nacionalnovarnostnega sveta in nacionalnega varnostnega sveta. Tako preverimo, ali je zapisana oblika skladna z razlago. Zapis nacionalno varnostni za prvo razlago ni ustrezen, ker razdruži tvorjenko. Razliki ne pripisujemo samo dolžine, sloga ali poljubnega izbora presledka; izhajamo iz poimenovane ustanove in njenega področja.",
+      "left": {
+        "label": "Področje nacionalne varnosti",
+        "example": "nacionalnovarnostni svet",
+        "text": "Rodilnik: nacionalnovarnostnega sveta."
+      },
+      "right": {
+        "label": "Nacionalni svet za varnost",
+        "example": "nacionalni varnostni svet",
+        "text": "Rodilnik: nacionalnega varnostnega sveta."
+      },
+      "takeaway": "Pomenska analiza določi, ali pregibamo eno tvorjenko ali dva samostojna pridevnika."
+    },
+    {
+      "id": "c3-16",
+      "section": "3.10",
+      "kind": "table",
+      "title": "Tri zgradbe zdravstvenega poimenovanja",
+      "source_sections": [
+        "3.10"
+      ],
+      "refs": [
+        "Krvina 2025, november"
+      ],
+      "notes": "Izhodiščni primer zahteva poimenovanje zdravstvene enote znotraj vojske. To izraža prva vrstica. Druga vrstica pridevnik poveže s področjem vojaškega zdravstva, tretja pa bi izpostavila prirednost vojaške in zdravstvene sestavine. Teh razlik ne ponujamo kot prosto zamenljive pisne variante. Zapis vojaško zdravstvena brez vezaja za izhodiščni pomen ni ustrezen. Če gre za uradno ime, moramo dodatno preveriti dejansko poimenovanje in začetnico; sama besedotvorna analiza ne pove, katero ustanovo ima pisec v mislih.",
+      "headers": [
+        "Zapis",
+        "Pomenska podstava",
+        "Zgradba"
+      ],
+      "rows": [
+        [
+          "vojaška zdravstvena enota",
+          "zdravstvena enota znotraj vojske",
+          "dva ujemalna pridevnika"
+        ],
+        [
+          "vojaškozdravstvena enota",
+          "vojaško zdravstvo",
+          "pridevniška tvorjenka"
+        ],
+        [
+          "vojaško-zdravstvena enota",
+          "vojaška in zdravstvena sestavina",
+          "priredna povezava"
+        ]
+      ],
+      "takeaway": "Presledek, zapis skupaj in vezaj tu izražajo različne analize."
+    },
+    {
+      "id": "c3-17",
+      "section": "3.11",
+      "kind": "table",
+      "title": "Vezaj opravlja več različnih nalog",
+      "source_sections": [
+        "3.11"
+      ],
+      "refs": [
+        "SP 2001, § 419, 496, 521–522, 526",
+        "Dobrovoljc 2015"
+      ],
+      "notes": "Pri prvi vrstici simbol stoji na začetku zloženke, v obrnjenem redu dobimo zvezo brez vezaja: vitamin C, program TV. Zapis format A 4 namerno sledi SP 2001; ne posodobimo ga tiho. Pri številu preberemo celoten izraz: devetdeseta obletnica proti devetdesetletnica. Zapis 90-obletnica napačno združi dve zgradbi. Pri dvo- obnovimo izpuščeni del: dvozložne in večzložne besede. Enako preverimo pred- in pošolska dejavnost. Pri nov in uporaben priročnik skupnega dela nismo izpustili, zato vezaja ne dodamo.",
+      "headers": [
+        "Zgled",
+        "Naloga ali kontrast"
+      ],
+      "rows": [
+        [
+          "C-vitamin; TV-program; A4-format",
+          "Simbolna prva sestavina; nasproti vitamin C, program TV, format A 4."
+        ],
+        [
+          "90. obletnica / 90-letnica",
+          "Vrstilni števnik / tvorjenka; zapis 90-obletnica je neustrezen."
+        ],
+        [
+          "petlitrski / 5-litrski",
+          "Način zapisa prve sestavine vpliva na povezavo."
+        ],
+        [
+          "dvo- in večzložne besede",
+          "Vezaj označuje izpuščeni skupni del -zložne."
+        ]
+      ],
+      "takeaway": "Vsak vezaj pojasnimo z njegovo nalogo v konkretni zgradbi."
+    },
+    {
+      "id": "c3-18",
+      "section": "3.12",
+      "kind": "process",
+      "title": "Pregibanje preveri doslednost naše razlage",
+      "source_sections": [
+        "3.12"
+      ],
+      "refs": [],
+      "notes": "Postopek poveže celotno poglavje. V strojno prevedenega besedila prislov ostane nespremenjen, pri novega osnovnošolskega učbenika pa pregibamo oba pridevnika. Pri literarnozgodovinski imamo eno pridevniško tvorjenko. Tak preizkus ne določi sam pomena, odkrije pa neskladje med razlago in oblikami. Vrne nas tudi k opozorilu o minigolf/mini golf: dovoljena pisna dvojnica še ne pomeni drugačne pomenske zgradbe. Pri novih strokovnih in lastnih poimenovanjih poleg sistemske analize preverimo ustaljeno rabo ter dejansko ime. Naslednje poglavje podrobneje razloži izbiro oblik v povedi.",
+      "steps": [
+        {
+          "label": "Razložimo pomen",
+          "text": "Kaj želimo poimenovati?"
+        },
+        {
+          "label": "Določimo zgradbo",
+          "text": "Ena tvorjenka, dva pridevnika ali prislov z deležnikom?"
+        },
+        {
+          "label": "Primerjamo oblike",
+          "text": "literarnozgodovinskega; novega osnovnošolskega; strojno prevedenega."
+        },
+        {
+          "label": "Preverimo pravilo in rabo",
+          "text": "Dovoljene pisne variante in ustaljena poimenovanja upoštevamo posebej."
+        }
+      ],
+      "takeaway": "Pregibanje je preizkus analize, ne nadomestilo pomenske in pravopisne presoje."
+    }
+  ],
+  "wrap": {
+    "points": [
+      "Skladenjska podstava ni poljubna pomenska razlaga.",
+      "Obrazilo določimo za konkretno tvorbeno stopnjo.",
+      "Tvorbena analiza in pravopisna kodifikacija se dopolnjujeta."
+    ],
+    "bridge": "Besedo, ki jo izberemo ali tvorimo, moramo nato pravilno oblikovati v povedi.",
+    "reading": "Vidovič Muha 2011: 23–38, 82–89, 97–111, 331–335; Toporišič 2004: 149–160."
+  }
+}

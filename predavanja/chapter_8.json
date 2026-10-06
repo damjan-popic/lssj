@@ -1,0 +1,454 @@
+{
+  "chapter": 8,
+  "title": "Od analize do jezikovnega nasveta",
+  "short_title": "Jezikovni nasvet",
+  "question": "Kako napišemo odgovor, ki je uporaben, utemeljen in pomensko zvest?",
+  "outcomes": [
+    "Povežem ravni analize v celovitem uredniškem primeru.",
+    "Preverim, katere podatke pretvorba ohrani, izpusti ali doda.",
+    "Napišem strokovni odgovor za konkretnega naslovnika."
+  ],
+  "slides": [
+    {
+      "id": "c8-01",
+      "section": "8.1",
+      "kind": "concept",
+      "title": "Kaj mora ohraniti dober jezikovni nasvet?",
+      "source_sections": [
+        "8.1"
+      ],
+      "refs": [
+        "Vidovič Muha 2013: 17–18; 2011: 82–85",
+        "Toporišič 2004: 491–492"
+      ],
+      "notes": "Začnimo z vprašanjem: kaj smo do zdaj analizirali ločeno, v besedilu pa nastopa skupaj? Študenti naj navedejo ime, obliko in vejico. Nato usmerimo pozornost k pretvorbi. Preoblikovanje lahko ohrani dogodek, a prikrije vršilca, spremeni gotovost ali premakne sporočilni poudarek. Cilj zadnje enote je uporaben odgovor, katerega kratkost temelji na natančni analizi. Na naslednjih prosojnicah bomo isti postopek uporabili na zaimku, sloganu in dveh celovitih uredniških primerih.",
+      "lead": "Pri posegu sledimo pomenu skozi različne jezikovne oblike.",
+      "blocks": [
+        {
+          "label": "Poimenovanje",
+          "text": "Kaj izraz označuje in kateri udeleženci so predvideni?"
+        },
+        {
+          "label": "Upovedovanje",
+          "text": "Kako so vsebina, čas, naklon in poudarek slovnično izraženi?"
+        },
+        {
+          "label": "Nasvet",
+          "text": "Katero rešitev lahko uporabnik uporabi in kako jo utemeljimo?"
+        }
+      ],
+      "takeaway": "Preverimo pomen, udeležence in razmerja, ki jih popravek ohrani ali spremeni."
+    },
+    {
+      "id": "c8-02",
+      "section": "8.2",
+      "kind": "process",
+      "title": "Najprej določimo pravi problem",
+      "source_sections": [
+        "8.2"
+      ],
+      "refs": [
+        "Skripta 3.0, 8.2"
+      ],
+      "notes": "Primerjajmo uporabnikovo vprašanje in predmet dejanske presoje. Vprašanje o vejici lahko skriva dvoumno navezavo. Predlagana izbira dveh oblik morda ne zajame nameravanega pomena. Koraki niso nepovraten seznam: slovarski sestavek nas lahko vrne k začetni pomenski analizi. Od študentov zahtevajmo, da pred reševanjem označijo točno besedo, zvezo ali mejo, o kateri odločajo.",
+      "steps": [
+        {
+          "label": "1 · Predmet presoje",
+          "text": "Označimo besedo, zvezo ali mejo, o kateri odločamo."
+        },
+        {
+          "label": "2 · Pomen in okoliščine",
+          "text": "Kdo govori, o čem, komu in v kakšnem besedilu?"
+        },
+        {
+          "label": "3 · Relevantna zgradba",
+          "text": "Določimo razmerje, ki je za odgovor odločilno."
+        }
+      ],
+      "takeaway": "Natančno vprašanje usmeri izbiro preizkusa in vira."
+    },
+    {
+      "id": "c8-03",
+      "section": "8.2",
+      "kind": "process",
+      "title": "Od preverjanja do uporabnega odgovora",
+      "source_sections": [
+        "8.2"
+      ],
+      "refs": [
+        "Skripta 3.0, 8.2"
+      ],
+      "notes": "Študenti naj primerjajo strokovni postopek in vrstni red končnega odgovora. Pri delu najprej preverjamo; uporabniku pa navadno najprej podamo uporabno rešitev. Nato pojasnimo odločilni razlog in po potrebi omejimo veljavnost priporočila. Alternativna rešitev potrebuje opredelitev pomena ali okoliščin. Sklic na avtoriteto ni zadosten brez razlage, kako se njeno merilo uporabi na konkretnem primeru.",
+      "steps": [
+        {
+          "label": "4 · Vir in status",
+          "text": "Preverimo konkretni podatek, obseg pravila in različico vira."
+        },
+        {
+          "label": "5 · Rešitev in razlog",
+          "text": "Povemo, kaj naj uporabnik napiše in iz česa rešitev sledi."
+        },
+        {
+          "label": "6 · Alternative",
+          "text": "Pojasnimo pomensko razliko ali namen slogovnega posega."
+        }
+      ],
+      "takeaway": "Odgovor mora biti kratek toliko, kolikor dopušča natančnost."
+    },
+    {
+      "id": "c8-04",
+      "section": "8.3",
+      "kind": "contrast",
+      "title": "»Kaj je notri, šteje.«",
+      "source_sections": [
+        "8.3"
+      ],
+      "refs": [
+        "Gabrovšek 2025, Jezikovna svetovalnica",
+        "Skripta 3.0, 8.3"
+      ],
+      "notes": "Slogan je izpitni primer, pri katerem prepoznava manj običajnega vzorca hitro sproži preoster popravek. Preverimo glagolski pomen in funkcijo začetnega dela. V navedenem svetovalničnem odgovoru je obravnavana možnost utemeljitve z vsebinskim odvisnikom. Različica s kar je mogoča, vendar ne izbriše potrebe po pomenski analizi. Ločeno obravnavajmo razumljivost, oglasni učinek in slovnično sprejemljivost.",
+      "left": {
+        "label": "Slovnična utemeljitev",
+        "example": "Pomembno je, kaj je notri.",
+        "text": "Glagol šteti izraža pomembnost; vsebinski odvisnik je postavljen naprej."
+      },
+      "right": {
+        "label": "Druga možna izbira",
+        "example": "Kar je notri, šteje.",
+        "text": "Sprememba zaimka vpliva na pomenski poudarek; razlago povežemo s sporočilom."
+      },
+      "takeaway": "Manj običajen vrstni red sam po sebi še ni napaka."
+    },
+    {
+      "id": "c8-05",
+      "section": "8.4",
+      "kind": "contrast",
+      "title": "Čigav članek je poslala Maja?",
+      "source_sections": [
+        "8.4"
+      ],
+      "refs": [
+        "Skripta 3.0, 8.4"
+      ],
+      "notes": "Pred razkritjem možnosti prikažimo vprašanje Maja je Nini poslala njen članek. Študenti naj povedo, kateri podatek manjka. Prejemnica je znana, nanosnica svojilnega zaimka pa ni nujno ista oseba v vsakem širšem sobesedilu. Če je članek Majin, pomaga svoj; če ga pripisujemo Nini, lahko uporabimo izrecno poimenovanje. Ne izbirajmo zaimka pred razjasnitvijo pripisanega razmerja.",
+      "left": {
+        "label": "Članek pripisujemo Maji",
+        "example": "Maja je Nini poslala svoj članek.",
+        "text": "Povratnosvojilni zaimek se v tej zgradbi nanaša na osebek."
+      },
+      "right": {
+        "label": "Članek pripisujemo Nini",
+        "example": "Maja je Nini poslala Ninin članek.",
+        "text": "Izrecno poimenovanje odpravi dvoumnost nanašanja njen."
+      },
+      "takeaway": "Zamenjava zaimka lahko spremeni pomen."
+    },
+    {
+      "id": "c8-06",
+      "section": "8.5",
+      "kind": "example",
+      "title": "Celovita redakcija: najprej podatki",
+      "source_sections": [
+        "8.5"
+      ],
+      "refs": [
+        "eP 2025: Guy¹, str. 91–93, predlog",
+        "Skripta 3.0, 8.5"
+      ],
+      "notes": "Pred reševanjem glasno navedemo oba pogoja: avtor piše o literarni zgodovini in ime Guy je francosko, izgovorjeno gi. Izhodiščno besedilo vsebuje namenoma napačne oblike in ločila. Vsak poseg mora imeti svojo utemeljitev. Naj študenti najprej ločijo oblikoslovno, imensko, besedotvorno in skladenjsko odločitev. Na naslednjih dveh prosojnicah se vrnemo k istim podatkom.",
+      "example": "V novemu katalogu predstavljamo Guyove zapiske o literarno zgodovinskih vprašanjih. Urednica je pojasnila da bomo poglavje ki ga je avtor dopolnil objavili v petek, in da bo katalog dostopen vsem študentom.",
+      "steps": [
+        {
+          "label": "Pomen",
+          "text": "Obravnavana je literarna zgodovina."
+        },
+        {
+          "label": "Izgovor",
+          "text": "Guy je v nalogi francosko ime [gi]."
+        },
+        {
+          "label": "Vir",
+          "text": "Pri imenu uporabimo navedeni predlog eP 2025."
+        }
+      ],
+      "takeaway": "Besedilo za popravljanje: ločimo različne vrste posegov."
+    },
+    {
+      "id": "c8-07",
+      "section": "8.5",
+      "kind": "table",
+      "title": "Tri popravke utemeljimo s tremi analizami",
+      "source_sections": [
+        "8.5"
+      ],
+      "refs": [
+        "eP 2025: Guy¹, str. 91–93, predlog",
+        "Skripta 3.0, 8.5"
+      ],
+      "notes": "Vsaka vrstica mora vsebovati povezavo med podatkom iz naloge in popravljeno obliko. Pri mestniku poudarimo ujemanje. Pri Guy razlikujemo govorjeno osnovo in zapis ter status izbranega vira. Pri literarnozgodovinski je odločilna podredna zveza literarna zgodovina. Če bi spremenili izgovor imena ali obravnavano področje, bi morali analizo ponoviti; pravilne rešitve niso seznam nespremenljivih zamenjav.",
+      "headers": [
+        "Rešitev",
+        "Odločilni razlog"
+      ],
+      "rows": [
+        [
+          "v novem katalogu",
+          "Mestnik; pridevnik se ujema s samostalnikom."
+        ],
+        [
+          "Guyjeve zapiske",
+          "[gi] → Guyja → Guyjev; izbrani vir je eP 2025."
+        ],
+        [
+          "literarnozgodovinskih",
+          "Povezanost z literarno zgodovino; podredna podstava."
+        ]
+      ],
+      "takeaway": "Pravilni zapis podprem z ustrezno ravnjo analize."
+    },
+    {
+      "id": "c8-08",
+      "section": "8.5",
+      "kind": "example",
+      "title": "Vejice sledijo obsegu sestavin",
+      "source_sections": [
+        "8.5"
+      ],
+      "refs": [
+        "Skripta 3.0, 8.5"
+      ],
+      "notes": "Najprej naj študenti poiščejo dve vsebini uredničinega pojasnila. Nato znotraj prve določijo odnosnico poglavje in obe meji prilastkovega odvisnika. Posebej preverimo položaj pred in da: notranji odvisnik je tam že končan. Prisotnost odvisnika nekje prej v povedi sama ne zahteva vejice na vsaki nadaljnji priredni meji. Tudi odstranjevanje odvečne vejice potrebuje natančno razlago.",
+      "example": "Urednica je pojasnila, da bomo poglavje, ki ga je avtor dopolnil, objavili v petek in da bo katalog dostopen vsem študentom.",
+      "steps": [
+        {
+          "label": "Zunanja odvisnost",
+          "text": "Dve vsebini dopolnjujeta pojasnila."
+        },
+        {
+          "label": "Notranji odvisnik",
+          "text": "ki ga je avtor dopolnil določa poglavje."
+        },
+        {
+          "label": "Prirednost",
+          "text": "in poveže enakovredni vsebini; notranja meja je že zaprta."
+        }
+      ],
+      "takeaway": "Vejico pojasnimo z mejo konkretne sestavine."
+    },
+    {
+      "id": "c8-09",
+      "section": "8.5",
+      "kind": "concept",
+      "title": "Kaj skriva imenska zgradba?",
+      "source_sections": [
+        "8.5"
+      ],
+      "refs": [
+        "Vidovič Muha 2011: 83–85, 100–101",
+        "Toporišič 2004: 275–276, 491–492"
+      ],
+      "notes": "Pred podrobno analizo določimo dejansko sporočilo. Potrditev in prevajanje sta različni dejanji. Urednica je v izhodišču vršilka potrditve; prevajalec ni naveden. Stanje avtorja želimo dodati kot odmaknjeno pojasnilo. Te predpostavke preprečijo, da bi kasneje pod videzom slogovnega izboljšanja uvedli novega vršilca, drugo dejanje ali vzročno razmerje.",
+      "lead": "Izhodišče za analizo: po uredničini potrditvi prevoda avtor pošlje datoteko založbi.",
+      "blocks": [
+        {
+          "label": "Potrditev",
+          "text": "Urednica potrdi prevod. Kdo ga je prevedel, ni navedeno."
+        },
+        {
+          "label": "Pošiljanje",
+          "text": "Avtor nato pošlje datoteko založbi."
+        },
+        {
+          "label": "Dodatno stanje",
+          "text": "Avtor je utrujen od pogajanj; podatek dodamo kot odmaknjeno pojasnilo."
+        }
+      ],
+      "takeaway": "Pred pretvorbo določimo vsebino in namen vključitve."
+    },
+    {
+      "id": "c8-10",
+      "section": "8.5",
+      "kind": "table",
+      "title": "Tri vsebine, različne slovnične uresničitve",
+      "source_sections": [
+        "8.5"
+      ],
+      "refs": [
+        "Vidovič Muha 2011: 83–85",
+        "Toporišič 2004: 491–492"
+      ],
+      "notes": "Tabela poveže pomensko in skladenjsko analizo. Vprašamo, katera vsebina ima osebni povedek in katera je popredmetena oziroma dodatno prisojena. Rodilnik prevoda dopolnjuje samostalnik potrditev, pri razviti glagolski zvezi pa dobimo tožilnik prevod. Ohranitev udeleženca ne pomeni ohranitve istega sklona. Študent naj zato loči vlogo in obliko.",
+      "headers": [
+        "Vsebina",
+        "Zgradba",
+        "Razmerje"
+      ],
+      "rows": [
+        [
+          "potrditev prevoda",
+          "Izglagolski samostalnik",
+          "Urednica potrdi prevod."
+        ],
+        [
+          "pošiljanje datoteke",
+          "Osebni povedek",
+          "Avtor pošlje datoteko založbi."
+        ],
+        [
+          "utrujenost avtorja",
+          "Dodatna predikacija",
+          "Avtor je utrujen od pogajanj."
+        ]
+      ],
+      "takeaway": "Število osebnih glagolskih oblik ne izčrpa pomenske razčlenitve."
+    },
+    {
+      "id": "c8-11",
+      "section": "8.5",
+      "kind": "example",
+      "title": "Odmaknjeno pojasnilo omejimo",
+      "source_sections": [
+        "8.5"
+      ],
+      "refs": [
+        "SP 2001, §§ 333–337",
+        "Skripta 3.0, 7.6 in 8.5"
+      ],
+      "notes": "Vejici izpeljemo iz komunikacijskega pogoja, ki smo ga navedli dve prosojnici prej. Stanje avtorja je odmaknjeno pojasnilo. Če bi želeli tesno vključeni povedkov prilastek, bi analizirali drugo vključitev. Zato iz možnosti razvitja v stavek ne izpeljujemo avtomatične vejice. Povežimo primer z razliko biti utrujen in vrniti se utrujen iz prejšnjih poglavij.",
+      "example": "Po uredničini potrditvi prevoda je avtor, utrujen od pogajanj, poslal datoteko založbi.",
+      "steps": [
+        {
+          "label": "Časovna navezava",
+          "text": "po potrditvi določa čas pošiljanja."
+        },
+        {
+          "label": "Dodatno stanje",
+          "text": "utrujen od pogajanj opiše avtorja."
+        },
+        {
+          "label": "Obe meji",
+          "text": "Vejici zamejita navedeno odmaknjeno pojasnilo."
+        }
+      ],
+      "takeaway": "Ločilo sledi izbrani vključitvi in pomenu."
+    },
+    {
+      "id": "c8-12",
+      "section": "8.5",
+      "kind": "contrast",
+      "title": "Razvitje olajša preverjanje udeležencev",
+      "source_sections": [
+        "8.5"
+      ],
+      "refs": [
+        "Toporišič 2004: 491–492, 660–663",
+        "Vidovič Muha 2013: 386–389"
+      ],
+      "notes": "Obe različici preberimo v celoti. Daljša poved izrecno pokaže časovni odvisnik in pridevniški opis razvije v prilastkov odvisnik. Vprašamo, kdaj bi bila krajša imenska zveza učinkovitejša: na primer, če je potrditev že znana tema. Dolžina zato ni splošno merilo boljše formulacije. Pomembni so preglednost udeležencev, sporočilna navezava in ohranjeno razmerje dogodkov.",
+      "left": {
+        "label": "Zgoščeno",
+        "example": "Po uredničini potrditvi prevoda je avtor, utrujen od pogajanj, poslal datoteko založbi.",
+        "text": "Imenska zveza je lahko učinkovita navezava na že znano potrditev."
+      },
+      "right": {
+        "label": "Razvito",
+        "example": "Potem ko je urednica potrdila prevod, je avtor, ki je bil utrujen od pogajanj, poslal datoteko založbi.",
+        "text": "Stavčna razmerja izrecneje razkrijejo udeležence in zaporedje."
+      },
+      "takeaway": "Preverimo pomensko zvestobo in členitev po aktualnosti."
+    },
+    {
+      "id": "c8-13",
+      "section": "8.5",
+      "kind": "contrast",
+      "title": "Dva posega, ki spremenita podatke",
+      "source_sections": [
+        "8.5"
+      ],
+      "refs": [
+        "Vidovič Muha 2013: 386–389",
+        "Skripta 3.0, 8.5"
+      ],
+      "notes": "Za obe spremembi zahtevamo konkreten opis izgube ali dodatka. V prvem primeru je uredničin zdaj prilastek prevoda: vršilka potrditve ni več imenovana na isti način. Tudi če prevod povezujemo z urednico, to še ne dokazuje, da ga je sama prevedla. Druga sprememba časovno zaporedje pretvori v izrecni vzrok. Ne zadovoljimo se z oceno, da je poved samo drugače povedana.",
+      "left": {
+        "label": "Premik prilastka",
+        "example": "Po potrditvi uredničinega prevoda …",
+        "text": "Spremeni se razmerje pridevnika do jedra; vršilka potrditve ni več tako izražena."
+      },
+      "right": {
+        "label": "Dodani vzrok",
+        "example": "Ker je urednica potrdila prevod, je avtor …",
+        "text": "Časovno zaporedje postane izrecna vzročna trditev."
+      },
+      "takeaway": "Podobna tema še ne zagotavlja enakih trditev."
+    },
+    {
+      "id": "c8-14",
+      "section": "8.6",
+      "kind": "concept",
+      "title": "Kako presodimo kakovost odgovora?",
+      "source_sections": [
+        "8.6"
+      ],
+      "refs": [
+        "Skripta 3.0, 8.6"
+      ],
+      "notes": "Merila so namenjena samopreverjanju, ne uradnemu točkovniku. Pri popravljanju naj študenti označijo, kateri stavek odgovora poda rešitev, kateri razčlenitev in kateri omejitev. Splošno oznako, kot je vejica zaradi odvisnika, izboljšamo z odnosnico in obema mejama. Enako pri besedotvorju ni dovolj imenovati vrste; pokazati je treba pretvorbo.",
+      "lead": "Prepričljiv odgovor vsebuje rešitev, prikaz analize in opredelitev njenega dosega.",
+      "blocks": [
+        {
+          "label": "Diagnoza in dokaz",
+          "text": "Pokažem prav tisto razmerje, iz katerega sledi rešitev."
+        },
+        {
+          "label": "Zvestoba in model",
+          "text": "Ohranim podatke ter dosledno uporabim navedena merila."
+        },
+        {
+          "label": "Vir in naslovnik",
+          "text": "Navedem ustrezen vir; uporabnik ve, kaj naj napiše in zakaj."
+        }
+      ],
+      "takeaway": "Pravilna rešitev z napačnim razlogom ostaja nepopoln odgovor."
+    },
+    {
+      "id": "c8-15",
+      "section": "8.6",
+      "kind": "concept",
+      "title": "Alternativno analizo je treba utemeljiti",
+      "source_sections": [
+        "8.6"
+      ],
+      "refs": [
+        "Skripta 3.0, 8.6"
+      ],
+      "notes": "Vrnimo se k povedkovniku, snovnim pridevnikom in besedotvorni podstavi. Kadar je teorija določena, najprej pokažemo rešitev v njej. Primerjava z drugo teorijo je dodatna argumentacija, ne dovoljenje za poljubno mešanje terminov. Kadar model ni določen, lahko sprejmemo več doslednih analiz istih podatkov. Ločeno vprašanje je kodifikacija: dve teoretični razvrstitvi ne ustvarita samodejno dveh pravopisnih rešitev.",
+      "lead": "Razlika v merilu je lahko utemeljena; mešanje meril mora biti prepoznano.",
+      "blocks": [
+        {
+          "label": "Določen model",
+          "text": "Najprej pokažem rešitev v zahtevani teoriji."
+        },
+        {
+          "label": "Primerjava modelov",
+          "text": "Poimenujem razliko v merilu in pokažem posledico pri zgledu."
+        },
+        {
+          "label": "Normativni sklep",
+          "text": "Posebej preverim, koliko zapisov dopušča izbrani pravopisni vir."
+        }
+      ],
+      "takeaway": "Število analiz in število dopustnih zapisov sta različni vprašanji."
+    }
+  ],
+  "wrap": {
+    "points": [
+      "Rešitev izpeljem iz analize konkretnega primera.",
+      "Pri pretvorbi ohranim udeležence in razmerja.",
+      "Navedem merilo, vir in mejo svojega sklepa."
+    ],
+    "bridge": "Za samostojno pripravo spremenite en podatek v zgledu in preverite, ali prejšnja rešitev še velja.",
+    "reading": "Toporišič 2004: 491–492; Vidovič Muha 2011: 100–103; 2013: 17–18, 386–389."
+  }
+}
