@@ -1,7 +1,5 @@
 # Leksika in slovnica slovenskega jezika
 
-## Skripta: od poimenovanja in zgradbe do utemeljenega jezikovnega nasveta
-
 **Študijsko gradivo · teoretično poglobljena različica 3.0 · 6. oktober 2026**
 
 Ko popravljamo *v novemu poročilu* v *v novem poročilu*, spremenimo eno črko. Ko izberemo med *sodoben* in *sodobni ples*, je razlika prav tako kratka. Ko v dolgi povedi izbrišemo vejico pred *in*, izgine eno samo znamenje. Toda te tri odločitve temeljijo na različnih ugotovitvah: prvič določimo sklon, drugič pomen pridevniške zveze, tretjič razmerje med deli povedi. Majhen popravek je lahko rezultat precej natančne analize.
